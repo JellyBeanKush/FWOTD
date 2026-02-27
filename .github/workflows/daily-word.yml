@@ -1,34 +1,38 @@
 name: Daily Foreign Word
+
 on:
   schedule:
-    - cron: '0 15 * * *' # Runs at 7:00 AM PST / 8:00 AM PDT
-  workflow_dispatch: # Allows you to run it manually for testing
+    # Runs at 15:00 UTC (7:00 AM PST)
+    - cron: '0 15 * * *'
+  workflow_dispatch: # Allows you to trigger it manually from the "Actions" tab
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Required to push history updates back to the repo
     steps:
-      - name: Checkout Repo
-        uses: actions/checkout@v3
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
       - name: Setup Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
           node-version: '20'
+          cache: 'npm'
 
       - name: Install Dependencies
         run: npm install
 
-      - name: Run Script
+      - name: Run Word Generator
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          # The script handles the URL and Thread ID internally now
         run: node generate-daily.mjs
 
-      - name: Commit History
+      - name: Commit and Push Changes
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           git add current-word.txt word-history.json
-          git commit -m "Update word history [skip ci]" || echo "No changes to commit"
+          git commit -m "Update word history: $(date +'%Y-%m-%d')" || echo "No changes to commit"
           git push
