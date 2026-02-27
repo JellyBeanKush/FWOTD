@@ -4,10 +4,12 @@ import fs from 'fs';
 
 const CONFIG = {
     GEMINI_KEY: process.env.GEMINI_API_KEY,
+    // Targeted directly to your thread
     DISCORD_URL: "https://discord.com/api/webhooks/1475400524881854495/A2eo18Vsm-cIA0p9wN-XdB60vMdEcZ5PJ1MOGLD5sRDM1weRLRk_1xWKo5C7ANTzjlH2?thread_id=1476866801286512733",
     SAVE_FILE: 'current-word.txt',
     HISTORY_FILE: 'word-history.json',
-    MODELS: ["gemini-3-flash", "gemini-2.5-flash", "gemini-1.5-flash-latest"]
+    // Using official stable IDs to prevent 404 errors
+    MODELS: ["gemini-2.0-flash", "gemini-1.5-flash", "gemini-1.5-flash-8b"]
 };
 
 const todayFormatted = new Date().toDateString();
@@ -15,6 +17,7 @@ const options = { year: 'numeric', month: 'long', day: 'numeric', timeZone: 'Ame
 const displayDate = new Date().toLocaleDateString('en-US', options);
 
 async function postToDiscord(wordData) {
+    // Show original script only if it differs from the romanized word
     const displayWord = wordData.originalScript && wordData.originalScript !== wordData.word 
         ? `${wordData.word.toUpperCase()} (${wordData.originalScript})`
         : wordData.word.toUpperCase();
@@ -22,7 +25,6 @@ async function postToDiscord(wordData) {
     const discordPayload = {
         embeds: [{
             title: `Foreign Word of the Day - ${displayDate}`,
-            // Layout updated: Word -> Phonetic -> Locale (all tight) -> Definition
             description: `\n\n` +
                          `# ${displayWord}\n` +
                          `${wordData.phonetic} / *${wordData.partOfSpeech}*\n` +
@@ -49,7 +51,11 @@ async function main() {
         } catch (e) { historyData = []; }
     }
 
-    if (historyData.length > 0 && historyData[0].generatedDate === todayFormatted) return;
+    // Prevents duplicate posts on the same day
+    if (historyData.length > 0 && historyData[0].generatedDate === todayFormatted) {
+        console.log("Word already generated for today. Skipping.");
+        return;
+    }
 
     const usedWords = historyData.slice(0, 100).map(h => h.word);
     const genAI = new GoogleGenerativeAI(CONFIG.GEMINI_KEY);
@@ -57,8 +63,8 @@ async function main() {
     const prompt = `Provide a unique "Foreign Word of the Day". 
 Dictionary tone for the definition.
 PHONETICS: Must use "Americanized" phonetic spelling with CAPS for emphasis (e.g., "shuh-NAN-ih-gunz").
-EXAMPLE SENTENCE: Create a natural scenario featuring HoneyBear and JellyBean (a gay couple and Twitch streamers). Use the names. The word must be used contextually.
-CONSTRAINTS: Max 15 words. No "poggers". 
+EXAMPLE SENTENCE: Create a natural scenario featuring HoneyBear and JellyBean (a gay couple and Twitch streamers). Use the names. The word must be used contextually and make sense.
+CONSTRAINTS: Max 15 words. No "poggers" or "pogs". 
 JSON ONLY: {
   "word": "Romanized Word",
   "originalScript": "Native Script (e.g. Kanji/Cyrillic) or same as word if Latin",
@@ -87,11 +93,14 @@ JSON ONLY: {
     }
 
     if (!wordData) return console.error("All models failed.");
+
     wordData.generatedDate = todayFormatted;
     fs.writeFileSync(CONFIG.SAVE_FILE, JSON.stringify(wordData, null, 2));
     historyData.unshift(wordData);
     fs.writeFileSync(CONFIG.HISTORY_FILE, JSON.stringify(historyData, null, 2));
+
     await postToDiscord(wordData);
+    console.log("Post successful!");
 }
 
 main();
