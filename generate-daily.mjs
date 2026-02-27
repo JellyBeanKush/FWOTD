@@ -4,7 +4,6 @@ import fs from 'fs';
 
 const CONFIG = {
     GEMINI_KEY: process.env.GEMINI_API_KEY,
-    // Webhook URL with the Thread ID attached as a parameter
     DISCORD_URL: "https://discord.com/api/webhooks/1475400524881854495/A2eo18Vsm-cIA0p9wN-XdB60vMdEcZ5PJ1MOGLD5sRDM1weRLRk_1xWKo5C7ANTzjlH2?thread_id=1476866801286512733",
     SAVE_FILE: 'current-word.txt',
     HISTORY_FILE: 'word-history.json',
@@ -23,7 +22,14 @@ async function postToDiscord(wordData) {
     const discordPayload = {
         embeds: [{
             title: `Foreign Word of the Day - ${displayDate}`,
-            description: `\n\n**${wordData.locale.toUpperCase()}**\n# ${displayWord}\n${wordData.phonetic} / *${wordData.partOfSpeech}*\n\n**Definition**\n${wordData.definition}\n\n**Example**\n*${wordData.example}*\n\n**[Learn More](${wordData.sourceUrl})**`,
+            // Layout updated: Word -> Phonetic -> Locale (all tight) -> Definition
+            description: `\n\n` +
+                         `# ${displayWord}\n` +
+                         `${wordData.phonetic} / *${wordData.partOfSpeech}*\n` +
+                         `**${wordData.locale.toUpperCase()}**\n\n` +
+                         `**Definition**\n${wordData.definition}\n\n` +
+                         `**Example**\n*${wordData.example}*\n\n` +
+                         `**[Learn More](${wordData.sourceUrl})**`,
             color: 0x9b59b6
         }]
     };
