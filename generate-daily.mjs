@@ -4,7 +4,8 @@ import fs from 'fs';
 
 const CONFIG = {
     GEMINI_KEY: process.env.GEMINI_API_KEY,
-    DISCORD_URL: process.env.DISCORD_WEBHOOK_URL,
+    // Webhook URL with the Thread ID attached as a parameter
+    DISCORD_URL: "https://discord.com/api/webhooks/1475400524881854495/A2eo18Vsm-cIA0p9wN-XdB60vMdEcZ5PJ1MOGLD5sRDM1weRLRk_1xWKo5C7ANTzjlH2?thread_id=1476866801286512733",
     SAVE_FILE: 'current-word.txt',
     HISTORY_FILE: 'word-history.json',
     MODELS: ["gemini-3-flash", "gemini-2.5-flash", "gemini-1.5-flash-latest"]
@@ -15,13 +16,18 @@ const options = { year: 'numeric', month: 'long', day: 'numeric', timeZone: 'Ame
 const displayDate = new Date().toLocaleDateString('en-US', options);
 
 async function postToDiscord(wordData) {
+    const displayWord = wordData.originalScript && wordData.originalScript !== wordData.word 
+        ? `${wordData.word.toUpperCase()} (${wordData.originalScript})`
+        : wordData.word.toUpperCase();
+
     const discordPayload = {
         embeds: [{
             title: `Foreign Word of the Day - ${displayDate}`,
-            description: `\n\n**${wordData.locale.toUpperCase()}**\n# ${wordData.word.toUpperCase()}\n${wordData.phonetic} / *${wordData.partOfSpeech}*\n\n**Definition**\n${wordData.definition}\n\n**Example**\n*${wordData.example}*\n\n**[Learn More](${wordData.sourceUrl})**`,
+            description: `\n\n**${wordData.locale.toUpperCase()}**\n# ${displayWord}\n${wordData.phonetic} / *${wordData.partOfSpeech}*\n\n**Definition**\n${wordData.definition}\n\n**Example**\n*${wordData.example}*\n\n**[Learn More](${wordData.sourceUrl})**`,
             color: 0x9b59b6
         }]
     };
+
     await fetch(CONFIG.DISCORD_URL, { 
         method: 'POST', 
         headers: { 'Content-Type': 'application/json' }, 
@@ -45,15 +51,16 @@ async function main() {
     const prompt = `Provide a unique "Foreign Word of the Day". 
 Dictionary tone for the definition.
 PHONETICS: Must use "Americanized" phonetic spelling with CAPS for emphasis (e.g., "shuh-NAN-ih-gunz").
-EXAMPLE SENTENCE: Create a natural scenario featuring HoneyBear and JellyBean (a gay couple and Twitch streamers). The word must be used in a way that makes sense for the situation. 
-CONSTRAINTS: Max 15 words. No "poggers" or "pogs". Use the names HoneyBear and JellyBean.
+EXAMPLE SENTENCE: Create a natural scenario featuring HoneyBear and JellyBean (a gay couple and Twitch streamers). Use the names. The word must be used contextually.
+CONSTRAINTS: Max 15 words. No "poggers". 
 JSON ONLY: {
-  "word": "WORD",
+  "word": "Romanized Word",
+  "originalScript": "Native Script (e.g. Kanji/Cyrillic) or same as word if Latin",
   "phonetic": "PHONETIC",
   "partOfSpeech": "noun/verb/adj",
   "definition": "Definition",
   "locale": "LOCALE", 
-  "example": "Example",
+  "example": "Example with HoneyBear and JellyBean",
   "sourceUrl": "Wiktionary URL"
 }. DO NOT use: ${usedWords.join(", ")}`;
 
