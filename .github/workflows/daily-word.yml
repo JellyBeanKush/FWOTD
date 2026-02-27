@@ -3,7 +3,7 @@ name: Daily Word of the Day
 on:
   schedule:
     # Runs at 16:00 UTC (9:00 AM PST) every day
-    - cron: '0 16 * * *'
+    - cron: '7 16 * * *'
   workflow_dispatch: # Allows you to run it manually for testing
 
 jobs:
