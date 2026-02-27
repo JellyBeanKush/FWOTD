@@ -53,7 +53,7 @@ async function main() {
     const prompt = `Provide a unique "Foreign Word of the Day". 
     Dictionary tone for the definition.
     PHONETICS: Must use "Americanized" phonetic spelling with CAPS for emphasis (e.g., "shuh-NAN-ih-gunz").
-    EXAMPLE SENTENCE: Must be grounded and streaming-related. Use variety: mention "the streamer," "the fiancé," "the chat," "game lore," or "co-op gameplay." 
+    EXAMPLE SENTENCE: Must be grounded and streaming-related. Use variety: mention "the streamer(s)," "HoneyBear," "JellyBean," "chat," "game lore," or "co-op gameplay." 
     CONSTRAINTS: Max 15 words for the example. No "poggers," "pogs," or cringe-heavy slang. Avoid specific names; use character descriptions only.
     JSON ONLY: {
       "word": "WORD",
