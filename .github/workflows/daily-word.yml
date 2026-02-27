@@ -1,20 +1,22 @@
-name: Generate Daily Word
+name: Daily Word of the Day
 
 on:
   schedule:
-    - cron: '0 12 * * *' # Runs daily at 12:00 UTC
-  workflow_dispatch: # Allows manual trigger
+    # Runs at 16:00 UTC (9:00 AM PST) every day
+    - cron: '0 16 * * *'
+  workflow_dispatch: # Allows you to run it manually for testing
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Crucial: Allows the bot to save files back to your repo
+      contents: write # Needed to push the history file back to the repo
+    
     steps:
-      - name: Checkout repository
+      - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Set up Node.js
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
@@ -26,12 +28,12 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
-        run: node generate-daily.mjs
+        run: node your-script-name.js # Make sure this matches your file name
 
-      - name: Commit and Push changes
+      - name: Commit and push changes
         run: |
-          git config --global user.name "GitHub Action Bot"
+          git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git add current-word.txt word-history.json
-          git commit -m "Update Daily Word and History [skip ci]" || echo "No changes to commit"
+          git add word-history.json current-word.txt
+          git commit -m "Update Word of the Day: $(date)" || echo "No changes to commit"
           git push
