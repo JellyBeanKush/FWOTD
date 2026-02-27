@@ -1,11 +1,11 @@
 {
-  "name": "wotd-bot",
+  "name": "daily-word-of-the-day",
   "version": "1.0.0",
-  "description": "Daily Word of the Day bot for HoneyBearSquish Discord",
-  "main": "generate-daily.mjs",
+  "description": "Automated foreign word of the day for Discord and Stream overlays",
+  "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node generate-daily.mjs"
+    "start": "node index.js"
   },
   "dependencies": {
     "@google/generative-ai": "^0.21.0",
@@ -13,5 +13,7 @@
   },
   "engines": {
     "node": ">=20.0.0"
-  }
+  },
+  "author": "HoneyBearSquish & JellyBeanKush",
+  "license": "MIT"
 }
