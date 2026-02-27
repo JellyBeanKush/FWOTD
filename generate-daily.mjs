@@ -18,14 +18,13 @@ const displayDate = new Date().toLocaleDateString('en-US', options);
 async function postToDiscord(wordData) {
     const discordPayload = {
         embeds: [{
-            title: `Word of the Day - ${displayDate}`,
+            title: `Foreign Word of the Day - ${displayDate}`,
             description: `# ${wordData.word.toUpperCase()}\n` +
-                         `*[${wordData.phonetic}] (${wordData.partOfSpeech})*\n\n` +
-                         `**Definition**\n> ${wordData.definition}\n\n` +
+                         `${wordData.phonetic} / ${wordData.partOfSpeech} / ${wordData.locale}\n\n` +
+                         `**Definition**\n${wordData.definition}\n\n` +
                          `**Example**\n*${wordData.example}*\n\n` +
-                         `[Learn More](${wordData.sourceUrl})`,
-            color: 0x9b59b6,
-            footer: { text: `Locale: ${wordData.locale}` }
+                         `**[Learn More](${wordData.sourceUrl})**`,
+            color: 0x9b59b6
         }]
     };
     await fetch(CONFIG.DISCORD_URL, { 
@@ -50,6 +49,7 @@ async function main() {
     const usedWords = historyData.slice(0, 100).map(h => h.word);
     const genAI = new GoogleGenerativeAI(CONFIG.GEMINI_KEY);
     
+    // Prompt exactly as provided
     const prompt = `Provide a unique "Foreign Word of the Day". 
     Dictionary tone for the definition.
     PHONETICS: Must use "Americanized" phonetic spelling with CAPS for emphasis (e.g., "shuh-NAN-ih-gunz").
