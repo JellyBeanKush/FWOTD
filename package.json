@@ -1,19 +1,11 @@
 {
-  "name": "daily-word-of-the-day",
+  "name": "fwotd",
   "version": "1.0.0",
-  "description": "Automated foreign word of the day for Discord and Stream overlays",
-  "main": "index.js",
   "type": "module",
-  "scripts": {
-    "start": "node index.js"
-  },
+  "description": "Daily Foreign Word of the Day for HoneyBear and JellyBean",
+  "main": "generate-daily.mjs",
   "dependencies": {
     "@google/generative-ai": "^0.21.0",
     "node-fetch": "^3.3.2"
-  },
-  "engines": {
-    "node": ">=20.0.0"
-  },
-  "author": "HoneyBearSquish & JellyBeanKush",
-  "license": "MIT"
+  }
 }
