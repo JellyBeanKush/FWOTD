@@ -1,11 +1,11 @@
 {
-  "word": "Cafuné",
-  "originalScript": "Cafuné",
-  "phonetic": "KAH-foo-NAY",
+  "word": "Komorebi",
+  "originalScript": "木漏れ日",
+  "phonetic": "koh-moh-REH-bee",
   "partOfSpeech": "noun",
-  "definition": "The act of tenderly running fingers through someone's hair.",
-  "locale": "Brazilian Portuguese",
-  "example": "HoneyBear gave JellyBean a soft cafuné during their cozy stream.",
-  "sourceUrl": "https://en.wiktionary.org/wiki/cafun%C3%A9",
-  "generatedDate": "Fri Feb 27 2026"
+  "definition": "Sunlight filtering through tree leaves; the interplay of light and shadow.",
+  "locale": "Japanese",
+  "example": "HoneyBear sighed, \"This komorebi makes our forest stream even more magical, doesn't it, JellyBean?\"",
+  "sourceUrl": "https://en.wiktionary.org/wiki/木漏れ日",
+  "generatedDate": "Sat Feb 28 2026"
 }

@@ -1,5 +1,16 @@
 [
   {
+    "word": "Komorebi",
+    "originalScript": "木漏れ日",
+    "phonetic": "koh-moh-REH-bee",
+    "partOfSpeech": "noun",
+    "definition": "Sunlight filtering through tree leaves; the interplay of light and shadow.",
+    "locale": "Japanese",
+    "example": "HoneyBear sighed, \"This komorebi makes our forest stream even more magical, doesn't it, JellyBean?\"",
+    "sourceUrl": "https://en.wiktionary.org/wiki/木漏れ日",
+    "generatedDate": "Sat Feb 28 2026"
+  },
+  {
     "word": "Cafuné",
     "originalScript": "Cafuné",
     "phonetic": "KAH-foo-NAY",
