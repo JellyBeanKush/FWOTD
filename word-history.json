@@ -1,5 +1,16 @@
 [
   {
+    "word": "Tsundoku",
+    "originalScript": "積ん読",
+    "phonetic": "TSOON-doh-koo",
+    "partOfSpeech": "noun",
+    "definition": "The act of acquiring reading materials but letting them pile up unread.",
+    "locale": "Japanese",
+    "example": "HoneyBear laughed, showing JellyBean his ever-growing *tsundoku* of graphic novels.",
+    "sourceUrl": "https://en.wiktionary.org/wiki/積ん読",
+    "generatedDate": "Sun Mar 01 2026"
+  },
+  {
     "word": "Komorebi",
     "originalScript": "木漏れ日",
     "phonetic": "koh-moh-REH-bee",
