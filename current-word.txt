@@ -1,11 +1,11 @@
 {
-  "word": "Mångata",
-  "originalScript": "Mångata",
-  "phonetic": "MOHN-gah-tah",
+  "word": "Gigil",
+  "originalScript": "Gigil",
+  "phonetic": "GEE-gil",
   "partOfSpeech": "noun",
-  "definition": "The shimmering, road-like reflection of the moon on water.",
-  "locale": "Swedish",
-  "example": "HoneyBear and JellyBean watched the mångata dance on the lake, a perfect end to their stream.",
-  "sourceUrl": "https://en.wiktionary.org/wiki/m%C3%A5ngata",
-  "generatedDate": "Mon Mar 02 2026"
+  "definition": "The overwhelming urge to pinch or squeeze something or someone adorably cute.",
+  "locale": "Tagalog (Philippines)",
+  "example": "HoneyBear felt a burst of *gigil* watching JellyBean struggle to open a jar, finding it incredibly endearing.",
+  "sourceUrl": "https://en.wiktionary.org/wiki/gigil",
+  "generatedDate": "Tue Mar 03 2026"
 }
