@@ -1,11 +1,11 @@
 {
-  "word": "Gigil",
-  "originalScript": "Gigil",
-  "phonetic": "GEE-gil",
+  "word": "Voorpret",
+  "originalScript": "Voorpret",
+  "phonetic": "VOHR-PRET",
   "partOfSpeech": "noun",
-  "definition": "The overwhelming urge to pinch or squeeze something or someone adorably cute.",
-  "locale": "Tagalog (Philippines)",
-  "example": "HoneyBear felt a burst of *gigil* watching JellyBean struggle to open a jar, finding it incredibly endearing.",
-  "sourceUrl": "https://en.wiktionary.org/wiki/gigil",
-  "generatedDate": "Tue Mar 03 2026"
+  "definition": "The joyful anticipation or pleasure experienced before an event or activity.",
+  "locale": "Dutch",
+  "example": "HoneyBear and JellyBean felt intense *voorpret* planning their upcoming stream charity event.",
+  "sourceUrl": "https://en.wiktionary.org/wiki/voorpret",
+  "generatedDate": "Wed Mar 04 2026"
 }
