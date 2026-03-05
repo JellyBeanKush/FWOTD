@@ -1,11 +1,11 @@
 {
-  "word": "Voorpret",
-  "originalScript": "Voorpret",
-  "phonetic": "VOHR-PRET",
+  "word": "Gökotta",
+  "originalScript": "Gökotta",
+  "phonetic": "YUR-koh-TAHT-tah",
   "partOfSpeech": "noun",
-  "definition": "The joyful anticipation or pleasure experienced before an event or activity.",
-  "locale": "Dutch",
-  "example": "HoneyBear and JellyBean felt intense *voorpret* planning their upcoming stream charity event.",
-  "sourceUrl": "https://en.wiktionary.org/wiki/voorpret",
-  "generatedDate": "Wed Mar 04 2026"
+  "definition": "The act of rising early in the morning specifically to hear the first birds sing.",
+  "locale": "Swedish",
+  "example": "HoneyBear and JellyBean, determined to enjoy the spring morning, decided to embrace *gökotta* for a peaceful start.",
+  "sourceUrl": "https://en.wiktionary.org/wiki/g%C3%B6kotta",
+  "generatedDate": "Thu Mar 05 2026"
 }
