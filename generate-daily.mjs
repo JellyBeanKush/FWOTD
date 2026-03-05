@@ -4,115 +4,104 @@ import fs from 'fs';
 
 const CONFIG = {
     GEMINI_KEY: process.env.GEMINI_API_KEY,
-    // Note: I kept your specific Webhook URL and Thread ID
-    DISCORD_URL: "https://discord.com/api/webhooks/1475400524881854495/A2eo18Vsm-cIA0p9wN-XdB60vMdEcZ5PJ1MOGLD5sRDM1weRLRk_1xWKo5C7ANTzjlH2?thread_id=1476866801286512733",
-    SAVE_FILE: 'current-word.txt',
-    HISTORY_FILE: 'word-history.json',
-    // UPDATED: Floating aliases + fallbacks for 2026 reliability
-    MODELS: [
-        "gemini-flash-latest", // Currently points to Gemini 3.1 Flash-Lite
-        "gemini-pro-latest",   // Fallback to 3.1 Pro if Flash is busy
-        "gemini-2.5-flash",    // Reliable secondary
-        "gemini-1.5-flash"     // Safety net
-    ]
+    DISCORD_URL: process.env.DISCORD_WEBHOOK_URL,
+    SAVE_FILE: 'current_horoscope.txt',
+    HISTORY_FILE: 'horoscope_history.json',
+    ID_FILE: 'message_id.txt',
+    MODELS: ["gemini-flash-latest", "gemini-pro-latest", "gemini-2.5-flash", "gemini-1.5-flash"]
 };
 
-const wait = (ms) => new Promise(res => setTimeout(res, ms));
-const todayFormatted = new Date().toDateString();
-const options = { year: 'numeric', month: 'long', day: 'numeric', timeZone: 'America/Los_Angeles' };
-const displayDate = new Date().toLocaleDateString('en-US', options);
+const options = { month: 'long', day: 'numeric', year: 'numeric', timeZone: 'America/Los_Angeles' };
+const todayFormatted = new Date().toLocaleDateString('en-US', options);
 
-async function postToDiscord(wordData) {
-    const displayWord = wordData.originalScript && wordData.originalScript !== wordData.word 
-        ? `${wordData.word.toUpperCase()} (${wordData.originalScript})`
-        : wordData.word.toUpperCase();
+async function updateDiscord(horoscopeData) {
+    const embeds = [{
+        title: `DAILY HOROSCOPE - ${todayFormatted}`,
+        description: `**Current Cosmic Energy:** ${horoscopeData.summary}`,
+        color: 10180886
+    }];
 
-    const discordPayload = {
-        embeds: [{
-            title: `Foreign Word of the Day - ${displayDate}`,
-            description: `\n\n# ${displayWord}\n${wordData.phonetic} / *${wordData.partOfSpeech}*\n**${wordData.locale.toUpperCase()}**\n\n**Definition**\n${wordData.definition}\n\n**Example**\n*${wordData.example}*\n\n**[Learn More](${wordData.sourceUrl})**`,
-            color: 0x9b59b6
-        }]
-    };
+    const groups = [
+        { name: "🔥 FIRE SIGNS", indices: [0, 4, 8] },
+        { name: "⛰️ EARTH SIGNS", indices: [1, 5, 9] },
+        { name: "🌬️ AIR SIGNS", indices: [2, 6, 10] },
+        { name: "💧 WATER SIGNS", indices: [3, 7, 11] }
+    ];
 
-    const response = await fetch(CONFIG.DISCORD_URL, { 
-        method: 'POST', 
-        headers: { 'Content-Type': 'application/json' }, 
-        body: JSON.stringify(discordPayload) 
+    groups.forEach(group => {
+        const groupText = group.indices.map(i => {
+            const s = horoscopeData.signs[i];
+            return `**${s.emoji} ${s.name.toUpperCase()}**\n${s.text}`;
+        }).join('\n\n');
+        embeds.push({ title: group.name, description: groupText, color: 10180886 });
     });
 
-    if (!response.ok) {
-        console.error("Discord Post Failed:", await response.text());
+    let messageId = fs.existsSync(CONFIG.ID_FILE) ? fs.readFileSync(CONFIG.ID_FILE, 'utf8').trim() : null;
+    const urlObj = new URL(CONFIG.DISCORD_URL);
+    const threadId = urlObj.searchParams.get('thread_id');
+    let finalUrl = `${urlObj.origin}${urlObj.pathname}${messageId ? `/messages/${messageId}` : ""}`;
+    
+    const params = new URLSearchParams();
+    if (threadId) params.set('thread_id', threadId);
+    if (!messageId) params.set('wait', 'true');
+
+    const response = await fetch(`${finalUrl}?${params}`, { 
+        method: messageId ? 'PATCH' : 'POST', 
+        headers: { 'Content-Type': 'application/json' }, 
+        body: JSON.stringify({ embeds }) 
+    });
+
+    if (response.ok && !messageId) {
+        const result = await response.json();
+        fs.writeFileSync(CONFIG.ID_FILE, result.id);
     }
 }
 
 async function main() {
-    let historyData = [];
-    if (fs.existsSync(CONFIG.HISTORY_FILE)) {
-        try { historyData = JSON.parse(fs.readFileSync(CONFIG.HISTORY_FILE, 'utf8')); } catch (e) { historyData = []; }
-    }
+    let history = fs.existsSync(CONFIG.HISTORY_FILE) ? JSON.parse(fs.readFileSync(CONFIG.HISTORY_FILE, 'utf8')) : [];
+    if (history.length > 0 && history[0].date === todayFormatted) return;
 
-    if (historyData.length > 0 && historyData[0].generatedDate === todayFormatted) {
-        console.log("Already generated a word for today.");
-        return;
-    }
-
-    const usedWords = historyData.slice(0, 100).map(h => h.word);
     const genAI = new GoogleGenerativeAI(CONFIG.GEMINI_KEY);
-    
-    const prompt = `Provide a unique "Foreign Word of the Day". 
-    Dictionary tone for definition. 
-    PHONETICS: Americanized phonetic spelling, CAPS for emphasis.
-    EXAMPLE SENTENCE: Feature two streamers (a gay couple). One is a high-energy "Honey Bear" type and the other is a "Jelly Bean" type. Use these character descriptions. Contextual/natural.
-    CONSTRAINTS: Max 15 words. No slang like "poggers".
+    const prompt = `Act as a professional astrologer. Analyze planetary transits for ${todayFormatted}. 
     JSON ONLY: {
-      "word": "Word",
-      "originalScript": "Native Script or same as word",
-      "phonetic": "PHONETIC",
-      "partOfSpeech": "noun/verb/adj",
-      "definition": "Definition",
-      "locale": "LOCALE", 
-      "example": "Example featuring the two streamer characters",
-      "sourceUrl": "Wiktionary URL"
-    }. Used words to avoid: ${usedWords.join(", ")}`;
+      "summary": "2-3 sentences on overall energy",
+      "signs": [
+        {"name": "Aries", "emoji": "♈", "text": "Two unique sentences..."},
+        {"name": "Taurus", "emoji": "♉", "text": "Two unique sentences..."},
+        {"name": "Gemini", "emoji": "♊", "text": "Two unique sentences..."},
+        {"name": "Cancer", "emoji": "♋", "text": "Two unique sentences..."},
+        {"name": "Leo", "emoji": "♌", "text": "Two unique sentences..."},
+        {"name": "Virgo", "emoji": "♍", "text": "Two unique sentences..."},
+        {"name": "Libra", "emoji": "♎", "text": "Two sentences..."},
+        {"name": "Scorpio", "emoji": "♏", "text": "Two sentences..."},
+        {"name": "Sagittarius", "emoji": "♐", "text": "Two sentences..."},
+        {"name": "Capricorn", "emoji": "♑", "text": "Two sentences..."},
+        {"name": "Aquarius", "emoji": "♒", "text": "Two sentences..."},
+        {"name": "Pisces", "emoji": "♓", "text": "Two sentences..."}
+      ]
+    }`;
 
     for (const modelName of CONFIG.MODELS) {
         try {
-            console.log(`Attempting: ${modelName}...`);
             const model = genAI.getGenerativeModel({ model: modelName });
             const result = await model.generateContent(prompt);
             const responseText = result.response.text();
-            
-            // Extract JSON from potential markdown wrapping
             const jsonMatch = responseText.match(/\{[\s\S]*\}/);
-            const wordData = JSON.parse(jsonMatch ? jsonMatch[0] : responseText);
-            
-            console.log(`Success with ${modelName}!`);
-            
-            wordData.generatedDate = todayFormatted;
-            
-            // Save files
-            fs.writeFileSync(CONFIG.SAVE_FILE, JSON.stringify(wordData, null, 2));
-            historyData.unshift(wordData);
-            fs.writeFileSync(CONFIG.HISTORY_FILE, JSON.stringify(historyData.slice(0, 100), null, 2));
-            
-            // Post to Discord
-            await postToDiscord(wordData);
-            console.log("Process complete.");
-            return; 
+            const data = JSON.parse(jsonMatch ? jsonMatch[0] : responseText);
+            data.date = todayFormatted;
 
+            fs.writeFileSync(CONFIG.SAVE_FILE, JSON.stringify(data, null, 2));
+            data.signs.forEach(sign => {
+                fs.writeFileSync(`current_${sign.name.toLowerCase()}.txt`, `${sign.emoji} ${sign.name.toUpperCase()} - ${todayFormatted}\n\n${sign.text}`);
+            });
+
+            history.unshift({ date: todayFormatted });
+            fs.writeFileSync(CONFIG.HISTORY_FILE, JSON.stringify(history, null, 2)); // INFINITE
+            await updateDiscord(data);
+            return;
         } catch (err) {
-            console.error(`Failed with ${modelName}: ${err.message}`);
-            if (err.status === 429) {
-                console.log("Rate limited. Waiting 10s before fallback...");
-                await wait(10000);
-            }
-            // Loop continues to next model
+            console.warn(`${modelName} failed, trying next...`);
         }
     }
-
-    console.error("All models failed.");
-    process.exit(1);
 }
-
 main();
