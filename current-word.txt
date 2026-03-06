@@ -1,11 +1,10 @@
 {
-  "word": "Kalsarikännit",
-  "originalScript": "Kalsarikännit",
-  "phonetic": "KAL-sah-ree-KAN-neet",
+  "word": "Meraki",
+  "phonetic": "meh-RAH-kee",
   "partOfSpeech": "noun",
-  "definition": "The Finnish concept of drinking at home, alone, in your underwear (or pajamas), with no intention of going out.",
-  "locale": "Finnish",
-  "example": "After a particularly intense co-op stream, HoneyBear and JellyBean declared it the perfect evening for some kalsarikännit, cozying up in their favorite PJs with snacks and a drink, content in their own space.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Kalsarik%C3%A4nnit",
-  "generatedDate": "Thu Mar 05 2026"
+  "definition": "To do something with soul, creativity, or love; to put 'something of yourself' into your work.",
+  "locale": "GREEK",
+  "example": "HoneyBear and JellyBean applied meraki to their garden, making it the most beautiful in the neighborhood.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Meraki",
+  "generatedDate": "Fri Mar 06 2026"
 }
