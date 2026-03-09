@@ -1,5 +1,15 @@
 [
   {
+    "word": "Shinrinyoku",
+    "phonetic": "shin-rin-YOH-koo",
+    "partOfSpeech": "noun",
+    "definition": "The practice of spending time in a forest environment for health and wellbeing, literally 'forest bathing'.",
+    "locale": "JAPANESE",
+    "example": "HoneyBear and JellyBean found great peace during their shinrinyoku among the ancient, whispering trees.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Forest_bathing",
+    "generatedDate": "Mon Mar 09 2026"
+  },
+  {
     "word": "Ukiyo",
     "phonetic": "oo-KEE-yoh",
     "partOfSpeech": "noun",

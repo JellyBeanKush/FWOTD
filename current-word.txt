@@ -1,10 +1,10 @@
 {
-  "word": "Ukiyo",
-  "phonetic": "oo-KEE-yoh",
+  "word": "Shinrinyoku",
+  "phonetic": "shin-rin-YOH-koo",
   "partOfSpeech": "noun",
-  "definition": "A concept from Edo-period Japan meaning 'the floating world,' referring to a lifestyle focused on enjoying transient pleasures.",
+  "definition": "The practice of spending time in a forest environment for health and wellbeing, literally 'forest bathing'.",
   "locale": "JAPANESE",
-  "example": "HoneyBear and JellyBean enjoyed the vibrant festival, embracing the ukiyo of fleeting beauty and delightful moments.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Ukiyo",
-  "generatedDate": "Sun Mar 08 2026"
+  "example": "HoneyBear and JellyBean found great peace during their shinrinyoku among the ancient, whispering trees.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Forest_bathing",
+  "generatedDate": "Mon Mar 09 2026"
 }
