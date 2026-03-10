@@ -1,10 +1,10 @@
 {
-  "word": "Shinrinyoku",
-  "phonetic": "shin-rin-YOH-koo",
+  "word": "Gluggaveður",
+  "phonetic": "GLOOG-gah-veh-thur",
   "partOfSpeech": "noun",
-  "definition": "The practice of spending time in a forest environment for health and wellbeing, literally 'forest bathing'.",
-  "locale": "JAPANESE",
-  "example": "HoneyBear and JellyBean found great peace during their shinrinyoku among the ancient, whispering trees.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Forest_bathing",
-  "generatedDate": "Mon Mar 09 2026"
+  "definition": "Weather that is pleasant to look at through a window but unpleasant to be out in.",
+  "locale": "ICELANDIC",
+  "example": "HoneyBear and JellyBean enjoyed the gluggaveður, sipping hot cocoa while watching the blizzard outside.",
+  "sourceUrl": "https://en.wiktionary.org/wiki/gluggave%C3%B0ur",
+  "generatedDate": "Tue Mar 10 2026"
 }
