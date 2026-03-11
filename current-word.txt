@@ -1,10 +1,10 @@
 {
-  "word": "Gluggaveður",
-  "phonetic": "GLOOG-gah-veh-thur",
+  "word": "Abbiocco",
+  "phonetic": "ahb-bee-OHK-koh",
   "partOfSpeech": "noun",
-  "definition": "Weather that is pleasant to look at through a window but unpleasant to be out in.",
-  "locale": "ICELANDIC",
-  "example": "HoneyBear and JellyBean enjoyed the gluggaveður, sipping hot cocoa while watching the blizzard outside.",
-  "sourceUrl": "https://en.wiktionary.org/wiki/gluggave%C3%B0ur",
-  "generatedDate": "Tue Mar 10 2026"
+  "definition": "The drowsiness or sleepiness that one feels after a large meal.",
+  "locale": "ITALIAN",
+  "example": "After enjoying a massive lasagna, HoneyBear and JellyBean both succumbed to a pleasant abbiocco, dozing off on the sofa.",
+  "sourceUrl": "https://en.wiktionary.org/wiki/abbiocco",
+  "generatedDate": "Wed Mar 11 2026"
 }
