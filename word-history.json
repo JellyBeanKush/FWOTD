@@ -1,5 +1,15 @@
 [
   {
+    "word": "Ikigai",
+    "phonetic": "ee-kee-GAH-ee",
+    "partOfSpeech": "noun",
+    "definition": "A reason for being; the thing that gets you up in the morning.",
+    "locale": "JAPANESE",
+    "example": "HoneyBear and JellyBean discussed their ikigai, finding joy in their shared passion for baking together.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ikigai",
+    "generatedDate": "Thu Mar 12 2026"
+  },
+  {
     "word": "Abbiocco",
     "phonetic": "ahb-bee-OHK-koh",
     "partOfSpeech": "noun",
