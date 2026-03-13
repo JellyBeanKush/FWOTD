@@ -1,10 +1,10 @@
 {
-  "word": "Ikigai",
-  "phonetic": "ee-kee-GAH-ee",
+  "word": "Wabi-sabi",
+  "phonetic": "wah-bee sah-bee",
   "partOfSpeech": "noun",
-  "definition": "A reason for being; the thing that gets you up in the morning.",
+  "definition": "A worldview centered on the acceptance of transience and imperfection. The aesthetic is sometimes described as one of appreciating beauty that is imperfect, impermanent, and incomplete.",
   "locale": "JAPANESE",
-  "example": "HoneyBear and JellyBean discussed their ikigai, finding joy in their shared passion for baking together.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Ikigai",
-  "generatedDate": "Thu Mar 12 2026"
+  "example": "HoneyBear and JellyBean observed the old, chipped teapot, finding a unique wabi-sabi beauty in its imperfections.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Wabi-sabi",
+  "generatedDate": "Fri Mar 13 2026"
 }
