@@ -1,10 +1,10 @@
 {
-  "word": "Wabi-sabi",
-  "phonetic": "wah-bee sah-bee",
+  "word": "Saudade",
+  "phonetic": "sow-DAH-deh",
   "partOfSpeech": "noun",
-  "definition": "A worldview centered on the acceptance of transience and imperfection. The aesthetic is sometimes described as one of appreciating beauty that is imperfect, impermanent, and incomplete.",
-  "locale": "JAPANESE",
-  "example": "HoneyBear and JellyBean observed the old, chipped teapot, finding a unique wabi-sabi beauty in its imperfections.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Wabi-sabi",
-  "generatedDate": "Fri Mar 13 2026"
+  "definition": "A deep emotional state of nostalgic or profound melancholic longing for an absent something or someone that one loves, often carrying a deep positive meaning.",
+  "locale": "PORTUGUESE",
+  "example": "HoneyBear and JellyBean felt a profound saudade for their childhood home, wishing they could revisit those happy, distant days.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Saudade",
+  "generatedDate": "Sat Mar 14 2026"
 }
