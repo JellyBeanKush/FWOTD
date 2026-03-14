@@ -35,12 +35,13 @@ async function main() {
 
     FORMATTING RULES:
     - No parentheses after the main word.
+    - Use natural language for the definition. 
     - Example for pronunciation: "yuh-KOT-tuh". 
     - Locale: Just the language name (e.g., "SWEDISH"). Do NOT include the word "Origin:".
 
     EXAMPLE SENTENCE RULES:
     - Feature HoneyBear and JellyBean.
-    - Length: Strictly 15 to 20 words total.
+    - Length: Around 15 words total.
     
     JSON ONLY: {
         "word": "WORD", 
