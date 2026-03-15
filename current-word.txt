@@ -1,10 +1,10 @@
 {
-  "word": "Saudade",
-  "phonetic": "sow-DAH-deh",
+  "word": "Kintsugi",
+  "phonetic": "kin-TSOO-gee",
   "partOfSpeech": "noun",
-  "definition": "A deep emotional state of nostalgic or profound melancholic longing for an absent something or someone that one loves, often carrying a deep positive meaning.",
-  "locale": "PORTUGUESE",
-  "example": "HoneyBear and JellyBean felt a profound saudade for their childhood home, wishing they could revisit those happy, distant days.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Saudade",
-  "generatedDate": "Sat Mar 14 2026"
+  "definition": "The Japanese art of repairing broken pottery with lacquer mixed with powdered gold, silver, or platinum, based on the philosophy that breakage and repair are part of the history of an object, rather than something to disguise.",
+  "locale": "JAPANESE",
+  "example": "HoneyBear gently showed JellyBean the Kintsugi bowl, explaining its beautiful philosophy of imperfection.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Kintsugi",
+  "generatedDate": "Sun Mar 15 2026"
 }
