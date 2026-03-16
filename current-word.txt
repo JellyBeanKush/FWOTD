@@ -1,10 +1,10 @@
 {
-  "word": "Kintsugi",
-  "phonetic": "kin-TSOO-gee",
+  "word": "Fernweh",
+  "phonetic": "FEHRN-veh",
   "partOfSpeech": "noun",
-  "definition": "The Japanese art of repairing broken pottery with lacquer mixed with powdered gold, silver, or platinum, based on the philosophy that breakage and repair are part of the history of an object, rather than something to disguise.",
-  "locale": "JAPANESE",
-  "example": "HoneyBear gently showed JellyBean the Kintsugi bowl, explaining its beautiful philosophy of imperfection.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Kintsugi",
-  "generatedDate": "Sun Mar 15 2026"
+  "definition": "A longing for distant places; a strong desire to travel or be somewhere else, often described as the opposite of homesickness.",
+  "locale": "GERMAN",
+  "example": "HoneyBear felt intense Fernweh, wishing JellyBean could join her on an adventure far away.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Fernweh",
+  "generatedDate": "Mon Mar 16 2026"
 }
