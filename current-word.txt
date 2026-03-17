@@ -1,10 +1,10 @@
 {
-  "word": "Fernweh",
-  "phonetic": "FEHRN-veh",
+  "word": "Geborgenheit",
+  "phonetic": "geh-BOR-gen-hite",
   "partOfSpeech": "noun",
-  "definition": "A longing for distant places; a strong desire to travel or be somewhere else, often described as the opposite of homesickness.",
+  "definition": "A deep feeling of security, comfort, and warmth, often associated with being safe in a secure place or with loved ones. It implies a sense of shelteredness, belonging, and peace.",
   "locale": "GERMAN",
-  "example": "HoneyBear felt intense Fernweh, wishing JellyBean could join her on an adventure far away.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Fernweh",
-  "generatedDate": "Mon Mar 16 2026"
+  "example": "HoneyBear and JellyBean felt a deep sense of Geborgenheit nestled by the fireplace, safe from the storm.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/German_language",
+  "generatedDate": "Tue Mar 17 2026"
 }
