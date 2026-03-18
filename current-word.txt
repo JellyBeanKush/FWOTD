@@ -1,10 +1,10 @@
 {
-  "word": "Geborgenheit",
-  "phonetic": "geh-BOR-gen-hite",
+  "word": "Yuugen",
+  "phonetic": "yoo-gen",
   "partOfSpeech": "noun",
-  "definition": "A deep feeling of security, comfort, and warmth, often associated with being safe in a secure place or with loved ones. It implies a sense of shelteredness, belonging, and peace.",
-  "locale": "GERMAN",
-  "example": "HoneyBear and JellyBean felt a deep sense of Geborgenheit nestled by the fireplace, safe from the storm.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/German_language",
-  "generatedDate": "Tue Mar 17 2026"
+  "definition": "A profound, mysterious sense of the beauty of the universe and the sad beauty of human suffering, often felt when witnessing nature's subtle grandeur.",
+  "locale": "JAPANESE",
+  "example": "HoneyBear and JellyBean contemplated the yuugen of the moonlit garden, feeling a quiet wonder.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Y%C5%ABgen",
+  "generatedDate": "Wed Mar 18 2026"
 }
