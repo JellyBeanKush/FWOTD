@@ -1,10 +1,10 @@
 {
-  "word": "Yuugen",
-  "phonetic": "yoo-gen",
-  "partOfSpeech": "noun",
-  "definition": "A profound, mysterious sense of the beauty of the universe and the sad beauty of human suffering, often felt when witnessing nature's subtle grandeur.",
-  "locale": "JAPANESE",
-  "example": "HoneyBear and JellyBean contemplated the yuugen of the moonlit garden, feeling a quiet wonder.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Y%C5%ABgen",
-  "generatedDate": "Wed Mar 18 2026"
+  "word": "Lagom",
+  "phonetic": "LAH-gom",
+  "partOfSpeech": "adjective",
+  "definition": "Not too little, not too much, just right; the perfect amount.",
+  "locale": "SWEDISH",
+  "example": "HoneyBear found the perfect amount of blueberries for JellyBean, feeling the very essence of lagom.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Lagom",
+  "generatedDate": "Thu Mar 19 2026"
 }
