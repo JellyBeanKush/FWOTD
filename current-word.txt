@@ -1,10 +1,10 @@
 {
-  "word": "Gökotta",
-  "phonetic": "YUH-kot-tuh",
+  "word": "Sehnsucht",
+  "phonetic": "ZEHN-zookt",
   "partOfSpeech": "noun",
-  "definition": "The act of waking up early in the morning specifically to go outside and listen to the birdsong.",
-  "locale": "SWEDISH",
-  "example": "HoneyBear and JellyBean practiced gökotta by waking up at dawn to hear the forest birds.",
-  "sourceUrl": "https://en.wiktionary.org/wiki/gökotta",
-  "generatedDate": "Fri Mar 20 2026"
+  "definition": "A deep emotional longing or yearning for something distant, unattainable, or idealized, often with a melancholic quality.",
+  "locale": "GERMAN",
+  "example": "HoneyBear felt a Sehnsucht for faraway lands, a feeling JellyBean understood completely.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Sehnsucht",
+  "generatedDate": "Sat Mar 21 2026"
 }
