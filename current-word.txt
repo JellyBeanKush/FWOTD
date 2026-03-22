@@ -1,10 +1,10 @@
 {
-  "word": "Sehnsucht",
-  "phonetic": "ZEHN-zookt",
+  "word": "Pochemuchka",
+  "phonetic": "poh-cheh-MOOCH-kuh",
   "partOfSpeech": "noun",
-  "definition": "A deep emotional longing or yearning for something distant, unattainable, or idealized, often with a melancholic quality.",
-  "locale": "GERMAN",
-  "example": "HoneyBear felt a Sehnsucht for faraway lands, a feeling JellyBean understood completely.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Sehnsucht",
-  "generatedDate": "Sat Mar 21 2026"
+  "definition": "A person who asks too many questions, often a child, displaying insatiable curiosity.",
+  "locale": "RUSSIAN",
+  "example": "HoneyBear, acting like a true pochemuchka, bombarded JellyBean with questions about the universe.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Pochemuchka",
+  "generatedDate": "Sun Mar 22 2026"
 }
