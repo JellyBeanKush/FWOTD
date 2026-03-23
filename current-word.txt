@@ -1,10 +1,10 @@
 {
-  "word": "Pochemuchka",
-  "phonetic": "poh-cheh-MOOCH-kuh",
+  "word": "Kaizen",
+  "phonetic": "KAI-zen",
   "partOfSpeech": "noun",
-  "definition": "A person who asks too many questions, often a child, displaying insatiable curiosity.",
-  "locale": "RUSSIAN",
-  "example": "HoneyBear, acting like a true pochemuchka, bombarded JellyBean with questions about the universe.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Pochemuchka",
-  "generatedDate": "Sun Mar 22 2026"
+  "definition": "A Japanese philosophy of continuous improvement, particularly in business and personal practices.",
+  "locale": "JAPANESE",
+  "example": "HoneyBear and JellyBean embraced Kaizen, making small, consistent improvements to their teamwork daily.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Kaizen",
+  "generatedDate": "Mon Mar 23 2026"
 }
