@@ -1,5 +1,15 @@
 [
   {
+    "word": "Hyggelig",
+    "phonetic": "hoo-guh-lee",
+    "partOfSpeech": "adjective",
+    "definition": "A quality of coziness and comfortable conviviality that engenders a feeling of contentment or well-being.",
+    "locale": "DANISH",
+    "example": "HoneyBear and JellyBean enjoyed a hyggelig evening by the fire, sipping cocoa and telling stories.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Hygge",
+    "generatedDate": "Tue Mar 24 2026"
+  },
+  {
     "word": "Kaizen",
     "phonetic": "KAI-zen",
     "partOfSpeech": "noun",

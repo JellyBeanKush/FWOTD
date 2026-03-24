@@ -1,10 +1,10 @@
 {
-  "word": "Kaizen",
-  "phonetic": "KAI-zen",
-  "partOfSpeech": "noun",
-  "definition": "A Japanese philosophy of continuous improvement, particularly in business and personal practices.",
-  "locale": "JAPANESE",
-  "example": "HoneyBear and JellyBean embraced Kaizen, making small, consistent improvements to their teamwork daily.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Kaizen",
-  "generatedDate": "Mon Mar 23 2026"
+  "word": "Hyggelig",
+  "phonetic": "hoo-guh-lee",
+  "partOfSpeech": "adjective",
+  "definition": "A quality of coziness and comfortable conviviality that engenders a feeling of contentment or well-being.",
+  "locale": "DANISH",
+  "example": "HoneyBear and JellyBean enjoyed a hyggelig evening by the fire, sipping cocoa and telling stories.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Hygge",
+  "generatedDate": "Tue Mar 24 2026"
 }
