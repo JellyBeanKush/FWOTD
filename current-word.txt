@@ -1,10 +1,10 @@
 {
-  "word": "Waldeinsamkeit",
-  "phonetic": "VAHL-d-ine-zahm-kite",
+  "word": "Torschlusspanik",
+  "phonetic": "TORSH-looss-pah-nik",
   "partOfSpeech": "noun",
-  "definition": "The feeling of solitude and peacefulness when being alone in the forest.",
+  "definition": "The fear of diminishing opportunities as one gets older, often leading to a sense of urgency to make big life changes before it's too late.",
   "locale": "GERMAN",
-  "example": "HoneyBear and JellyBean cherished their Waldeinsamkeit, finding profound peace among the rustling leaves.",
-  "sourceUrl": "https://en.wiktionary.org/wiki/Waldeinsamkeit",
-  "generatedDate": "Wed Mar 25 2026"
+  "example": "HoneyBear felt a surge of Torschlusspanik, urging JellyBean to finally start their dream business together.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Torschlusspanik",
+  "generatedDate": "Thu Mar 26 2026"
 }
