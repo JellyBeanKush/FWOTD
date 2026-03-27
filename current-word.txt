@@ -1,10 +1,10 @@
 {
-  "word": "Torschlusspanik",
-  "phonetic": "TORSH-looss-pah-nik",
+  "word": "Gaman",
+  "phonetic": "gah-MAHN",
   "partOfSpeech": "noun",
-  "definition": "The fear of diminishing opportunities as one gets older, often leading to a sense of urgency to make big life changes before it's too late.",
-  "locale": "GERMAN",
-  "example": "HoneyBear felt a surge of Torschlusspanik, urging JellyBean to finally start their dream business together.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Torschlusspanik",
-  "generatedDate": "Thu Mar 26 2026"
+  "definition": "Enduring the seemingly unbearable with patience and dignity, especially in the face of adversity.",
+  "locale": "JAPANESE",
+  "example": "HoneyBear and JellyBean demonstrated gaman, enduring the steep hike with patience.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Gaman",
+  "generatedDate": "Fri Mar 27 2026"
 }
