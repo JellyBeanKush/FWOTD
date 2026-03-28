@@ -1,10 +1,10 @@
 {
-  "word": "Gaman",
-  "phonetic": "gah-MAHN",
+  "word": "Desenrascanço",
+  "phonetic": "deh-zehn-rrah-SKAHN-soh",
   "partOfSpeech": "noun",
-  "definition": "Enduring the seemingly unbearable with patience and dignity, especially in the face of adversity.",
-  "locale": "JAPANESE",
-  "example": "HoneyBear and JellyBean demonstrated gaman, enduring the steep hike with patience.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Gaman",
-  "generatedDate": "Fri Mar 27 2026"
+  "definition": "The ability to improvise a solution to a problem with whatever tools are at hand, often in a creative or resourceful way.",
+  "locale": "PORTUGUESE",
+  "example": "HoneyBear's desenrascanço, using a rubber band and gum to fix the faucet, impressed JellyBean.",
+  "sourceUrl": "https://www.theportugalnews.com/news/2021-08-01/what-is-desenrascanco/61793",
+  "generatedDate": "Sat Mar 28 2026"
 }
