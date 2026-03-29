@@ -1,5 +1,15 @@
 [
   {
+    "word": "Polder",
+    "phonetic": "POHL-dur",
+    "partOfSpeech": "noun",
+    "definition": "A piece of low-lying land reclaimed from the sea or a river and protected by dikes.",
+    "locale": "DUTCH",
+    "example": "HoneyBear explained to JellyBean how the polder was carefully created from the sea.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Polder",
+    "generatedDate": "Sun Mar 29 2026"
+  },
+  {
     "word": "Desenrascanço",
     "phonetic": "deh-zehn-rrah-SKAHN-soh",
     "partOfSpeech": "noun",

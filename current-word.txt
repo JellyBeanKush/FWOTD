@@ -1,10 +1,10 @@
 {
-  "word": "Desenrascanço",
-  "phonetic": "deh-zehn-rrah-SKAHN-soh",
+  "word": "Polder",
+  "phonetic": "POHL-dur",
   "partOfSpeech": "noun",
-  "definition": "The ability to improvise a solution to a problem with whatever tools are at hand, often in a creative or resourceful way.",
-  "locale": "PORTUGUESE",
-  "example": "HoneyBear's desenrascanço, using a rubber band and gum to fix the faucet, impressed JellyBean.",
-  "sourceUrl": "https://www.theportugalnews.com/news/2021-08-01/what-is-desenrascanco/61793",
-  "generatedDate": "Sat Mar 28 2026"
+  "definition": "A piece of low-lying land reclaimed from the sea or a river and protected by dikes.",
+  "locale": "DUTCH",
+  "example": "HoneyBear explained to JellyBean how the polder was carefully created from the sea.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Polder",
+  "generatedDate": "Sun Mar 29 2026"
 }
