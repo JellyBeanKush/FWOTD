@@ -1,10 +1,10 @@
 {
-  "word": "Polder",
-  "phonetic": "POHL-dur",
+  "word": "Jugaad",
+  "phonetic": "joo-GAHD",
   "partOfSpeech": "noun",
-  "definition": "A piece of low-lying land reclaimed from the sea or a river and protected by dikes.",
-  "locale": "DUTCH",
-  "example": "HoneyBear explained to JellyBean how the polder was carefully created from the sea.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Polder",
-  "generatedDate": "Sun Mar 29 2026"
+  "definition": "A flexible approach to problem-solving that uses limited resources in an innovative way, often involving a clever improvisation or quick fix.",
+  "locale": "HINDI",
+  "example": "HoneyBear marveled at JellyBean's Jugaad, fixing their broken lamp with a shoelace and a paperclip.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Jugaad",
+  "generatedDate": "Mon Mar 30 2026"
 }
