@@ -1,10 +1,10 @@
 {
-  "word": "Jugaad",
-  "phonetic": "joo-GAHD",
+  "word": "Dépaysement",
+  "phonetic": "deh-pey-zuh-MAHN",
   "partOfSpeech": "noun",
-  "definition": "A flexible approach to problem-solving that uses limited resources in an innovative way, often involving a clever improvisation or quick fix.",
-  "locale": "HINDI",
-  "example": "HoneyBear marveled at JellyBean's Jugaad, fixing their broken lamp with a shoelace and a paperclip.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Jugaad",
-  "generatedDate": "Mon Mar 30 2026"
+  "definition": "The feeling of being out of one's familiar environment; disorientation or a sense of being a stranger in a foreign land. It can also imply a positive sense of wonder or discovery.",
+  "locale": "FRENCH",
+  "example": "HoneyBear and JellyBean felt a delightful dépaysement exploring the bustling new market.",
+  "sourceUrl": "https://en.wiktionary.org/wiki/d%C3%A9paysement",
+  "generatedDate": "Tue Mar 31 2026"
 }
