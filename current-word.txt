@@ -1,10 +1,10 @@
 {
-  "word": "Ubuntu",
-  "phonetic": "oo-BOON-too",
-  "partOfSpeech": "noun",
-  "definition": "A quality that includes the essential human virtues of compassion and humanity. It refers to the belief in a universal bond of sharing that connects all humanity.",
-  "locale": "ZULU",
-  "example": "HoneyBear and JellyBean demonstrated true Ubuntu by sharing their toys with their friends.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Ubuntu",
-  "generatedDate": "Wed Apr 01 2026"
+  "word": "Uitwaaien",
+  "phonetic": "OYT-vy-en",
+  "partOfSpeech": "verb",
+  "definition": "To go outside and clear one's head, especially by walking or cycling in the wind.",
+  "locale": "DUTCH",
+  "example": "HoneyBear and JellyBean decided to uitwaaien, cycling along the beach to clear their thoughts.",
+  "sourceUrl": "https://www.collinsdictionary.com/dictionary/dutch-english/uitwaaien",
+  "generatedDate": "Thu Apr 02 2026"
 }
