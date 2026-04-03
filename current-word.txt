@@ -1,10 +1,10 @@
 {
-  "word": "Uitwaaien",
-  "phonetic": "OYT-vy-en",
-  "partOfSpeech": "verb",
-  "definition": "To go outside and clear one's head, especially by walking or cycling in the wind.",
-  "locale": "DUTCH",
-  "example": "HoneyBear and JellyBean decided to uitwaaien, cycling along the beach to clear their thoughts.",
-  "sourceUrl": "https://www.collinsdictionary.com/dictionary/dutch-english/uitwaaien",
-  "generatedDate": "Thu Apr 02 2026"
+  "word": "Flâneur",
+  "phonetic": "flah-NUR",
+  "partOfSpeech": "noun",
+  "definition": "A person who strolls around idly observing society and life, often reflecting a detached, urban sensibility.",
+  "locale": "FRENCH",
+  "example": "HoneyBear and JellyBean enjoyed being flâneurs, observing the bustling street from their café perch.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Flâneur",
+  "generatedDate": "Fri Apr 03 2026"
 }
