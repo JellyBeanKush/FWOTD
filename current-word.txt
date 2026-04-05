@@ -1,10 +1,10 @@
 {
-  "word": "Ya'aburnee",
-  "phonetic": "yah-ah-BOOR-nee",
-  "partOfSpeech": "expression",
-  "definition": "A heartfelt declaration expressing the profound hope that one will die before another person, as life without them would be unbearable.",
-  "locale": "ARABIC",
-  "example": "HoneyBear whispered, \"Ya'aburnee,\" to JellyBean, illustrating their deep, inseparable connection.",
-  "sourceUrl": "https://theculturetrip.com/middle-east/articles/10-arabic-words-that-cant-be-translated-into-english/",
-  "generatedDate": "Sat Apr 04 2026"
+  "word": "Schadenfreude",
+  "phonetic": "SHAH-den-froy-duh",
+  "partOfSpeech": "noun",
+  "definition": "A feeling of pleasure derived from another person's misfortune.",
+  "locale": "GERMAN",
+  "example": "HoneyBear experienced a brief moment of Schadenfreude when JellyBean accidentally dropped their ice cream.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Schadenfreude",
+  "generatedDate": "Sun Apr 05 2026"
 }
