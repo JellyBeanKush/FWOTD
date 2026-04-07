@@ -1,10 +1,10 @@
 {
-  "word": "Culaccino",
-  "phonetic": "koo-lah-CHEE-no",
+  "word": "Sisu",
+  "phonetic": "SEE-soo",
   "partOfSpeech": "noun",
-  "definition": "The mark or ring left on a table by a cold glass or bottle.",
-  "locale": "ITALIAN",
-  "example": "HoneyBear left a culaccino on the coffee table, much to JellyBean's dismay.",
-  "sourceUrl": "https://en.wiktionary.org/wiki/culaccino",
-  "generatedDate": "Mon Apr 06 2026"
+  "definition": "A Finnish concept describing extraordinary determination, resilience, and fortitude, especially in the face of adversity, often beyond the normal capacity for endurance.",
+  "locale": "FINNISH",
+  "example": "HoneyBear admired JellyBean's sisu when facing a challenging puzzle, never giving up.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Sisu",
+  "generatedDate": "Tue Apr 07 2026"
 }
