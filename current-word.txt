@@ -1,10 +1,10 @@
 {
-  "word": "Sisu",
-  "phonetic": "SEE-soo",
-  "partOfSpeech": "noun",
-  "definition": "A Finnish concept describing extraordinary determination, resilience, and fortitude, especially in the face of adversity, often beyond the normal capacity for endurance.",
-  "locale": "FINNISH",
-  "example": "HoneyBear admired JellyBean's sisu when facing a challenging puzzle, never giving up.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Sisu",
-  "generatedDate": "Tue Apr 07 2026"
+  "word": "Verschlimmbessern",
+  "phonetic": "fer-SHLIM-bess-ern",
+  "partOfSpeech": "verb",
+  "definition": "To accidentally make a situation worse while attempting to fix or improve something.",
+  "locale": "GERMAN",
+  "example": "HoneyBear tried to fix the broken shelf, but he could only verschlimmbessern it for JellyBean.",
+  "sourceUrl": "https://en.wiktionary.org/wiki/verschlimmbessern",
+  "generatedDate": "Wed Apr 08 2026"
 }
