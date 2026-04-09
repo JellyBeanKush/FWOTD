@@ -1,10 +1,10 @@
 {
-  "word": "Verschlimmbessern",
-  "phonetic": "fer-SHLIM-bess-ern",
-  "partOfSpeech": "verb",
-  "definition": "To accidentally make a situation worse while attempting to fix or improve something.",
-  "locale": "GERMAN",
-  "example": "HoneyBear tried to fix the broken shelf, but he could only verschlimmbessern it for JellyBean.",
-  "sourceUrl": "https://en.wiktionary.org/wiki/verschlimmbessern",
-  "generatedDate": "Wed Apr 08 2026"
+  "word": "Goya",
+  "phonetic": "GOY-uh",
+  "partOfSpeech": "noun",
+  "definition": "The feeling of being completely absorbed in a fictional world, to the point where it feels real, experiencing a suspension of disbelief.",
+  "locale": "HINDI",
+  "example": "HoneyBear and JellyBean experienced deep goya while reading their favorite fantasy novel, forgetting their surroundings.",
+  "sourceUrl": "https://www.mentalfloss.com/article/503463/27-beautiful-untranslatable-words-around-world",
+  "generatedDate": "Thu Apr 09 2026"
 }
