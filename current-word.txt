@@ -1,10 +1,10 @@
 {
-  "word": "Litost",
-  "phonetic": "lee-TOST",
-  "partOfSpeech": "noun",
-  "definition": "A Czech word, coined by Milan Kundera, describing a state of torment created by the sudden sight of one's own misery.",
-  "locale": "CZECH",
-  "example": "HoneyBear felt a pang of litost as JellyBean effortlessly aced the challenging game.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Litost",
-  "generatedDate": "Fri Apr 10 2026"
+  "word": "Forelsket",
+  "phonetic": "for-EL-sket",
+  "partOfSpeech": "adjective",
+  "definition": "The exhilarating feeling of falling in love, often characterized by intense excitement, anticipation, and emotional connection.",
+  "locale": "NORWEGIAN",
+  "example": "HoneyBear felt utterly forelsket watching JellyBean dance, a new love blooming in their heart.",
+  "sourceUrl": "https://en.wiktionary.org/wiki/forelsket",
+  "generatedDate": "Sat Apr 11 2026"
 }
