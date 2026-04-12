@@ -1,10 +1,10 @@
 {
-  "word": "Forelsket",
-  "phonetic": "for-EL-sket",
-  "partOfSpeech": "adjective",
-  "definition": "The exhilarating feeling of falling in love, often characterized by intense excitement, anticipation, and emotional connection.",
-  "locale": "NORWEGIAN",
-  "example": "HoneyBear felt utterly forelsket watching JellyBean dance, a new love blooming in their heart.",
-  "sourceUrl": "https://en.wiktionary.org/wiki/forelsket",
-  "generatedDate": "Sat Apr 11 2026"
+  "word": "Poronkusema",
+  "phonetic": "POH-ron-koo-seh-mah",
+  "partOfSpeech": "noun",
+  "definition": "An old Finnish unit of measurement, referring to the distance a reindeer can comfortably travel before it needs to urinate.",
+  "locale": "FINNISH",
+  "example": "HoneyBear and JellyBean joked that their long hike was almost a full poronkusema.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Poronkusema",
+  "generatedDate": "Sun Apr 12 2026"
 }
