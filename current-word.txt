@@ -1,10 +1,10 @@
 {
-  "word": "Pana Poʻo",
-  "phonetic": "PAH-nah POH-oh",
-  "partOfSpeech": "verb",
-  "definition": "The act of scratching one's head in an attempt to remember something that has been forgotten.",
-  "locale": "HAWAIIAN",
-  "example": "HoneyBear watched JellyBean pana poʻo, hoping the action would help them remember where the treats were hidden.",
-  "sourceUrl": "https://wehewehe.org/gsdl2.85/cgi-bin/hiling?e=q-11000-00---0pana+po%CA%BBo--00-4----0-10-0---0---0prompt-10-Holo--4----0-1l--11-en-D%253aHolo-00-1-1-00-0utfZz-8-00&a=q&r=1&hs=1&q=pana+po%CA%BBo",
-  "generatedDate": "Wed Apr 15 2026"
+  "word": "Cwtch",
+  "phonetic": "kutch",
+  "partOfSpeech": "noun",
+  "definition": "A hug or cuddle that implies a safe, warm, and comfortable place, often one you want to return to.",
+  "locale": "WELSH",
+  "example": "HoneyBear gave JellyBean a comforting cwtch, making them feel secure and loved.",
+  "sourceUrl": "https://en.wiktionary.org/wiki/cwtch",
+  "generatedDate": "Thu Apr 16 2026"
 }
