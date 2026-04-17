@@ -1,10 +1,10 @@
 {
-  "word": "Cwtch",
-  "phonetic": "kutch",
+  "word": "Boketto",
+  "phonetic": "boh-KET-toh",
   "partOfSpeech": "noun",
-  "definition": "A hug or cuddle that implies a safe, warm, and comfortable place, often one you want to return to.",
-  "locale": "WELSH",
-  "example": "HoneyBear gave JellyBean a comforting cwtch, making them feel secure and loved.",
-  "sourceUrl": "https://en.wiktionary.org/wiki/cwtch",
-  "generatedDate": "Thu Apr 16 2026"
+  "definition": "The act of gazing vacantly into the distance without thinking about anything specific.",
+  "locale": "JAPANESE",
+  "example": "HoneyBear and JellyBean often sat on the porch, enjoying a shared boketto as the clouds drifted by.",
+  "sourceUrl": "https://www.tofugu.com/japanese/boketto/",
+  "generatedDate": "Fri Apr 17 2026"
 }
