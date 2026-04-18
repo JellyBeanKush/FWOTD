@@ -1,10 +1,10 @@
 {
-  "word": "Boketto",
-  "phonetic": "boh-KET-toh",
+  "word": "Kilig",
+  "phonetic": "KEE-lig",
   "partOfSpeech": "noun",
-  "definition": "The act of gazing vacantly into the distance without thinking about anything specific.",
-  "locale": "JAPANESE",
-  "example": "HoneyBear and JellyBean often sat on the porch, enjoying a shared boketto as the clouds drifted by.",
-  "sourceUrl": "https://www.tofugu.com/japanese/boketto/",
-  "generatedDate": "Fri Apr 17 2026"
+  "definition": "The exhilarating, butterfly-in-the-stomach sensation one feels when experiencing a romantic or exciting moment.",
+  "locale": "TAGALOG",
+  "example": "HoneyBear felt a distinct kilig when JellyBean unexpectedly held their hand during the movie.",
+  "sourceUrl": "https://en.wiktionary.org/wiki/kilig",
+  "generatedDate": "Sat Apr 18 2026"
 }
