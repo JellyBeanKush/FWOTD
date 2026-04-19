@@ -1,10 +1,10 @@
 {
-  "word": "Kilig",
-  "phonetic": "KEE-lig",
+  "word": "Mono no aware",
+  "phonetic": "MOH-noh noh ah-WAH-reh",
   "partOfSpeech": "noun",
-  "definition": "The exhilarating, butterfly-in-the-stomach sensation one feels when experiencing a romantic or exciting moment.",
-  "locale": "TAGALOG",
-  "example": "HoneyBear felt a distinct kilig when JellyBean unexpectedly held their hand during the movie.",
-  "sourceUrl": "https://en.wiktionary.org/wiki/kilig",
-  "generatedDate": "Sat Apr 18 2026"
+  "definition": "The bittersweet realization of the transient nature of life, a gentle sadness at the passing of things.",
+  "locale": "JAPANESE",
+  "example": "HoneyBear and JellyBean felt mono no aware watching the cherry blossoms, knowing their beauty would soon fade.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Mono_no_aware",
+  "generatedDate": "Sun Apr 19 2026"
 }
