@@ -1,10 +1,10 @@
 {
-  "word": "Tsundoku",
-  "phonetic": "tsoon-DOH-koo",
+  "word": "Cafuné",
+  "phonetic": "kah-foo-NEH",
   "partOfSpeech": "noun",
-  "definition": "The act of buying books and letting them pile up, unread, typically on shelves or nightstands.",
-  "locale": "JAPANESE",
-  "example": "HoneyBear wondered if JellyBean would ever read the growing tsundoku beside their bed.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Tsundoku",
-  "generatedDate": "Thu Apr 23 2026"
+  "definition": "The act of tenderly running one's fingers through another person's hair.",
+  "locale": "PORTUGUESE",
+  "example": "HoneyBear gently gave JellyBean a soft cafuné, making them smile contentedly.",
+  "sourceUrl": "https://en.wiktionary.org/wiki/cafun%C3%A9",
+  "generatedDate": "Fri Apr 24 2026"
 }
