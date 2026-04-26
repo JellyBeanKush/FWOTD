@@ -1,10 +1,10 @@
 {
-  "word": "Cafuné",
-  "phonetic": "kah-foo-NEH",
+  "word": "Duende",
+  "phonetic": "doo-EN-deh",
   "partOfSpeech": "noun",
-  "definition": "The act of tenderly running one's fingers through another person's hair.",
-  "locale": "PORTUGUESE",
-  "example": "HoneyBear gently gave JellyBean a soft cafuné, making them smile contentedly.",
-  "sourceUrl": "https://en.wiktionary.org/wiki/cafun%C3%A9",
-  "generatedDate": "Fri Apr 24 2026"
+  "definition": "A quality of a work of art, especially in flamenco, that evokes a heightened sense of emotion, expression, or authenticity, often with a mysterious or enchanting depth.",
+  "locale": "SPANISH",
+  "example": "HoneyBear felt the undeniable duende in the dancer's movements, a feeling JellyBean deeply shared.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Duende_(art)",
+  "generatedDate": "Sun Apr 26 2026"
 }
