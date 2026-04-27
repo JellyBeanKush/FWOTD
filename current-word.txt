@@ -1,10 +1,10 @@
 {
-  "word": "Duende",
-  "phonetic": "doo-EN-deh",
+  "word": "Orenda",
+  "phonetic": "oh-REN-duh",
   "partOfSpeech": "noun",
-  "definition": "A quality of a work of art, especially in flamenco, that evokes a heightened sense of emotion, expression, or authenticity, often with a mysterious or enchanting depth.",
-  "locale": "SPANISH",
-  "example": "HoneyBear felt the undeniable duende in the dancer's movements, a feeling JellyBean deeply shared.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Duende_(art)",
-  "generatedDate": "Sun Apr 26 2026"
+  "definition": "A spiritual power inherent in people and their environment, or in any object or organism, believed by some Indigenous peoples of North America.",
+  "locale": "IROQUOIS",
+  "example": "HoneyBear and JellyBean felt the forest's orenda, a powerful spiritual energy guiding their adventures.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Orenda",
+  "generatedDate": "Mon Apr 27 2026"
 }
