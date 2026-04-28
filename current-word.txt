@@ -1,10 +1,10 @@
 {
-  "word": "Orenda",
-  "phonetic": "oh-REN-duh",
+  "word": "Mångata",
+  "phonetic": "MOHN-gah-tah",
   "partOfSpeech": "noun",
-  "definition": "A spiritual power inherent in people and their environment, or in any object or organism, believed by some Indigenous peoples of North America.",
-  "locale": "IROQUOIS",
-  "example": "HoneyBear and JellyBean felt the forest's orenda, a powerful spiritual energy guiding their adventures.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Orenda",
-  "generatedDate": "Mon Apr 27 2026"
+  "definition": "The glistening, road-like reflection of the moon on a body of water.",
+  "locale": "SWEDISH",
+  "example": "HoneyBear and JellyBean watched the beautiful mångata stretch across the lake, making the night magical.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_untranslatable_words",
+  "generatedDate": "Tue Apr 28 2026"
 }
