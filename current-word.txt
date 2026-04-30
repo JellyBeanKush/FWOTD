@@ -1,10 +1,10 @@
 {
-  "word": "Sturmfrei",
-  "phonetic": "SHTURM-fry",
-  "partOfSpeech": "adjective",
-  "definition": "The freedom of being alone at home and being able to do whatever one wants.",
-  "locale": "GERMAN",
-  "example": "With parents away, HoneyBear and JellyBean relished their sturmfrei evening, playing loud music.",
-  "sourceUrl": "https://en.wiktionary.org/wiki/sturmfrei",
-  "generatedDate": "Wed Apr 29 2026"
+  "word": "Gigil",
+  "phonetic": "GHEE-ghill",
+  "partOfSpeech": "noun",
+  "definition": "The overwhelming feeling of wanting to squeeze or pinch something that is extremely cute or adorable.",
+  "locale": "TAGALOG",
+  "example": "HoneyBear felt a sudden surge of gigil while watching JellyBean nap in the soft grass.",
+  "sourceUrl": "https://en.wiktionary.org/wiki/gigil",
+  "generatedDate": "Thu Apr 30 2026"
 }
