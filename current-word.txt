@@ -1,10 +1,10 @@
 {
-  "word": "Gigil",
-  "phonetic": "GHEE-ghill",
+  "word": "Shinrinyoku",
+  "phonetic": "shin-reen-YOH-koo",
   "partOfSpeech": "noun",
-  "definition": "The overwhelming feeling of wanting to squeeze or pinch something that is extremely cute or adorable.",
-  "locale": "TAGALOG",
-  "example": "HoneyBear felt a sudden surge of gigil while watching JellyBean nap in the soft grass.",
-  "sourceUrl": "https://en.wiktionary.org/wiki/gigil",
-  "generatedDate": "Thu Apr 30 2026"
+  "definition": "The practice of taking in the forest atmosphere, or 'forest bathing,' for health and wellness.",
+  "locale": "JAPANESE",
+  "example": "HoneyBear and JellyBean found immense peace during their shinrinyoku session amongst the tall trees.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Forest_bathing",
+  "generatedDate": "Fri May 01 2026"
 }
