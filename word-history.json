@@ -1,5 +1,15 @@
 [
   {
+    "word": "Weltschmerz",
+    "phonetic": "VELT-shmerts",
+    "partOfSpeech": "noun",
+    "definition": "A feeling of sentimental sadness, a kind of world-weariness, arising from the realization that the physical world can never satisfy the demands of the mind.",
+    "locale": "GERMAN",
+    "example": "HoneyBear felt Weltschmerz when JellyBean mentioned the fleeting beauty of their picnic.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Weltschmerz",
+    "generatedDate": "Sat May 02 2026"
+  },
+  {
     "word": "Shinrinyoku",
     "phonetic": "shin-reen-YOH-koo",
     "partOfSpeech": "noun",

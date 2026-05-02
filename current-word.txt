@@ -1,10 +1,10 @@
 {
-  "word": "Shinrinyoku",
-  "phonetic": "shin-reen-YOH-koo",
+  "word": "Weltschmerz",
+  "phonetic": "VELT-shmerts",
   "partOfSpeech": "noun",
-  "definition": "The practice of taking in the forest atmosphere, or 'forest bathing,' for health and wellness.",
-  "locale": "JAPANESE",
-  "example": "HoneyBear and JellyBean found immense peace during their shinrinyoku session amongst the tall trees.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Forest_bathing",
-  "generatedDate": "Fri May 01 2026"
+  "definition": "A feeling of sentimental sadness, a kind of world-weariness, arising from the realization that the physical world can never satisfy the demands of the mind.",
+  "locale": "GERMAN",
+  "example": "HoneyBear felt Weltschmerz when JellyBean mentioned the fleeting beauty of their picnic.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Weltschmerz",
+  "generatedDate": "Sat May 02 2026"
 }
