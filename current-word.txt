@@ -1,10 +1,10 @@
 {
-  "word": "Weltschmerz",
-  "phonetic": "VELT-shmerts",
+  "word": "Gemütlichkeit",
+  "phonetic": "guh-MOOT-lich-kite",
   "partOfSpeech": "noun",
-  "definition": "A feeling of sentimental sadness, a kind of world-weariness, arising from the realization that the physical world can never satisfy the demands of the mind.",
+  "definition": "A state or feeling of warmth, friendliness, and good cheer, often associated with a cozy and comfortable environment.",
   "locale": "GERMAN",
-  "example": "HoneyBear felt Weltschmerz when JellyBean mentioned the fleeting beauty of their picnic.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Weltschmerz",
-  "generatedDate": "Sat May 02 2026"
+  "example": "HoneyBear and JellyBean always sought out the Gemütlichkeit of their favorite bookstore's reading nook.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Gem%C3%BCtlichkeit",
+  "generatedDate": "Sun May 03 2026"
 }
