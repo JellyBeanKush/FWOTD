@@ -1,10 +1,10 @@
 {
-  "word": "Hiraeth",
-  "phonetic": "HEE-raith",
+  "word": "Kummerspeck",
+  "phonetic": "KOOM-mer-shpek",
   "partOfSpeech": "noun",
-  "definition": "A deep, complex longing for a home, place, or era that perhaps never was, or that is lost, often tinged with grief or nostalgia.",
-  "locale": "WELSH",
-  "example": "HoneyBear felt a deep hiraeth for the old cottage, making JellyBean miss it too.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Hiraeth",
-  "generatedDate": "Tue May 05 2026"
+  "definition": "Excess weight gained from emotional overeating.",
+  "locale": "GERMAN",
+  "example": "After a stressful week, HoneyBear and JellyBean found themselves accumulating a little Kummerspeck together.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Kummerspeck",
+  "generatedDate": "Wed May 06 2026"
 }
