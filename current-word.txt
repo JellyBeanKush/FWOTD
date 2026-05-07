@@ -1,10 +1,10 @@
 {
-  "word": "Kummerspeck",
-  "phonetic": "KOOM-mer-shpek",
+  "word": "Saudade",
+  "phonetic": "sow-DAH-deh",
   "partOfSpeech": "noun",
-  "definition": "Excess weight gained from emotional overeating.",
-  "locale": "GERMAN",
-  "example": "After a stressful week, HoneyBear and JellyBean found themselves accumulating a little Kummerspeck together.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Kummerspeck",
-  "generatedDate": "Wed May 06 2026"
+  "definition": "A deep emotional state of nostalgic longing for an absent something or someone one loves, often with a sense of profound melancholy and loss.",
+  "locale": "PORTUGUESE",
+  "example": "HoneyBear felt a deep saudade for JellyBean's warm hugs after their departure.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Saudade",
+  "generatedDate": "Thu May 07 2026"
 }
