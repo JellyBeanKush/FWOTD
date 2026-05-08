@@ -1,10 +1,10 @@
 {
-  "word": "Saudade",
-  "phonetic": "sow-DAH-deh",
+  "word": "Ikigai",
+  "phonetic": "ee-kee-GAH-ee",
   "partOfSpeech": "noun",
-  "definition": "A deep emotional state of nostalgic longing for an absent something or someone one loves, often with a sense of profound melancholy and loss.",
-  "locale": "PORTUGUESE",
-  "example": "HoneyBear felt a deep saudade for JellyBean's warm hugs after their departure.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Saudade",
-  "generatedDate": "Thu May 07 2026"
+  "definition": "A reason for being; the thing that makes life worthwhile and brings joy.",
+  "locale": "JAPANESE",
+  "example": "HoneyBear found his ikigai in baking, while JellyBean pursued hers through painting.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Ikigai",
+  "generatedDate": "Fri May 08 2026"
 }

@@ -1,5 +1,15 @@
 [
   {
+    "word": "Ikigai",
+    "phonetic": "ee-kee-GAH-ee",
+    "partOfSpeech": "noun",
+    "definition": "A reason for being; the thing that makes life worthwhile and brings joy.",
+    "locale": "JAPANESE",
+    "example": "HoneyBear found his ikigai in baking, while JellyBean pursued hers through painting.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ikigai",
+    "generatedDate": "Fri May 08 2026"
+  },
+  {
     "word": "Saudade",
     "phonetic": "sow-DAH-deh",
     "partOfSpeech": "noun",
