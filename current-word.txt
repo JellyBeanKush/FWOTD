@@ -1,10 +1,10 @@
 {
-  "word": "Wabi-sabi",
-  "phonetic": "wah-bee sah-bee",
+  "word": "Meraki",
+  "phonetic": "meh-RAH-kee",
   "partOfSpeech": "noun",
-  "definition": "A worldview centered on the acceptance of transience and imperfection. It is an aesthetic sometimes described as one of appreciating beauty that is 'imperfect, impermanent, and incomplete' in nature.",
-  "locale": "JAPANESE",
-  "example": "HoneyBear and JellyBean found beauty in the old, weathered garden bench, a true example of wabi-sabi.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Wabi-sabi",
-  "generatedDate": "Sat May 09 2026"
+  "definition": "To do something with soul, creativity, or love; to put something of yourself into your work.",
+  "locale": "GREEK",
+  "example": "HoneyBear watched JellyBean carefully, infusing every stitch of her needlework with pure meraki.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Meraki",
+  "generatedDate": "Sun May 10 2026"
 }
