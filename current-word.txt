@@ -1,10 +1,10 @@
 {
-  "word": "Meraki",
-  "phonetic": "meh-RAH-kee",
+  "word": "Kintsugi",
+  "phonetic": "kin-TSOO-gee",
   "partOfSpeech": "noun",
-  "definition": "To do something with soul, creativity, or love; to put something of yourself into your work.",
-  "locale": "GREEK",
-  "example": "HoneyBear watched JellyBean carefully, infusing every stitch of her needlework with pure meraki.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Meraki",
-  "generatedDate": "Sun May 10 2026"
+  "definition": "The Japanese art of repairing broken pottery with lacquer mixed with powdered gold, silver, or platinum, based on the philosophy that breakage and repair are part of the history of an object and should be shown, not hidden.",
+  "locale": "JAPANESE",
+  "example": "HoneyBear watched JellyBean carefully repair the chipped mug, embodying the spirit of Kintsugi.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Kintsugi",
+  "generatedDate": "Mon May 11 2026"
 }
