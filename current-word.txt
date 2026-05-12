@@ -1,10 +1,10 @@
 {
-  "word": "Kintsugi",
-  "phonetic": "kin-TSOO-gee",
+  "word": "Utepils",
+  "phonetic": "OO-teh-pilts",
   "partOfSpeech": "noun",
-  "definition": "The Japanese art of repairing broken pottery with lacquer mixed with powdered gold, silver, or platinum, based on the philosophy that breakage and repair are part of the history of an object and should be shown, not hidden.",
-  "locale": "JAPANESE",
-  "example": "HoneyBear watched JellyBean carefully repair the chipped mug, embodying the spirit of Kintsugi.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Kintsugi",
-  "generatedDate": "Mon May 11 2026"
+  "definition": "A beer that is enjoyed outdoors in the sunshine, especially during the first warm days of spring.",
+  "locale": "NORWEGIAN",
+  "example": "HoneyBear and JellyBean shared a cold utepils while basking in the warm afternoon garden sun.",
+  "sourceUrl": "https://en.wiktionary.org/wiki/utepils",
+  "generatedDate": "Tue May 12 2026"
 }
