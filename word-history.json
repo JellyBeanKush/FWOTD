@@ -1,5 +1,15 @@
 [
   {
+    "word": "Feierabend",
+    "phonetic": "FIE-er-ah-bent",
+    "partOfSpeech": "noun",
+    "definition": "The period after work, signifying the end of the workday, time off, or the celebration of the workday's conclusion.",
+    "locale": "GERMAN",
+    "example": "HoneyBear and JellyBean always look forward to Feierabend, relaxing after a long day.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Feierabend",
+    "generatedDate": "Thu May 14 2026"
+  },
+  {
     "word": "Gökotta",
     "phonetic": "yer-KOH-tah",
     "partOfSpeech": "noun",
