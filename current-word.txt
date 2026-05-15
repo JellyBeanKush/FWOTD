@@ -1,10 +1,10 @@
 {
-  "word": "Feierabend",
-  "phonetic": "FIE-er-ah-bent",
+  "word": "Toska",
+  "phonetic": "TAWS-kuh",
   "partOfSpeech": "noun",
-  "definition": "The period after work, signifying the end of the workday, time off, or the celebration of the workday's conclusion.",
-  "locale": "GERMAN",
-  "example": "HoneyBear and JellyBean always look forward to Feierabend, relaxing after a long day.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Feierabend",
-  "generatedDate": "Thu May 14 2026"
+  "definition": "A sensation of great spiritual anguish, often without a specific cause; a dull ache of the soul, a yearning with nothing to yearn for.",
+  "locale": "RUSSIAN",
+  "example": "HoneyBear felt a deep Toska, a vague yearning JellyBean could sense but not understand.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Toska_(word)",
+  "generatedDate": "Fri May 15 2026"
 }
