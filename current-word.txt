@@ -1,10 +1,10 @@
 {
-  "word": "Toska",
-  "phonetic": "TAWS-kuh",
+  "word": "Schwellenangst",
+  "phonetic": "SHVEL-en-angst",
   "partOfSpeech": "noun",
-  "definition": "A sensation of great spiritual anguish, often without a specific cause; a dull ache of the soul, a yearning with nothing to yearn for.",
-  "locale": "RUSSIAN",
-  "example": "HoneyBear felt a deep Toska, a vague yearning JellyBean could sense but not understand.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Toska_(word)",
-  "generatedDate": "Fri May 15 2026"
+  "definition": "The fear of crossing a threshold or starting something new; an apprehension about a new phase of life or activity.",
+  "locale": "GERMAN",
+  "example": "HoneyBear felt a pang of Schwellenangst before starting her new job, but JellyBean offered encouragement.",
+  "sourceUrl": "https://en.wiktionary.org/wiki/Schwellenangst",
+  "generatedDate": "Sat May 16 2026"
 }
