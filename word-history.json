@@ -1,5 +1,15 @@
 [
   {
+    "word": "Lagom",
+    "phonetic": "LAH-gom",
+    "partOfSpeech": "adjective",
+    "definition": "The Swedish concept of 'just right' or 'in moderation'; not too much, not too little.",
+    "locale": "SWEDISH",
+    "example": "HoneyBear found the perfect number of marshmallows for JellyBean's hot cocoa, ensuring it was truly Lagom.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Lagom",
+    "generatedDate": "Sun May 17 2026"
+  },
+  {
     "word": "Schwellenangst",
     "phonetic": "SHVEL-en-angst",
     "partOfSpeech": "noun",
