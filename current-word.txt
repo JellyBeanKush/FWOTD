@@ -1,10 +1,10 @@
 {
-  "word": "Waldeinsamkeit",
-  "phonetic": "VAHL-de-ine-zahm-kite",
+  "word": "Fika",
+  "phonetic": "FEE-kuh",
   "partOfSpeech": "noun",
-  "definition": "The feeling of solitude and a connection to nature when alone in the woods.",
-  "locale": "GERMAN",
-  "example": "HoneyBear and JellyBean cherished the Waldeinsamkeit during their peaceful hike through the quiet forest.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Waldeinsamkeit",
-  "generatedDate": "Tue May 19 2026"
+  "definition": "A Swedish custom of taking a break, often for coffee and pastries, primarily for socializing and connecting with others.",
+  "locale": "SWEDISH",
+  "example": "HoneyBear and JellyBean enjoyed a cozy fika, sharing pastries and pleasant conversation on a chilly afternoon.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Fika",
+  "generatedDate": "Wed May 20 2026"
 }

@@ -1,5 +1,15 @@
 [
   {
+    "word": "Fika",
+    "phonetic": "FEE-kuh",
+    "partOfSpeech": "noun",
+    "definition": "A Swedish custom of taking a break, often for coffee and pastries, primarily for socializing and connecting with others.",
+    "locale": "SWEDISH",
+    "example": "HoneyBear and JellyBean enjoyed a cozy fika, sharing pastries and pleasant conversation on a chilly afternoon.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fika",
+    "generatedDate": "Wed May 20 2026"
+  },
+  {
     "word": "Waldeinsamkeit",
     "phonetic": "VAHL-de-ine-zahm-kite",
     "partOfSpeech": "noun",
