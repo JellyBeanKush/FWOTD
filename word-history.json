@@ -1,5 +1,15 @@
 [
   {
+    "word": "Mamihlapinatapai",
+    "phonetic": "mah-MEE-lah-pee-NAH-tah-pahy",
+    "partOfSpeech": "noun",
+    "definition": "A shared, unspoken glance between two people, both desiring to initiate something but reluctant to make the first move.",
+    "locale": "YAGAN",
+    "example": "HoneyBear and JellyBean exchanged a Mamihlapinatapai, silently hoping the other would finally suggest getting ice cream.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Mamihlapinatapai",
+    "generatedDate": "Thu May 21 2026"
+  },
+  {
     "word": "Fika",
     "phonetic": "FEE-kuh",
     "partOfSpeech": "noun",

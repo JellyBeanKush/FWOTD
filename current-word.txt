@@ -1,10 +1,10 @@
 {
-  "word": "Fika",
-  "phonetic": "FEE-kuh",
+  "word": "Mamihlapinatapai",
+  "phonetic": "mah-MEE-lah-pee-NAH-tah-pahy",
   "partOfSpeech": "noun",
-  "definition": "A Swedish custom of taking a break, often for coffee and pastries, primarily for socializing and connecting with others.",
-  "locale": "SWEDISH",
-  "example": "HoneyBear and JellyBean enjoyed a cozy fika, sharing pastries and pleasant conversation on a chilly afternoon.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Fika",
-  "generatedDate": "Wed May 20 2026"
+  "definition": "A shared, unspoken glance between two people, both desiring to initiate something but reluctant to make the first move.",
+  "locale": "YAGAN",
+  "example": "HoneyBear and JellyBean exchanged a Mamihlapinatapai, silently hoping the other would finally suggest getting ice cream.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Mamihlapinatapai",
+  "generatedDate": "Thu May 21 2026"
 }
