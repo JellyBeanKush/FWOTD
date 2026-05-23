@@ -1,10 +1,10 @@
 {
-  "word": "Torschlusspanik",
-  "phonetic": "TORSH-loo-spah-nik",
-  "partOfSpeech": "noun",
-  "definition": "The fear of diminishing opportunities as one ages, often leading to hasty decisions to 'get things done' before it's too late.",
-  "locale": "GERMAN",
-  "example": "HoneyBear experienced Torschlusspanik about career choices, but JellyBean reminded them of endless possibilities.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Torschlusspanik",
-  "generatedDate": "Fri May 22 2026"
+  "word": "Hyggelig",
+  "phonetic": "HOO-guh-lee",
+  "partOfSpeech": "adjective",
+  "definition": "A word describing something as cozy, pleasant, comfortable, or nice, often evoking a feeling of contentment and well-being.",
+  "locale": "DANISH",
+  "example": "HoneyBear and JellyBean found the warm fire quite hyggelig on the cold evening.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Hygge",
+  "generatedDate": "Sat May 23 2026"
 }

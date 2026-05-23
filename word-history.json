@@ -1,5 +1,15 @@
 [
   {
+    "word": "Hyggelig",
+    "phonetic": "HOO-guh-lee",
+    "partOfSpeech": "adjective",
+    "definition": "A word describing something as cozy, pleasant, comfortable, or nice, often evoking a feeling of contentment and well-being.",
+    "locale": "DANISH",
+    "example": "HoneyBear and JellyBean found the warm fire quite hyggelig on the cold evening.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Hygge",
+    "generatedDate": "Sat May 23 2026"
+  },
+  {
     "word": "Torschlusspanik",
     "phonetic": "TORSH-loo-spah-nik",
     "partOfSpeech": "noun",
