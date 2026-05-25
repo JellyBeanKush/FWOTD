@@ -1,10 +1,10 @@
 {
-  "word": "Dépaysement",
-  "phonetic": "day-pay-zuh-MAHN",
+  "word": "Dadirri",
+  "phonetic": "dah-DIR-ree",
   "partOfSpeech": "noun",
-  "definition": "The feeling of being disoriented or out of one's usual environment; the delightful sense of being in a foreign land.",
-  "locale": "FRENCH",
-  "example": "HoneyBear and JellyBean experienced a wonderful dépaysement wandering through the ancient, sun-drenched ruins.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_untranslatable_words#French",
-  "generatedDate": "Sun May 24 2026"
+  "definition": "A deep, spiritual listening and a quiet, aware contemplation, implying a 'coming home' to oneself.",
+  "locale": "NGARINYMAN",
+  "example": "HoneyBear and JellyBean found a peaceful dadirri together, listening to the forest.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Dadirri",
+  "generatedDate": "Mon May 25 2026"
 }
