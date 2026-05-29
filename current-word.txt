@@ -1,10 +1,10 @@
 {
-  "word": "Iktsuarpok",
-  "phonetic": "eek-TSOO-ahr-pohk",
+  "word": "Mizpah",
+  "phonetic": "MIZ-pah",
   "partOfSpeech": "noun",
-  "definition": "The feeling of anticipation that leads you to keep looking outside to see if someone is coming.",
-  "locale": "INUKTITUT",
-  "example": "HoneyBear felt a sense of iktsuarpok while waiting by the window for JellyBean to arrive.",
-  "sourceUrl": "https://en.wiktionary.org/wiki/iktsuarpok",
-  "generatedDate": "Thu May 28 2026"
+  "definition": "A deep emotional bond between people, especially those separated by distance or death, often associated with a prayer or mutual watching.",
+  "locale": "HEBREW",
+  "example": "HoneyBear and JellyBean felt a deep Mizpah, a bond connecting them across any distance.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Mizpah",
+  "generatedDate": "Fri May 29 2026"
 }
