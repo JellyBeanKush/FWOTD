@@ -1,10 +1,10 @@
 {
-  "word": "Mizpah",
-  "phonetic": "MIZ-pah",
-  "partOfSpeech": "noun",
-  "definition": "A deep emotional bond between people, especially those separated by distance or death, often associated with a prayer or mutual watching.",
-  "locale": "HEBREW",
-  "example": "HoneyBear and JellyBean felt a deep Mizpah, a bond connecting them across any distance.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Mizpah",
-  "generatedDate": "Fri May 29 2026"
+  "word": "Natsukashii",
+  "phonetic": "nah-tsoo-KAH-shee",
+  "partOfSpeech": "adjective",
+  "definition": "A feeling of nostalgic longing for the past, accompanied by happiness for the fond memory, rather than sadness.",
+  "locale": "JAPANESE",
+  "example": "HoneyBear felt a natsukashii wave as JellyBean shared old photographs, remembering their youthful adventures.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Natsukashii",
+  "generatedDate": "Sat May 30 2026"
 }
