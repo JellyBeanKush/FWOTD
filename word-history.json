@@ -1,5 +1,15 @@
 [
   {
+    "word": "Sisu",
+    "phonetic": "SEE-soo",
+    "partOfSpeech": "noun",
+    "definition": "The Finnish concept of stoic determination, tenacity of purpose, grit, bravery, and resilience, especially in the face of extreme adversity; it is not momentary courage, but rather the ability to sustain an action against the odds.",
+    "locale": "FINNISH",
+    "example": "Even when the task seemed impossible, HoneyBear and JellyBean showed true sisu, never giving up.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Sisu",
+    "generatedDate": "Mon Jun 01 2026"
+  },
+  {
     "word": "L'appel du vide",
     "phonetic": "lah-pell doo veed",
     "partOfSpeech": "noun",
