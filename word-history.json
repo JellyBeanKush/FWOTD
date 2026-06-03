@@ -1,5 +1,15 @@
 [
   {
+    "word": "Schadenfreude",
+    "phonetic": "SHA-den-froy-duh",
+    "partOfSpeech": "noun",
+    "definition": "A feeling of pleasure or satisfaction derived from seeing or hearing about the troubles, failures, or humiliation of another person.",
+    "locale": "GERMAN",
+    "example": "HoneyBear experienced a moment of Schadenfreude as JellyBean tripped over their own shoelaces.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Schadenfreude",
+    "generatedDate": "Wed Jun 03 2026"
+  },
+  {
     "word": "Flâneur",
     "phonetic": "flah-NUR",
     "partOfSpeech": "noun",

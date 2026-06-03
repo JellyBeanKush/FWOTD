@@ -1,10 +1,10 @@
 {
-  "word": "Flâneur",
-  "phonetic": "flah-NUR",
+  "word": "Schadenfreude",
+  "phonetic": "SHA-den-froy-duh",
   "partOfSpeech": "noun",
-  "definition": "A person who strolls idly through city streets, observing society and life.",
-  "locale": "FRENCH",
-  "example": "HoneyBear and JellyBean often observed the stylish flâneur enjoying the Parisian street life.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Fl%C3%A2neur",
-  "generatedDate": "Tue Jun 02 2026"
+  "definition": "A feeling of pleasure or satisfaction derived from seeing or hearing about the troubles, failures, or humiliation of another person.",
+  "locale": "GERMAN",
+  "example": "HoneyBear experienced a moment of Schadenfreude as JellyBean tripped over their own shoelaces.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Schadenfreude",
+  "generatedDate": "Wed Jun 03 2026"
 }
