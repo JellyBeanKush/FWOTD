@@ -1,5 +1,15 @@
 [
   {
+    "word": "Pochemuchka",
+    "phonetic": "poh-cheh-MOOCH-kuh",
+    "partOfSpeech": "noun",
+    "definition": "A person who asks too many questions; a 'why's-man' or 'why's-girl'.",
+    "locale": "RUSSIAN",
+    "example": "HoneyBear found JellyBean to be a true pochemuchka, always asking 'Why?' about everything.",
+    "sourceUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%BE%D1%87%D0%B5%D0%BC%D1%83%D1%87%D0%BA%D0%B0",
+    "generatedDate": "Thu Jun 04 2026"
+  },
+  {
     "word": "Schadenfreude",
     "phonetic": "SHA-den-froy-duh",
     "partOfSpeech": "noun",
