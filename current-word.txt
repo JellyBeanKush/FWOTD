@@ -1,10 +1,10 @@
 {
-  "word": "Culaccino",
-  "phonetic": "koo-lah-CHEE-noh",
-  "partOfSpeech": "noun",
-  "definition": "The ring or watermark left on a table surface by a cold or wet glass.",
-  "locale": "ITALIAN",
-  "example": "HoneyBear wiped away the culaccino left by JellyBean's cold glass of lemonade on the table.",
-  "sourceUrl": "https://en.wiktionary.org/wiki/culaccino",
-  "generatedDate": "Fri Jun 05 2026"
+  "word": "Tartle",
+  "phonetic": "TAR-tuhl",
+  "partOfSpeech": "verb",
+  "definition": "To hesitate or falter while introducing someone because one has momentarily forgotten their name.",
+  "locale": "SCOTS",
+  "example": "HoneyBear tartled, momentarily forgetting JellyBean's name during introductions.",
+  "sourceUrl": "https://en.wiktionary.org/wiki/tartle",
+  "generatedDate": "Sat Jun 06 2026"
 }
