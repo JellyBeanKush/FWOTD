@@ -1,10 +1,10 @@
 {
-  "word": "Kaizen",
-  "phonetic": "KAI-zen",
-  "partOfSpeech": "noun",
-  "definition": "A Japanese term meaning \"change for the better\" or \"continuous improvement.\" It is a philosophy focused on constantly improving processes and personal efficiency.",
-  "locale": "JAPANESE",
-  "example": "HoneyBear and JellyBean adopted Kaizen, always seeking small improvements in their daily routine.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Kaizen",
-  "generatedDate": "Sun Jun 07 2026"
+  "word": "Forelsket",
+  "phonetic": "for-EL-sket",
+  "partOfSpeech": "adjective",
+  "definition": "The exhilarating feeling one experiences when falling in love; the euphoria of new love.",
+  "locale": "NORWEGIAN",
+  "example": "HoneyBear felt utterly forelsket watching JellyBean dance under the moonlight.",
+  "sourceUrl": "https://en.wiktionary.org/wiki/forelsket",
+  "generatedDate": "Mon Jun 08 2026"
 }
