@@ -1,10 +1,10 @@
 {
-  "word": "Forelsket",
-  "phonetic": "for-EL-sket",
-  "partOfSpeech": "adjective",
-  "definition": "The exhilarating feeling one experiences when falling in love; the euphoria of new love.",
-  "locale": "NORWEGIAN",
-  "example": "HoneyBear felt utterly forelsket watching JellyBean dance under the moonlight.",
-  "sourceUrl": "https://en.wiktionary.org/wiki/forelsket",
-  "generatedDate": "Mon Jun 08 2026"
+  "word": "Yuugen",
+  "phonetic": "yoo-ghen",
+  "partOfSpeech": "noun",
+  "definition": "A profound, mysterious sense of the beauty and transience of the universe, often evoking a feeling of deep emotion.",
+  "locale": "JAPANESE",
+  "example": "HoneyBear and JellyBean felt Yuugen contemplating the vast beauty of the universe during the sunset.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Yugen",
+  "generatedDate": "Tue Jun 09 2026"
 }
