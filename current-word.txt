@@ -1,10 +1,10 @@
 {
-  "word": "Yuugen",
-  "phonetic": "yoo-ghen",
+  "word": "Desenrascanço",
+  "phonetic": "deh-zen-hrah-SKAHN-soo",
   "partOfSpeech": "noun",
-  "definition": "A profound, mysterious sense of the beauty and transience of the universe, often evoking a feeling of deep emotion.",
-  "locale": "JAPANESE",
-  "example": "HoneyBear and JellyBean felt Yuugen contemplating the vast beauty of the universe during the sunset.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Yugen",
-  "generatedDate": "Tue Jun 09 2026"
+  "definition": "The ability to improvise a quick, clever solution to a problem without the proper tools or knowledge, often implying finding a way out of a difficult situation with ingenuity.",
+  "locale": "PORTUGUESE",
+  "example": "HoneyBear, with *desenrascanço*, fixed the leaky faucet, astonishing JellyBean with their quick ingenuity.",
+  "sourceUrl": "https://en.wiktionary.org/wiki/desenrascan%C3%A7o",
+  "generatedDate": "Wed Jun 10 2026"
 }
