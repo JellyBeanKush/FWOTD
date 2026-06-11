@@ -1,10 +1,10 @@
 {
-  "word": "Desenrascanço",
-  "phonetic": "deh-zen-hrah-SKAHN-soo",
+  "word": "Litost",
+  "phonetic": "lih-TOST",
   "partOfSpeech": "noun",
-  "definition": "The ability to improvise a quick, clever solution to a problem without the proper tools or knowledge, often implying finding a way out of a difficult situation with ingenuity.",
-  "locale": "PORTUGUESE",
-  "example": "HoneyBear, with *desenrascanço*, fixed the leaky faucet, astonishing JellyBean with their quick ingenuity.",
-  "sourceUrl": "https://en.wiktionary.org/wiki/desenrascan%C3%A7o",
-  "generatedDate": "Wed Jun 10 2026"
+  "definition": "A state of agony and torment created by the sudden sight of one's own misery, humiliation, and misfortune, distinct from grief or regret.",
+  "locale": "CZECH",
+  "example": "HoneyBear felt a deep litost when JellyBean effortlessly won, a mix of envy and self-pity.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Litost",
+  "generatedDate": "Thu Jun 11 2026"
 }
