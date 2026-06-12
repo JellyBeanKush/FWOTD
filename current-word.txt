@@ -1,10 +1,10 @@
 {
-  "word": "Litost",
-  "phonetic": "lih-TOST",
+  "word": "Wanderlust",
+  "phonetic": "VAN-der-lust",
   "partOfSpeech": "noun",
-  "definition": "A state of agony and torment created by the sudden sight of one's own misery, humiliation, and misfortune, distinct from grief or regret.",
-  "locale": "CZECH",
-  "example": "HoneyBear felt a deep litost when JellyBean effortlessly won, a mix of envy and self-pity.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Litost",
-  "generatedDate": "Thu Jun 11 2026"
+  "definition": "A strong and irresistible desire to travel and explore the world.",
+  "locale": "GERMAN",
+  "example": "HoneyBear and JellyBean felt a sudden wanderlust, longing for a new adventure together.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Wanderlust",
+  "generatedDate": "Fri Jun 12 2026"
 }
