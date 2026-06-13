@@ -1,10 +1,10 @@
 {
-  "word": "Wanderlust",
-  "phonetic": "VAN-der-lust",
+  "word": "Jayus",
+  "phonetic": "JAH-yoos",
   "partOfSpeech": "noun",
-  "definition": "A strong and irresistible desire to travel and explore the world.",
-  "locale": "GERMAN",
-  "example": "HoneyBear and JellyBean felt a sudden wanderlust, longing for a new adventure together.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Wanderlust",
-  "generatedDate": "Fri Jun 12 2026"
+  "definition": "A joke that is so unfunny, poorly told, or corny that one cannot help but laugh.",
+  "locale": "INDONESIAN",
+  "example": "HoneyBear told such a jayus that JellyBean couldn't stop laughing despite herself.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Jayus",
+  "generatedDate": "Sat Jun 13 2026"
 }
