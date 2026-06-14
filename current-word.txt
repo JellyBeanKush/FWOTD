@@ -1,10 +1,10 @@
 {
-  "word": "Jayus",
-  "phonetic": "JAH-yoos",
-  "partOfSpeech": "noun",
-  "definition": "A joke that is so unfunny, poorly told, or corny that one cannot help but laugh.",
-  "locale": "INDONESIAN",
-  "example": "HoneyBear told such a jayus that JellyBean couldn't stop laughing despite herself.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Jayus",
-  "generatedDate": "Sat Jun 13 2026"
+  "word": "Verschlimmbessern",
+  "phonetic": "fehr-SHLIMM-bess-urn",
+  "partOfSpeech": "verb",
+  "definition": "To make something worse while attempting to improve it.",
+  "locale": "GERMAN",
+  "example": "HoneyBear's attempt to fix the lamp only verschlimmbessern it, much to JellyBean's amusement.",
+  "sourceUrl": "https://en.wiktionary.org/wiki/verschlimmbessern",
+  "generatedDate": "Sun Jun 14 2026"
 }
