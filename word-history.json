@@ -1,5 +1,15 @@
 [
   {
+    "word": "Komorebi",
+    "phonetic": "koh-moh-REH-bee",
+    "partOfSpeech": "noun",
+    "definition": "The sunlight filtering through the leaves of trees, creating a captivating dance of light and shadow on the ground.",
+    "locale": "JAPANESE",
+    "example": "HoneyBear and JellyBean paused to admire the komorebi dappling the forest floor during their morning stroll.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Komorebi",
+    "generatedDate": "Mon Jun 15 2026"
+  },
+  {
     "word": "Verschlimmbessern",
     "phonetic": "fehr-SHLIMM-bess-urn",
     "partOfSpeech": "verb",
