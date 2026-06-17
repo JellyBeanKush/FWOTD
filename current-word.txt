@@ -1,10 +1,10 @@
 {
-  "word": "Sobremesa",
-  "phonetic": "soh-bray-MAY-sah",
+  "word": "Tsundoku",
+  "phonetic": "tsoon-DOH-koo",
   "partOfSpeech": "noun",
-  "definition": "The period of time spent lingering at the table after a meal, talking and enjoying the company of others.",
-  "locale": "SPANISH",
-  "example": "HoneyBear and JellyBean enjoyed their sobremesa, sharing stories long after dinner.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Sobremesa",
-  "generatedDate": "Tue Jun 16 2026"
+  "definition": "The act of buying books and letting them pile up unread, typically on shelves or bedside tables.",
+  "locale": "JAPANESE",
+  "example": "HoneyBear observed JellyBean's growing tsundoku, a testament to her ambitious reading list.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Tsundoku",
+  "generatedDate": "Wed Jun 17 2026"
 }
