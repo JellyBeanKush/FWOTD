@@ -1,10 +1,10 @@
 {
-  "word": "Tsundoku",
-  "phonetic": "tsoon-DOH-koo",
+  "word": "Sprezzatura",
+  "phonetic": "spret-tsuh-TOO-ruh",
   "partOfSpeech": "noun",
-  "definition": "The act of buying books and letting them pile up unread, typically on shelves or bedside tables.",
-  "locale": "JAPANESE",
-  "example": "HoneyBear observed JellyBean's growing tsundoku, a testament to her ambitious reading list.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Tsundoku",
-  "generatedDate": "Wed Jun 17 2026"
+  "definition": "The art of performing a difficult task so gracefully that it appears completely effortless.",
+  "locale": "ITALIAN",
+  "example": "HoneyBear admired the effortless sprezzatura with which JellyBean flipped the pancakes during breakfast.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Sprezzatura",
+  "generatedDate": "Thu Jun 18 2026"
 }
