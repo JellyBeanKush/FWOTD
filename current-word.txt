@@ -1,10 +1,10 @@
 {
-  "word": "Resfeber",
-  "phonetic": "ress-fey-ber",
+  "word": "Ohrwurm",
+  "phonetic": "OHR-voorm",
   "partOfSpeech": "noun",
-  "definition": "The restless race of a traveler's heart before the journey begins, a mix of anxiety and excitement.",
-  "locale": "SWEDISH",
-  "example": "HoneyBear and JellyBean shared a thrilling resfeber before their grand adventure.",
-  "sourceUrl": "https://en.wiktionary.org/wiki/resfeber",
-  "generatedDate": "Sat Jun 20 2026"
+  "definition": "A catchy tune or song that repeatedly plays in one's mind, often against one's will; an earworm.",
+  "locale": "GERMAN",
+  "example": "HoneyBear had a terrible Ohrwurm from the jingle, making JellyBean hum it too.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Earworm#German",
+  "generatedDate": "Sun Jun 21 2026"
 }
