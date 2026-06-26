@@ -1,10 +1,10 @@
 {
-  "word": "Gaman",
-  "phonetic": "GAH-mahn",
+  "word": "Cafuné",
+  "phonetic": "kah-foo-NEH",
   "partOfSpeech": "noun",
-  "definition": "The Japanese word for enduring the seemingly unbearable with patience and dignity. It embodies perseverance, self-restraint, and inner strength.",
-  "locale": "JAPANESE",
-  "example": "HoneyBear and JellyBean showed incredible gaman, patiently waiting their turn on the crowded slide.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Gaman_(term)",
-  "generatedDate": "Mon Jun 22 2026"
+  "definition": "The act of tenderly running one's fingers through someone's hair, a gentle and loving gesture.",
+  "locale": "BRAZILIAN PORTUGUESE",
+  "example": "HoneyBear gently gave JellyBean a soft cafuné, making them smile contentedly.",
+  "sourceUrl": "https://en.wiktionary.org/wiki/cafun%C3%A9",
+  "generatedDate": "Fri Jun 26 2026"
 }
