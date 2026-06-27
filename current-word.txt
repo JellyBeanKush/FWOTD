@@ -1,10 +1,10 @@
 {
-  "word": "Cafuné",
-  "phonetic": "kah-foo-NEH",
+  "word": "L'esprit de l'escalier",
+  "phonetic": "lah-spree duh leh-skal-YAY",
   "partOfSpeech": "noun",
-  "definition": "The act of tenderly running one's fingers through someone's hair, a gentle and loving gesture.",
-  "locale": "BRAZILIAN PORTUGUESE",
-  "example": "HoneyBear gently gave JellyBean a soft cafuné, making them smile contentedly.",
-  "sourceUrl": "https://en.wiktionary.org/wiki/cafun%C3%A9",
-  "generatedDate": "Fri Jun 26 2026"
+  "definition": "The feeling of thinking of the perfect witty remark or comeback only after the moment for it has passed, typically when leaving a conversation.",
+  "locale": "FRENCH",
+  "example": "HoneyBear wished she had L'esprit de l'escalier, but JellyBean always had the perfect retort immediately.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/L%27esprit_de_l%27escalier",
+  "generatedDate": "Sat Jun 27 2026"
 }
