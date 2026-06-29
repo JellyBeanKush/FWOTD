@@ -1,10 +1,10 @@
 {
-  "word": "Mudita",
-  "phonetic": "Moo-dee-tah",
+  "word": "Kairos",
+  "phonetic": "KAI-ros",
   "partOfSpeech": "noun",
-  "definition": "Sympathetic or vicarious joy, the pleasure that comes from delighting in other people's well-being rather than regretting it.",
-  "locale": "PALI",
-  "example": "HoneyBear felt a deep mudita as JellyBean successfully launched their new project, genuinely sharing in their happiness.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Mudit%C4%81",
-  "generatedDate": "Sun Jun 28 2026"
+  "definition": "The perfect, critical, or opportune moment, especially in rhetoric or decision-making, where conditions are just right for a decisive action.",
+  "locale": "ANCIENT GREEK",
+  "example": "HoneyBear and JellyBean seized the Kairos moment to launch their brilliant new venture.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Kairos",
+  "generatedDate": "Mon Jun 29 2026"
 }
