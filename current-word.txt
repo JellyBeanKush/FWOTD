@@ -1,10 +1,10 @@
 {
-  "word": "Kairos",
-  "phonetic": "KAI-ros",
+  "word": "Amae",
+  "phonetic": "ah-MAH-eh",
   "partOfSpeech": "noun",
-  "definition": "The perfect, critical, or opportune moment, especially in rhetoric or decision-making, where conditions are just right for a decisive action.",
-  "locale": "ANCIENT GREEK",
-  "example": "HoneyBear and JellyBean seized the Kairos moment to launch their brilliant new venture.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Kairos",
-  "generatedDate": "Mon Jun 29 2026"
+  "definition": "The emotional state of passive, indulgent dependence, where one presumes the other's goodwill and seeks care.",
+  "locale": "JAPANESE",
+  "example": "HoneyBear's quiet plea for attention was a clear sign of amae, which JellyBean gently indulged.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Amae",
+  "generatedDate": "Tue Jun 30 2026"
 }
