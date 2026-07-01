@@ -1,10 +1,10 @@
 {
-  "word": "Amae",
-  "phonetic": "ah-MAH-eh",
+  "word": "Shinrinyoku",
+  "phonetic": "shin-reen-YOH-koo",
   "partOfSpeech": "noun",
-  "definition": "The emotional state of passive, indulgent dependence, where one presumes the other's goodwill and seeks care.",
+  "definition": "The practice of spending time in a forest environment to enhance health and well-being, often translated as 'forest bathing'.",
   "locale": "JAPANESE",
-  "example": "HoneyBear's quiet plea for attention was a clear sign of amae, which JellyBean gently indulged.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Amae",
-  "generatedDate": "Tue Jun 30 2026"
+  "example": "HoneyBear and JellyBean felt refreshed after their shinrinyoku session, breathing deeply amongst the trees.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Forest_bathing",
+  "generatedDate": "Wed Jul 01 2026"
 }
