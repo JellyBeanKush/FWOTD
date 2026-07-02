@@ -1,10 +1,10 @@
 {
-  "word": "Shinrinyoku",
-  "phonetic": "shin-reen-YOH-koo",
+  "word": "Saudade",
+  "phonetic": "sow-DAH-djee",
   "partOfSpeech": "noun",
-  "definition": "The practice of spending time in a forest environment to enhance health and well-being, often translated as 'forest bathing'.",
-  "locale": "JAPANESE",
-  "example": "HoneyBear and JellyBean felt refreshed after their shinrinyoku session, breathing deeply amongst the trees.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Forest_bathing",
-  "generatedDate": "Wed Jul 01 2026"
+  "definition": "A deep emotional state of nostalgic or profound melancholic longing for an absent something or someone that one loves. It often carries a repressed knowledge that the object of longing might never return.",
+  "locale": "PORTUGUESE",
+  "example": "HoneyBear felt a profound saudade for JellyBean's comforting presence after their long trip apart.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Saudade",
+  "generatedDate": "Thu Jul 02 2026"
 }

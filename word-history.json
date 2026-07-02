@@ -1,5 +1,15 @@
 [
   {
+    "word": "Saudade",
+    "phonetic": "sow-DAH-djee",
+    "partOfSpeech": "noun",
+    "definition": "A deep emotional state of nostalgic or profound melancholic longing for an absent something or someone that one loves. It often carries a repressed knowledge that the object of longing might never return.",
+    "locale": "PORTUGUESE",
+    "example": "HoneyBear felt a profound saudade for JellyBean's comforting presence after their long trip apart.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Saudade",
+    "generatedDate": "Thu Jul 02 2026"
+  },
+  {
     "word": "Shinrinyoku",
     "phonetic": "shin-reen-YOH-koo",
     "partOfSpeech": "noun",
