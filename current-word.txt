@@ -1,10 +1,10 @@
 {
-  "word": "Saudade",
-  "phonetic": "sow-DAH-djee",
+  "word": "Wabi-sabi",
+  "phonetic": "wah-bee SAH-bee",
   "partOfSpeech": "noun",
-  "definition": "A deep emotional state of nostalgic or profound melancholic longing for an absent something or someone that one loves. It often carries a repressed knowledge that the object of longing might never return.",
-  "locale": "PORTUGUESE",
-  "example": "HoneyBear felt a profound saudade for JellyBean's comforting presence after their long trip apart.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Saudade",
-  "generatedDate": "Thu Jul 02 2026"
+  "definition": "A Japanese aesthetic concept that finds beauty in imperfection, transience, and natural simplicity; appreciating the elegant decay and rustic charm of objects.",
+  "locale": "JAPANESE",
+  "example": "HoneyBear and JellyBean admired the old, chipped teacup, finding a wabi-sabi beauty in its imperfections.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Wabi-sabi",
+  "generatedDate": "Fri Jul 03 2026"
 }
