@@ -1,5 +1,15 @@
 [
   {
+    "word": "Ikigai",
+    "phonetic": "ee-kee-GAH-ee",
+    "partOfSpeech": "noun",
+    "definition": "A reason for being; the purpose or meaning of life that makes one's life worthwhile.",
+    "locale": "JAPANESE",
+    "example": "HoneyBear believed finding her ikigai made her mornings with JellyBean truly meaningful.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ikigai",
+    "generatedDate": "Sat Jul 04 2026"
+  },
+  {
     "word": "Wabi-sabi",
     "phonetic": "wah-bee SAH-bee",
     "partOfSpeech": "noun",

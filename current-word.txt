@@ -1,10 +1,10 @@
 {
-  "word": "Wabi-sabi",
-  "phonetic": "wah-bee SAH-bee",
+  "word": "Ikigai",
+  "phonetic": "ee-kee-GAH-ee",
   "partOfSpeech": "noun",
-  "definition": "A Japanese aesthetic concept that finds beauty in imperfection, transience, and natural simplicity; appreciating the elegant decay and rustic charm of objects.",
+  "definition": "A reason for being; the purpose or meaning of life that makes one's life worthwhile.",
   "locale": "JAPANESE",
-  "example": "HoneyBear and JellyBean admired the old, chipped teacup, finding a wabi-sabi beauty in its imperfections.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Wabi-sabi",
-  "generatedDate": "Fri Jul 03 2026"
+  "example": "HoneyBear believed finding her ikigai made her mornings with JellyBean truly meaningful.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Ikigai",
+  "generatedDate": "Sat Jul 04 2026"
 }
