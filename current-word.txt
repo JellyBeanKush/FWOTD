@@ -1,10 +1,10 @@
 {
-  "word": "Ikigai",
-  "phonetic": "ee-kee-GAH-ee",
+  "word": "Hiraeth",
+  "phonetic": "HEER-eyeth",
   "partOfSpeech": "noun",
-  "definition": "A reason for being; the purpose or meaning of life that makes one's life worthwhile.",
-  "locale": "JAPANESE",
-  "example": "HoneyBear believed finding her ikigai made her mornings with JellyBean truly meaningful.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Ikigai",
-  "generatedDate": "Sat Jul 04 2026"
+  "definition": "A profound longing for something, especially one's homeland, a time, or a person, which may or may not exist. It's often tinged with sadness or grief for the loss or absence of something.",
+  "locale": "WELSH",
+  "example": "HoneyBear felt a deep *hiraeth* for their childhood home, a feeling JellyBean deeply understood.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Hiraeth",
+  "generatedDate": "Sun Jul 05 2026"
 }
