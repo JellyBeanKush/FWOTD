@@ -1,10 +1,10 @@
 {
-  "word": "Hiraeth",
-  "phonetic": "HEER-eyeth",
+  "word": "Flemmardise",
+  "phonetic": "flem-ar-DEEZ",
   "partOfSpeech": "noun",
-  "definition": "A profound longing for something, especially one's homeland, a time, or a person, which may or may not exist. It's often tinged with sadness or grief for the loss or absence of something.",
-  "locale": "WELSH",
-  "example": "HoneyBear felt a deep *hiraeth* for their childhood home, a feeling JellyBean deeply understood.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Hiraeth",
-  "generatedDate": "Sun Jul 05 2026"
+  "definition": "A state of extreme laziness or idleness; the act of procrastinating or avoiding effort.",
+  "locale": "FRENCH",
+  "example": "Due to HoneyBear's flemmardise, JellyBean had to complete all the tasks alone.",
+  "sourceUrl": "https://en.wiktionary.org/wiki/flemmardise",
+  "generatedDate": "Mon Jul 06 2026"
 }
