@@ -1,10 +1,10 @@
 {
-  "word": "Duende",
-  "phonetic": "Dwen-DEH",
-  "partOfSpeech": "noun",
-  "definition": "A quality of passion and inspiration, often associated with art and performance, evoking deep emotional response.",
-  "locale": "SPANISH",
-  "example": "HoneyBear felt the duende in JellyBean's passionate guitar solo, a truly moving performance.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Duende_(art)",
-  "generatedDate": "Thu Jul 09 2026"
+  "word": "Morgenfrisk",
+  "phonetic": "MOR-gen-frisk",
+  "partOfSpeech": "adjective",
+  "definition": "The refreshed and well-rested feeling one experiences after a good night's sleep.",
+  "locale": "DANISH",
+  "example": "HoneyBear and JellyBean felt perfectly morgenfrisk, ready to tackle their exciting day together.",
+  "sourceUrl": "https://www.babbel.com/en/magazine/untranslatable-words-around-the-world",
+  "generatedDate": "Fri Jul 10 2026"
 }
