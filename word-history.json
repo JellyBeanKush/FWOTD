@@ -1,5 +1,15 @@
 [
   {
+    "word": "Lagom",
+    "phonetic": "LAH-gum",
+    "partOfSpeech": "adjective",
+    "definition": "It means 'just the right amount', 'not too much, not too little', describing a state of balance and appropriateness.",
+    "locale": "SWEDISH",
+    "example": "HoneyBear and JellyBean found the picnic basket contained lagom snacks, just perfect for their afternoon.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Lagom",
+    "generatedDate": "Sat Jul 11 2026"
+  },
+  {
     "word": "Morgenfrisk",
     "phonetic": "MOR-gen-frisk",
     "partOfSpeech": "adjective",

@@ -1,10 +1,10 @@
 {
-  "word": "Morgenfrisk",
-  "phonetic": "MOR-gen-frisk",
+  "word": "Lagom",
+  "phonetic": "LAH-gum",
   "partOfSpeech": "adjective",
-  "definition": "The refreshed and well-rested feeling one experiences after a good night's sleep.",
-  "locale": "DANISH",
-  "example": "HoneyBear and JellyBean felt perfectly morgenfrisk, ready to tackle their exciting day together.",
-  "sourceUrl": "https://www.babbel.com/en/magazine/untranslatable-words-around-the-world",
-  "generatedDate": "Fri Jul 10 2026"
+  "definition": "It means 'just the right amount', 'not too much, not too little', describing a state of balance and appropriateness.",
+  "locale": "SWEDISH",
+  "example": "HoneyBear and JellyBean found the picnic basket contained lagom snacks, just perfect for their afternoon.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Lagom",
+  "generatedDate": "Sat Jul 11 2026"
 }
