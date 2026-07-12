@@ -1,10 +1,10 @@
 {
-  "word": "Lagom",
-  "phonetic": "LAH-gum",
-  "partOfSpeech": "adjective",
-  "definition": "It means 'just the right amount', 'not too much, not too little', describing a state of balance and appropriateness.",
-  "locale": "SWEDISH",
-  "example": "HoneyBear and JellyBean found the picnic basket contained lagom snacks, just perfect for their afternoon.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Lagom",
-  "generatedDate": "Sat Jul 11 2026"
+  "word": "Meraki",
+  "phonetic": "meh-RAH-kee",
+  "partOfSpeech": "noun",
+  "definition": "The act of putting your soul, creativity, or love into something; the essence of yourself that you put into your work.",
+  "locale": "GREEK",
+  "example": "HoneyBear admired JellyBean's artwork, sensing the deep Meraki poured into every brushstroke.",
+  "sourceUrl": "https://en.wiktionary.org/wiki/μεράκι",
+  "generatedDate": "Sun Jul 12 2026"
 }
