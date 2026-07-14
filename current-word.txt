@@ -1,10 +1,10 @@
 {
-  "word": "Ya'aburnee",
-  "phonetic": "yah-ah-bur-NEE",
-  "partOfSpeech": "expression",
-  "definition": "A declaration expressing the hope of dying before another person, due to how unbearable life would be without them.",
-  "locale": "ARABIC",
-  "example": "HoneyBear gently squeezed JellyBean's hand, whispering, \"Ya'aburnee,\" her eyes conveying a deep, lifelong affection.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_untranslatable_words",
-  "generatedDate": "Mon Jul 13 2026"
+  "word": "Pana po'o",
+  "phonetic": "PAH-nah POH-oh",
+  "partOfSpeech": "verb",
+  "definition": "The act of scratching your head to help you remember something you've forgotten.",
+  "locale": "HAWAIIAN",
+  "example": "HoneyBear saw JellyBean pana po'o, trying hard to remember where the car keys were hidden.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Hawaiian_language",
+  "generatedDate": "Tue Jul 14 2026"
 }
