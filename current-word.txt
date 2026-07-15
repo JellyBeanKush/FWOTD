@@ -1,10 +1,10 @@
 {
-  "word": "Pana po'o",
-  "phonetic": "PAH-nah POH-oh",
-  "partOfSpeech": "verb",
-  "definition": "The act of scratching your head to help you remember something you've forgotten.",
-  "locale": "HAWAIIAN",
-  "example": "HoneyBear saw JellyBean pana po'o, trying hard to remember where the car keys were hidden.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Hawaiian_language",
-  "generatedDate": "Tue Jul 14 2026"
+  "word": "Fika",
+  "phonetic": "FEE-kah",
+  "partOfSpeech": "noun",
+  "definition": "A traditional Swedish coffee break, often with pastries, seen as a social institution for taking a break with friends, family, or colleagues.",
+  "locale": "SWEDISH",
+  "example": "HoneyBear and JellyBean decided their afternoon needed a proper fika to relax and chat.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Fika",
+  "generatedDate": "Wed Jul 15 2026"
 }
