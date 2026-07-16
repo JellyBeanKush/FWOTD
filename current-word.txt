@@ -1,10 +1,10 @@
 {
-  "word": "Fika",
-  "phonetic": "FEE-kah",
+  "word": "Sehnsucht",
+  "phonetic": "ZAYN-zookt",
   "partOfSpeech": "noun",
-  "definition": "A traditional Swedish coffee break, often with pastries, seen as a social institution for taking a break with friends, family, or colleagues.",
-  "locale": "SWEDISH",
-  "example": "HoneyBear and JellyBean decided their afternoon needed a proper fika to relax and chat.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Fika",
-  "generatedDate": "Wed Jul 15 2026"
+  "definition": "A profound longing for something distant, ideal, or unattainable, often accompanied by a feeling of melancholy.",
+  "locale": "GERMAN",
+  "example": "HoneyBear felt a deep Sehnsucht for the quiet countryside, a feeling JellyBean understood.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Sehnsucht",
+  "generatedDate": "Thu Jul 16 2026"
 }
