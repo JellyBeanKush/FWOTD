@@ -1,10 +1,10 @@
 {
-  "word": "Sehnsucht",
-  "phonetic": "ZAYN-zookt",
+  "word": "Weltschmerz",
+  "phonetic": "VELT-shmerts",
   "partOfSpeech": "noun",
-  "definition": "A profound longing for something distant, ideal, or unattainable, often accompanied by a feeling of melancholy.",
+  "definition": "A feeling of melancholy and weariness arising from the awareness of the world's actual imperfections and the disparity between reality and an ideal state.",
   "locale": "GERMAN",
-  "example": "HoneyBear felt a deep Sehnsucht for the quiet countryside, a feeling JellyBean understood.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Sehnsucht",
-  "generatedDate": "Thu Jul 16 2026"
+  "example": "HoneyBear and JellyBean discussed their Weltschmerz, contemplating the world's complex problems.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Weltschmerz",
+  "generatedDate": "Fri Jul 17 2026"
 }
