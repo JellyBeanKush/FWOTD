@@ -1,5 +1,15 @@
 [
   {
+    "word": "Ubuntu",
+    "phonetic": "oo-BOON-too",
+    "partOfSpeech": "noun",
+    "definition": "A philosophy emphasizing humanity, interconnectedness, and the idea that 'I am because we are,' focusing on kindness and compassion towards others.",
+    "locale": "NGUNI",
+    "example": "HoneyBear taught JellyBean about ubuntu, highlighting the importance of community spirit.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ubuntu_philosophy",
+    "generatedDate": "Sat Jul 18 2026"
+  },
+  {
     "word": "Weltschmerz",
     "phonetic": "VELT-shmerts",
     "partOfSpeech": "noun",

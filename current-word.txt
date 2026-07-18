@@ -1,10 +1,10 @@
 {
-  "word": "Weltschmerz",
-  "phonetic": "VELT-shmerts",
+  "word": "Ubuntu",
+  "phonetic": "oo-BOON-too",
   "partOfSpeech": "noun",
-  "definition": "A feeling of melancholy and weariness arising from the awareness of the world's actual imperfections and the disparity between reality and an ideal state.",
-  "locale": "GERMAN",
-  "example": "HoneyBear and JellyBean discussed their Weltschmerz, contemplating the world's complex problems.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Weltschmerz",
-  "generatedDate": "Fri Jul 17 2026"
+  "definition": "A philosophy emphasizing humanity, interconnectedness, and the idea that 'I am because we are,' focusing on kindness and compassion towards others.",
+  "locale": "NGUNI",
+  "example": "HoneyBear taught JellyBean about ubuntu, highlighting the importance of community spirit.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Ubuntu_philosophy",
+  "generatedDate": "Sat Jul 18 2026"
 }
