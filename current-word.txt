@@ -1,10 +1,10 @@
 {
-  "word": "Ubuntu",
-  "phonetic": "oo-BOON-too",
+  "word": "Fernweh",
+  "phonetic": "FEHRN-veh",
   "partOfSpeech": "noun",
-  "definition": "A philosophy emphasizing humanity, interconnectedness, and the idea that 'I am because we are,' focusing on kindness and compassion towards others.",
-  "locale": "NGUNI",
-  "example": "HoneyBear taught JellyBean about ubuntu, highlighting the importance of community spirit.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Ubuntu_philosophy",
-  "generatedDate": "Sat Jul 18 2026"
+  "definition": "A deep longing or craving to travel and explore far-off places, often described as \"farsickness.\"",
+  "locale": "GERMAN",
+  "example": "HoneyBear and JellyBean both felt a strong fernweh, dreaming of adventures in distant lands.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Fernweh",
+  "generatedDate": "Sun Jul 19 2026"
 }
