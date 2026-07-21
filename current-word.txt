@@ -1,10 +1,10 @@
 {
-  "word": "Dépaysement",
-  "phonetic": "deh-pay-zuh-MAHN",
+  "word": "Kalon",
+  "phonetic": "KAH-lon",
   "partOfSpeech": "noun",
-  "definition": "The feeling of disorientation, of being out of one's familiar environment; often used positively to describe the refreshing sensation of being in a foreign place.",
-  "locale": "FRENCH",
-  "example": "HoneyBear embraced the profound dépaysement of their Parisian adventure, a feeling JellyBean found quite unsettling.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/D%C3%A9paysement",
-  "generatedDate": "Mon Jul 20 2026"
+  "definition": "The ideal of physical and moral beauty, often referring to a beauty that inspires admiration and goodness.",
+  "locale": "GREEK",
+  "example": "HoneyBear admired JellyBean's kalon, finding their inner and outer beauty truly inspiring and virtuous.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Kalon",
+  "generatedDate": "Tue Jul 21 2026"
 }
