@@ -1,10 +1,10 @@
 {
-  "word": "Kalon",
-  "phonetic": "KAH-lon",
+  "word": "Mångata",
+  "phonetic": "MAWN-gah-tah",
   "partOfSpeech": "noun",
-  "definition": "The ideal of physical and moral beauty, often referring to a beauty that inspires admiration and goodness.",
-  "locale": "GREEK",
-  "example": "HoneyBear admired JellyBean's kalon, finding their inner and outer beauty truly inspiring and virtuous.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Kalon",
-  "generatedDate": "Tue Jul 21 2026"
+  "definition": "The shimmering, road-like reflection of the moon on water.",
+  "locale": "SWEDISH",
+  "example": "HoneyBear watched the mångata shimmer, making JellyBean wonder about its magic.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/M%C3%A5ngata",
+  "generatedDate": "Wed Jul 22 2026"
 }
