@@ -1,10 +1,10 @@
 {
-  "word": "Mångata",
-  "phonetic": "MAWN-gah-tah",
+  "word": "Hygge",
+  "phonetic": "HOO-gah",
   "partOfSpeech": "noun",
-  "definition": "The shimmering, road-like reflection of the moon on water.",
-  "locale": "SWEDISH",
-  "example": "HoneyBear watched the mångata shimmer, making JellyBean wonder about its magic.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/M%C3%A5ngata",
-  "generatedDate": "Wed Jul 22 2026"
+  "definition": "A quality of coziness and comfortable conviviality that engenders a feeling of contentment or well-being.",
+  "locale": "DANISH",
+  "example": "HoneyBear and JellyBean enjoyed the Hygge of their warm cabin during the winter storm.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Hygge",
+  "generatedDate": "Thu Jul 23 2026"
 }
