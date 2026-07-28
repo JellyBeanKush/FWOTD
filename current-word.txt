@@ -1,10 +1,10 @@
 {
-  "word": "Jugaad",
-  "phonetic": "joo-GAAD",
+  "word": "Gigil",
+  "phonetic": "GEE-gil",
   "partOfSpeech": "noun",
-  "definition": "A flexible approach to problem-solving that uses limited resources in an innovative way, often implying a quick, makeshift, or resourceful solution.",
-  "locale": "HINDI",
-  "example": "HoneyBear admired JellyBean's clever jugaad for fixing their wobbly table with just a book.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Jugaad",
-  "generatedDate": "Mon Jul 27 2026"
+  "definition": "The overwhelming feeling of wanting to pinch, squeeze, or otherwise affectionately manhandle something or someone incredibly cute.",
+  "locale": "TAGALOG",
+  "example": "HoneyBear felt a strong gigil when JellyBean accidentally tripped over their own feet.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_untranslatable_words#Gigil",
+  "generatedDate": "Tue Jul 28 2026"
 }
