@@ -1,5 +1,15 @@
 [
   {
+    "word": "Pochemuchka",
+    "phonetic": "poh-cheh-MOOCH-kuh",
+    "partOfSpeech": "noun",
+    "definition": "A person who asks too many questions.",
+    "locale": "RUSSIAN",
+    "example": "HoneyBear found JellyBean to be a real pochemuchka, always asking 'why?' about everything.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Pochemuchka",
+    "generatedDate": "Wed Jul 29 2026"
+  },
+  {
     "word": "Gigil",
     "phonetic": "GEE-gil",
     "partOfSpeech": "noun",

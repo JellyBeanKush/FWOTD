@@ -1,10 +1,10 @@
 {
-  "word": "Gigil",
-  "phonetic": "GEE-gil",
+  "word": "Pochemuchka",
+  "phonetic": "poh-cheh-MOOCH-kuh",
   "partOfSpeech": "noun",
-  "definition": "The overwhelming feeling of wanting to pinch, squeeze, or otherwise affectionately manhandle something or someone incredibly cute.",
-  "locale": "TAGALOG",
-  "example": "HoneyBear felt a strong gigil when JellyBean accidentally tripped over their own feet.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_untranslatable_words#Gigil",
-  "generatedDate": "Tue Jul 28 2026"
+  "definition": "A person who asks too many questions.",
+  "locale": "RUSSIAN",
+  "example": "HoneyBear found JellyBean to be a real pochemuchka, always asking 'why?' about everything.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Pochemuchka",
+  "generatedDate": "Wed Jul 29 2026"
 }
