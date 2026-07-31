@@ -1,5 +1,15 @@
 [
   {
+    "word": "Schadenfreude",
+    "phonetic": "SHAH-dn-froy-duh",
+    "partOfSpeech": "noun",
+    "definition": "Pleasure derived by someone from another person's misfortune.",
+    "locale": "GERMAN",
+    "example": "HoneyBear felt a tiny bit of Schadenfreude watching JellyBean slip on the banana peel.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Schadenfreude",
+    "generatedDate": "Fri Jul 31 2026"
+  },
+  {
     "word": "Tingo",
     "phonetic": "TING-goh",
     "partOfSpeech": "verb",

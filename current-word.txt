@@ -1,10 +1,10 @@
 {
-  "word": "Tingo",
-  "phonetic": "TING-goh",
-  "partOfSpeech": "verb",
-  "definition": "To gradually take all the objects one desires from a friend's house by borrowing them one by one until nothing is left.",
-  "locale": "RAPA NUI",
-  "example": "HoneyBear would often tingo JellyBean's snacks, borrowing them until the pantry was bare.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_untranslatable_words",
-  "generatedDate": "Thu Jul 30 2026"
+  "word": "Schadenfreude",
+  "phonetic": "SHAH-dn-froy-duh",
+  "partOfSpeech": "noun",
+  "definition": "Pleasure derived by someone from another person's misfortune.",
+  "locale": "GERMAN",
+  "example": "HoneyBear felt a tiny bit of Schadenfreude watching JellyBean slip on the banana peel.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Schadenfreude",
+  "generatedDate": "Fri Jul 31 2026"
 }
