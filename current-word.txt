@@ -1,10 +1,10 @@
 {
-  "word": "Schadenfreude",
-  "phonetic": "SHAH-dn-froy-duh",
+  "word": "Gökotta",
+  "phonetic": "yer-KOT-tah",
   "partOfSpeech": "noun",
-  "definition": "Pleasure derived by someone from another person's misfortune.",
-  "locale": "GERMAN",
-  "example": "HoneyBear felt a tiny bit of Schadenfreude watching JellyBean slip on the banana peel.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Schadenfreude",
-  "generatedDate": "Fri Jul 31 2026"
+  "definition": "The act of waking up early in the morning specifically to go outside and listen to the birds sing, particularly the first cuckoo of spring.",
+  "locale": "SWEDISH",
+  "example": "HoneyBear and JellyBean enjoyed a peaceful gökotta, listening to the morning birds.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Gökotta",
+  "generatedDate": "Sat Aug 01 2026"
 }
