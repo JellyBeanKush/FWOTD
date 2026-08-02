@@ -1,10 +1,10 @@
 {
-  "word": "Gökotta",
-  "phonetic": "yer-KOT-tah",
+  "word": "Gluggaveður",
+  "phonetic": "GLOOG-gah-VEH-dhoor",
   "partOfSpeech": "noun",
-  "definition": "The act of waking up early in the morning specifically to go outside and listen to the birds sing, particularly the first cuckoo of spring.",
-  "locale": "SWEDISH",
-  "example": "HoneyBear and JellyBean enjoyed a peaceful gökotta, listening to the morning birds.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Gökotta",
-  "generatedDate": "Sat Aug 01 2026"
+  "definition": "Weather that looks beautiful from indoors, but is actually unpleasant or cold outside, making you happy to stay inside.",
+  "locale": "ICELANDIC",
+  "example": "HoneyBear and JellyBean admired the Gluggaveður from their cozy living room, thankful they weren't outside.",
+  "sourceUrl": "https://www.icelandic-online.com/dictionary/gluggavedur/",
+  "generatedDate": "Sun Aug 02 2026"
 }
