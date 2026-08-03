@@ -1,10 +1,10 @@
 {
-  "word": "Gluggaveður",
-  "phonetic": "GLOOG-gah-VEH-dhoor",
+  "word": "Yūgen",
+  "phonetic": "yoo-gen",
   "partOfSpeech": "noun",
-  "definition": "Weather that looks beautiful from indoors, but is actually unpleasant or cold outside, making you happy to stay inside.",
-  "locale": "ICELANDIC",
-  "example": "HoneyBear and JellyBean admired the Gluggaveður from their cozy living room, thankful they weren't outside.",
-  "sourceUrl": "https://www.icelandic-online.com/dictionary/gluggavedur/",
-  "generatedDate": "Sun Aug 02 2026"
+  "definition": "A profound, mysterious sense of the beauty of the universe, and the sad beauty of human suffering.",
+  "locale": "JAPANESE",
+  "example": "HoneyBear and JellyBean felt a deep sense of yūgen while gazing at the ancient temple garden.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Y%C5%ABgen",
+  "generatedDate": "Mon Aug 03 2026"
 }
