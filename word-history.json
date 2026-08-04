@@ -1,5 +1,15 @@
 [
   {
+    "word": "Sisu",
+    "phonetic": "SEE-soo",
+    "partOfSpeech": "noun",
+    "definition": "A unique Finnish concept describing a strength of will, determination, perseverance, and acting rationally in the face of adversity. It is not momentary courage, but the ability to sustain an action against the odds.",
+    "locale": "FINNISH",
+    "example": "HoneyBear admired JellyBean's sisu when facing a difficult challenge, never giving up.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Sisu",
+    "generatedDate": "Tue Aug 04 2026"
+  },
+  {
     "word": "Yūgen",
     "phonetic": "yoo-gen",
     "partOfSpeech": "noun",
