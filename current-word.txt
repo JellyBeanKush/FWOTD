@@ -1,10 +1,10 @@
 {
-  "word": "Voorpret",
-  "phonetic": "FOHR-pret",
-  "partOfSpeech": "noun",
-  "definition": "The joyful anticipation and pleasure one feels before an event or experience takes place.",
-  "locale": "DUTCH",
-  "example": "HoneyBear and JellyBean shared much voorpret, excitedly planning their upcoming picnic together.",
-  "sourceUrl": "https://en.wiktionary.org/wiki/voorpret",
-  "generatedDate": "Wed Aug 05 2026"
+  "word": "Tartle",
+  "phonetic": "TAHR-tl",
+  "partOfSpeech": "verb",
+  "definition": "To hesitate while introducing someone because you have forgotten their name.",
+  "locale": "SCOTTISH",
+  "example": "HoneyBear experienced a momentary tartle when introducing JellyBean to a new friend.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Tartle",
+  "generatedDate": "Fri Aug 07 2026"
 }
