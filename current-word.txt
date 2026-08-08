@@ -1,10 +1,10 @@
 {
-  "word": "Tartle",
-  "phonetic": "TAHR-tl",
-  "partOfSpeech": "verb",
-  "definition": "To hesitate while introducing someone because you have forgotten their name.",
-  "locale": "SCOTTISH",
-  "example": "HoneyBear experienced a momentary tartle when introducing JellyBean to a new friend.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Tartle",
-  "generatedDate": "Fri Aug 07 2026"
+  "word": "Aware",
+  "phonetic": "ah-WAH-reh",
+  "partOfSpeech": "noun",
+  "definition": "A deep, quiet, and gentle sadness or melancholy, often accompanied by an appreciation for the transient beauty of things, typical of the Japanese aesthetic.",
+  "locale": "JAPANESE",
+  "example": "HoneyBear felt an aware as the blossoms fell, while JellyBean admired their transient beauty.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Mono_no_aware",
+  "generatedDate": "Sat Aug 08 2026"
 }
