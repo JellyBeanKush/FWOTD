@@ -1,10 +1,10 @@
 {
-  "word": "Litost",
-  "phonetic": "lih-TŌST",
+  "word": "Komorebi",
+  "phonetic": "koh-moh-REH-bee",
   "partOfSpeech": "noun",
-  "definition": "A state of torment created by the sudden insight into one's own misery, often implying humiliation or regret for being powerless in the face of another's superiority.",
-  "locale": "CZECH",
-  "example": "HoneyBear felt a pang of litost, seeing JellyBean effortlessly win the game.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Litost",
-  "generatedDate": "Sun Aug 09 2026"
+  "definition": "The sunlight filtering through the leaves of trees.",
+  "locale": "JAPANESE",
+  "example": "HoneyBear and JellyBean enjoyed the beautiful komorebi shimmering through the autumn leaves on their walk.",
+  "sourceUrl": "https://en.wiktionary.org/wiki/%E6%9C%A8%E6%BC%8F%E3%82%8C%E6%97%A5",
+  "generatedDate": "Mon Aug 10 2026"
 }
