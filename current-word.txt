@@ -1,10 +1,10 @@
 {
-  "word": "Komorebi",
-  "phonetic": "koh-moh-REH-bee",
+  "word": "Petrichor",
+  "phonetic": "PEH-tri-kohr",
   "partOfSpeech": "noun",
-  "definition": "The sunlight filtering through the leaves of trees.",
-  "locale": "JAPANESE",
-  "example": "HoneyBear and JellyBean enjoyed the beautiful komorebi shimmering through the autumn leaves on their walk.",
-  "sourceUrl": "https://en.wiktionary.org/wiki/%E6%9C%A8%E6%BC%8F%E3%82%8C%E6%97%A5",
-  "generatedDate": "Mon Aug 10 2026"
+  "definition": "The distinctive earthy scent produced when rain falls on dry soil or rocks.",
+  "locale": "ENGLISH",
+  "example": "HoneyBear and JellyBean stepped outside, inhaling the delightful petrichor after the refreshing rain.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Petrichor",
+  "generatedDate": "Tue Aug 11 2026"
 }
