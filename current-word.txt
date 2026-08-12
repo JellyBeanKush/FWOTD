@@ -1,10 +1,10 @@
 {
-  "word": "Petrichor",
-  "phonetic": "PEH-tri-kohr",
-  "partOfSpeech": "noun",
-  "definition": "The distinctive earthy scent produced when rain falls on dry soil or rocks.",
-  "locale": "ENGLISH",
-  "example": "HoneyBear and JellyBean stepped outside, inhaling the delightful petrichor after the refreshing rain.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Petrichor",
-  "generatedDate": "Tue Aug 11 2026"
+  "word": "Sturmfrei",
+  "phonetic": "SHTOORM-frie",
+  "partOfSpeech": "adjective",
+  "definition": "The state of being home alone, with the freedom to do as one pleases, often implies a sense of liberation from supervision.",
+  "locale": "GERMAN",
+  "example": "With the house finally sturmfrei, HoneyBear and JellyBean blasted their favorite tunes and danced freely.",
+  "sourceUrl": "https://en.wiktionary.org/wiki/sturmfrei",
+  "generatedDate": "Wed Aug 12 2026"
 }
