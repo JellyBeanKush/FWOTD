@@ -1,5 +1,15 @@
 [
   {
+    "word": "Kintsugi",
+    "phonetic": "KIN-tsoo-gee",
+    "partOfSpeech": "noun",
+    "definition": "The Japanese art of repairing broken pottery with lacquer mixed with powdered gold, silver, or platinum, treating breakage as part of an object's history and beauty.",
+    "locale": "JAPANESE",
+    "example": "HoneyBear explained Kintsugi to JellyBean, noting how even broken things can become beautiful again.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Kintsugi",
+    "generatedDate": "Thu Aug 13 2026"
+  },
+  {
     "word": "Sturmfrei",
     "phonetic": "SHTOORM-frie",
     "partOfSpeech": "adjective",

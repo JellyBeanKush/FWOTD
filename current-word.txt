@@ -1,10 +1,10 @@
 {
-  "word": "Sturmfrei",
-  "phonetic": "SHTOORM-frie",
-  "partOfSpeech": "adjective",
-  "definition": "The state of being home alone, with the freedom to do as one pleases, often implies a sense of liberation from supervision.",
-  "locale": "GERMAN",
-  "example": "With the house finally sturmfrei, HoneyBear and JellyBean blasted their favorite tunes and danced freely.",
-  "sourceUrl": "https://en.wiktionary.org/wiki/sturmfrei",
-  "generatedDate": "Wed Aug 12 2026"
+  "word": "Kintsugi",
+  "phonetic": "KIN-tsoo-gee",
+  "partOfSpeech": "noun",
+  "definition": "The Japanese art of repairing broken pottery with lacquer mixed with powdered gold, silver, or platinum, treating breakage as part of an object's history and beauty.",
+  "locale": "JAPANESE",
+  "example": "HoneyBear explained Kintsugi to JellyBean, noting how even broken things can become beautiful again.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Kintsugi",
+  "generatedDate": "Thu Aug 13 2026"
 }
