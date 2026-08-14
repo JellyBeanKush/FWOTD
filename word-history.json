@@ -1,5 +1,15 @@
 [
   {
+    "word": "Tsundoku",
+    "phonetic": "tsoon-DOH-koo",
+    "partOfSpeech": "noun",
+    "definition": "The act of buying books and letting them pile up, unread, in one's house.",
+    "locale": "JAPANESE",
+    "example": "HoneyBear and JellyBean both suffered from tsundoku, their shelves overflowing with unread novels.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Tsundoku",
+    "generatedDate": "Fri Aug 14 2026"
+  },
+  {
     "word": "Kintsugi",
     "phonetic": "KIN-tsoo-gee",
     "partOfSpeech": "noun",
