@@ -1,10 +1,10 @@
 {
-  "word": "Sobremesa",
-  "phonetic": "so-breh-MEH-sah",
+  "word": "Schilderwald",
+  "phonetic": "SHIL-der-valt",
   "partOfSpeech": "noun",
-  "definition": "The time spent lingering at the table after a meal, engaging in conversation and enjoying the company of others.",
-  "locale": "SPANISH",
-  "example": "HoneyBear and JellyBean cherished their sobremesa, sharing stories and laughter long after dinner was finished.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Sobremesa",
-  "generatedDate": "Sun Aug 16 2026"
+  "definition": "A dense and confusing proliferation of signs, especially road signs, that makes it difficult to read or understand any single one.",
+  "locale": "GERMAN",
+  "example": "HoneyBear and JellyBean got lost in the city's confusing Schilderwald, searching for the cafe.",
+  "sourceUrl": "https://en.wiktionary.org/wiki/Schilderwald",
+  "generatedDate": "Mon Aug 17 2026"
 }
