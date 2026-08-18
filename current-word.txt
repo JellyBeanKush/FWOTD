@@ -1,10 +1,10 @@
 {
-  "word": "Schilderwald",
-  "phonetic": "SHIL-der-valt",
+  "word": "Culaccino",
+  "phonetic": "koo-lah-CHEE-no",
   "partOfSpeech": "noun",
-  "definition": "A dense and confusing proliferation of signs, especially road signs, that makes it difficult to read or understand any single one.",
-  "locale": "GERMAN",
-  "example": "HoneyBear and JellyBean got lost in the city's confusing Schilderwald, searching for the cafe.",
-  "sourceUrl": "https://en.wiktionary.org/wiki/Schilderwald",
-  "generatedDate": "Mon Aug 17 2026"
+  "definition": "The mark left on a table by a cold glass or bottle.",
+  "locale": "ITALIAN",
+  "example": "HoneyBear noticed the culaccino left by JellyBean's iced tea glass on the wooden table.",
+  "sourceUrl": "https://www.italymagazine.com/featured-story/untranslatable-italian-words-culaccino",
+  "generatedDate": "Tue Aug 18 2026"
 }
