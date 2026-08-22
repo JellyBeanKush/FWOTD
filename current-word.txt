@@ -1,10 +1,10 @@
 {
-  "word": "Shemomedjamo",
-  "phonetic": "sheh-moh-meh-jah-MOH",
-  "partOfSpeech": "verb",
-  "definition": "The act of continuing to eat something delicious, even when one is already full.",
-  "locale": "GEORGIAN",
-  "example": "HoneyBear watched JellyBean shemomedjamo the entire plate of dumplings, despite her earlier protests of fullness.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_untranslatable_words",
-  "generatedDate": "Fri Aug 21 2026"
+  "word": "Cafuné",
+  "phonetic": "kah-foo-NEH",
+  "partOfSpeech": "noun",
+  "definition": "The act of tenderly running one's fingers through the hair of someone they love.",
+  "locale": "PORTUGUESE (BRAZILIAN)",
+  "example": "HoneyBear gave JellyBean a gentle cafuné while they read their favorite book together.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_untranslatable_words#Cafun%C3%A9",
+  "generatedDate": "Sat Aug 22 2026"
 }
