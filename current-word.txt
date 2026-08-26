@@ -1,10 +1,10 @@
 {
-  "word": "Eudaimonia",
-  "phonetic": "yoo-dy-MOH-nee-uh",
+  "word": "Utepils",
+  "phonetic": "OO-teh-pilss",
   "partOfSpeech": "noun",
-  "definition": "A Greek word often translated as 'happiness' or 'welfare', but more accurately understood as human flourishing or prosperity, particularly in a moral sense, achieved through virtuous living.",
-  "locale": "GREEK",
-  "example": "HoneyBear and JellyBean pursued eudaimonia by living virtuously and helping others in their community.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Eudaimonia",
-  "generatedDate": "Tue Aug 25 2026"
+  "definition": "A beer that is enjoyed outdoors on a bright and sunny day.",
+  "locale": "NORWEGIAN",
+  "example": "HoneyBear and JellyBean enjoyed a refreshing utepils on the sunny patio after their afternoon hike.",
+  "sourceUrl": "https://en.wiktionary.org/wiki/utepils",
+  "generatedDate": "Wed Aug 26 2026"
 }
