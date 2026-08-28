@@ -1,10 +1,10 @@
 {
-  "word": "Utepils",
-  "phonetic": "OO-teh-pilss",
+  "word": "Wabi-sabi",
+  "phonetic": "wah-bee-SAH-bee",
   "partOfSpeech": "noun",
-  "definition": "A beer that is enjoyed outdoors on a bright and sunny day.",
-  "locale": "NORWEGIAN",
-  "example": "HoneyBear and JellyBean enjoyed a refreshing utepils on the sunny patio after their afternoon hike.",
-  "sourceUrl": "https://en.wiktionary.org/wiki/utepils",
-  "generatedDate": "Wed Aug 26 2026"
+  "definition": "A Japanese aesthetic concept that finds beauty in imperfection, transience, and natural simplicity, often through aged, weathered, or worn objects.",
+  "locale": "JAPANESE",
+  "example": "HoneyBear explained wabi-sabi to JellyBean, admiring the beautiful imperfections in the old pottery.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Wabi-sabi",
+  "generatedDate": "Fri Aug 28 2026"
 }
