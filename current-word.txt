@@ -1,10 +1,10 @@
 {
-  "word": "Wabi-sabi",
-  "phonetic": "wah-bee-SAH-bee",
+  "word": "Jayus",
+  "phonetic": "JAH-yoos",
   "partOfSpeech": "noun",
-  "definition": "A Japanese aesthetic concept that finds beauty in imperfection, transience, and natural simplicity, often through aged, weathered, or worn objects.",
-  "locale": "JAPANESE",
-  "example": "HoneyBear explained wabi-sabi to JellyBean, admiring the beautiful imperfections in the old pottery.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Wabi-sabi",
-  "generatedDate": "Fri Aug 28 2026"
+  "definition": "A joke so unfunny or poorly told that it is impossible not to laugh at it.",
+  "locale": "INDONESIAN",
+  "example": "HoneyBear told such a *jayus* that JellyBean burst into uncontrollable laughter despite herself.",
+  "sourceUrl": "https://en.wiktionary.org/wiki/jayus",
+  "generatedDate": "Sat Aug 29 2026"
 }
