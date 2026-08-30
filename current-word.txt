@@ -1,10 +1,10 @@
 {
-  "word": "Jayus",
-  "phonetic": "JAH-yoos",
+  "word": "Goya",
+  "phonetic": "GOY-yah",
   "partOfSpeech": "noun",
-  "definition": "A joke so unfunny or poorly told that it is impossible not to laugh at it.",
-  "locale": "INDONESIAN",
-  "example": "HoneyBear told such a *jayus* that JellyBean burst into uncontrollable laughter despite herself.",
-  "sourceUrl": "https://en.wiktionary.org/wiki/jayus",
-  "generatedDate": "Sat Aug 29 2026"
+  "definition": "The feeling of a story well told, often evoking a sense of shared human experience and emotional resonance.",
+  "locale": "FILIPINO",
+  "example": "HoneyBear and JellyBean felt a profound goya after finishing the compelling novel together.",
+  "sourceUrl": "https://theculturetrip.com/asia/philippines/articles/10-filipino-words-that-dont-have-a-direct-english-translation/",
+  "generatedDate": "Sun Aug 30 2026"
 }
