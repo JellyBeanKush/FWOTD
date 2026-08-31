@@ -1,10 +1,10 @@
 {
-  "word": "Goya",
-  "phonetic": "GOY-yah",
+  "word": "Hiraeth",
+  "phonetic": "HEER-eyeth",
   "partOfSpeech": "noun",
-  "definition": "The feeling of a story well told, often evoking a sense of shared human experience and emotional resonance.",
-  "locale": "FILIPINO",
-  "example": "HoneyBear and JellyBean felt a profound goya after finishing the compelling novel together.",
-  "sourceUrl": "https://theculturetrip.com/asia/philippines/articles/10-filipino-words-that-dont-have-a-direct-english-translation/",
-  "generatedDate": "Sun Aug 30 2026"
+  "definition": "A deep longing for something, especially one's homeland or something lost or gone, a homesickness tinged with grief or sadness.",
+  "locale": "WELSH",
+  "example": "HoneyBear felt a deep hiraeth for their old adventures, wishing JellyBean was still there.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Hiraeth",
+  "generatedDate": "Mon Aug 31 2026"
 }
