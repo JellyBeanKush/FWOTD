@@ -1,10 +1,10 @@
 {
-  "word": "Ikigai",
-  "phonetic": "ee-kee-GAH-ee",
+  "word": "Ohrwurm",
+  "phonetic": "OHR-voorm",
   "partOfSpeech": "noun",
-  "definition": "A reason for being; the thing that gets you up in the morning; a sense of purpose in life.",
-  "locale": "JAPANESE",
-  "example": "Discovering their ikigai, HoneyBear and JellyBean found profound joy and direction in their shared art.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Ikigai",
-  "generatedDate": "Wed Sep 02 2026"
+  "definition": "A catchy tune or song that constantly repeats in one's mind.",
+  "locale": "GERMAN",
+  "example": "HoneyBear couldn't shake that tune, an absolute Ohrwurm, much to JellyBean's exasperation.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Earworm",
+  "generatedDate": "Thu Sep 03 2026"
 }

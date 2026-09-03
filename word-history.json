@@ -1,5 +1,15 @@
 [
   {
+    "word": "Ohrwurm",
+    "phonetic": "OHR-voorm",
+    "partOfSpeech": "noun",
+    "definition": "A catchy tune or song that constantly repeats in one's mind.",
+    "locale": "GERMAN",
+    "example": "HoneyBear couldn't shake that tune, an absolute Ohrwurm, much to JellyBean's exasperation.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Earworm",
+    "generatedDate": "Thu Sep 03 2026"
+  },
+  {
     "word": "Ikigai",
     "phonetic": "ee-kee-GAH-ee",
     "partOfSpeech": "noun",
