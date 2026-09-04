@@ -1,10 +1,10 @@
 {
-  "word": "Ohrwurm",
-  "phonetic": "OHR-voorm",
-  "partOfSpeech": "noun",
-  "definition": "A catchy tune or song that constantly repeats in one's mind.",
-  "locale": "GERMAN",
-  "example": "HoneyBear couldn't shake that tune, an absolute Ohrwurm, much to JellyBean's exasperation.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Earworm",
-  "generatedDate": "Thu Sep 03 2026"
+  "word": "Forelsket",
+  "phonetic": "foh-REL-sket",
+  "partOfSpeech": "adjective",
+  "definition": "The intense, euphoric feeling one experiences when falling in love for the first time or at the beginning of a new romance.",
+  "locale": "NORWEGIAN",
+  "example": "HoneyBear felt completely forelsket, giggling whenever JellyBean looked their way.",
+  "sourceUrl": "https://theculturetrip.com/europe/norway/articles/11-norwegian-words-that-dont-have-an-english-equivalent",
+  "generatedDate": "Fri Sep 04 2026"
 }
