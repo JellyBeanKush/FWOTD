@@ -1,10 +1,10 @@
 {
-  "word": "Forelsket",
-  "phonetic": "foh-REL-sket",
-  "partOfSpeech": "adjective",
-  "definition": "The intense, euphoric feeling one experiences when falling in love for the first time or at the beginning of a new romance.",
-  "locale": "NORWEGIAN",
-  "example": "HoneyBear felt completely forelsket, giggling whenever JellyBean looked their way.",
-  "sourceUrl": "https://theculturetrip.com/europe/norway/articles/11-norwegian-words-that-dont-have-an-english-equivalent",
-  "generatedDate": "Fri Sep 04 2026"
+  "word": "Saudade",
+  "phonetic": "sah-oo-DAH-deh",
+  "partOfSpeech": "noun",
+  "definition": "A deep emotional state of nostalgic or profound melancholic longing for an absent something or someone that one loves. Moreover, it often carries a repressed knowledge that the object of longing might never return.",
+  "locale": "PORTUGUESE",
+  "example": "HoneyBear felt a deep saudade for JellyBean, wishing they could relive their happy beach days.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Saudade",
+  "generatedDate": "Sat Sep 05 2026"
 }
