@@ -1,10 +1,10 @@
 {
-  "word": "Saudade",
-  "phonetic": "sah-oo-DAH-deh",
+  "word": "Kalsarikännit",
+  "phonetic": "KAHL-sah-ree-KAAN-neet",
   "partOfSpeech": "noun",
-  "definition": "A deep emotional state of nostalgic or profound melancholic longing for an absent something or someone that one loves. Moreover, it often carries a repressed knowledge that the object of longing might never return.",
-  "locale": "PORTUGUESE",
-  "example": "HoneyBear felt a deep saudade for JellyBean, wishing they could relive their happy beach days.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Saudade",
-  "generatedDate": "Sat Sep 05 2026"
+  "definition": "The feeling of getting drunk at home, alone, in your underwear, with no intention of going out.",
+  "locale": "FINNISH",
+  "example": "HoneyBear and JellyBean decided their ideal night involved Kalsarikännit, cozy and comfortable at home.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Kalsarik%C3%A4nnit",
+  "generatedDate": "Sun Sep 06 2026"
 }
