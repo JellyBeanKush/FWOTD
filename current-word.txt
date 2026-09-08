@@ -1,10 +1,10 @@
 {
-  "word": "Duende",
-  "phonetic": "DWEN-day",
-  "partOfSpeech": "noun",
-  "definition": "A quality of passion and inspiration, often associated with artistic expression, particularly in flamenco.",
-  "locale": "SPANISH",
-  "example": "HoneyBear felt the duende in JellyBean's powerful dance, moving everyone present with profound emotion.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Duende_(art_term)",
-  "generatedDate": "Mon Sep 07 2026"
+  "word": "Lagom",
+  "phonetic": "LAH-gom",
+  "partOfSpeech": "adverb/adjective",
+  "definition": "Not too much, not too little; just the right amount, perfect, adequate, or optimal.",
+  "locale": "SWEDISH",
+  "example": "HoneyBear found the perfect number of berries, a truly lagom amount for both her and JellyBean.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Lagom",
+  "generatedDate": "Tue Sep 08 2026"
 }
