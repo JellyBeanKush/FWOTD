@@ -1,10 +1,10 @@
 {
-  "word": "Lagom",
-  "phonetic": "LAH-gom",
-  "partOfSpeech": "adverb/adjective",
-  "definition": "Not too much, not too little; just the right amount, perfect, adequate, or optimal.",
-  "locale": "SWEDISH",
-  "example": "HoneyBear found the perfect number of berries, a truly lagom amount for both her and JellyBean.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Lagom",
-  "generatedDate": "Tue Sep 08 2026"
+  "word": "Meraki",
+  "phonetic": "muh-RAH-kee",
+  "partOfSpeech": "noun",
+  "definition": "To do something with soul, creativity, or love; to put something of yourself into your work.",
+  "locale": "GREEK",
+  "example": "HoneyBear admired JellyBean's art, saying, \"You put so much meraki into every brushstroke!\"",
+  "sourceUrl": "https://en.wiktionary.org/wiki/%CE%BC%CE%B5%CF%81%CE%AC%CE%BA%CE%B9",
+  "generatedDate": "Wed Sep 09 2026"
 }
