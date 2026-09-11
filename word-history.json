@@ -1,5 +1,15 @@
 [
   {
+    "word": "Gezellig",
+    "phonetic": "heh-ZELL-ikh",
+    "partOfSpeech": "adjective",
+    "definition": "A Dutch word that is difficult to translate directly, encompassing coziness, togetherness, conviviality, and a warm, pleasant atmosphere, often involving good company.",
+    "locale": "DUTCH",
+    "example": "HoneyBear and JellyBean created a gezellig atmosphere, filled with laughter and warm drinks.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Gezelligheid",
+    "generatedDate": "Fri Sep 11 2026"
+  },
+  {
     "word": "Shinrinyoku",
     "phonetic": "shin-rin-YOH-koo",
     "partOfSpeech": "noun",
