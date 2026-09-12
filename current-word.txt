@@ -1,10 +1,10 @@
 {
-  "word": "Gezellig",
-  "phonetic": "heh-ZELL-ikh",
+  "word": "Natsukashii",
+  "phonetic": "nah-tsu-KAH-shee",
   "partOfSpeech": "adjective",
-  "definition": "A Dutch word that is difficult to translate directly, encompassing coziness, togetherness, conviviality, and a warm, pleasant atmosphere, often involving good company.",
-  "locale": "DUTCH",
-  "example": "HoneyBear and JellyBean created a gezellig atmosphere, filled with laughter and warm drinks.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Gezelligheid",
-  "generatedDate": "Fri Sep 11 2026"
+  "definition": "A deep and nostalgic longing for the past, often evoked by sensory experiences, but with a happy and appreciative feeling for the good memories.",
+  "locale": "JAPANESE",
+  "example": "HoneyBear and JellyBean felt a delightful natsukashii feeling looking at their old photos together.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Natsukashii",
+  "generatedDate": "Sat Sep 12 2026"
 }
