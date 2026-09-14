@@ -1,10 +1,10 @@
 {
-  "word": "Dépaysement",
-  "phonetic": "day-pah-EEZ-mah",
+  "word": "Fredagsmys",
+  "phonetic": "FRED-ahgs-mees",
   "partOfSpeech": "noun",
-  "definition": "The feeling of disorientation or being out of one's familiar environment, often accompanied by a sense of wonder or liberation when in a foreign place.",
-  "locale": "FRENCH",
-  "example": "HoneyBear felt a pleasant dépaysement exploring the new city, but JellyBean preferred the familiar.",
-  "sourceUrl": "https://dictionary.cambridge.org/dictionary/french-english/depaysement",
-  "generatedDate": "Sun Sep 13 2026"
+  "definition": "The feeling of coziness and relaxation experienced on a Friday evening, typically enjoyed with good food and company, marking the start of the weekend.",
+  "locale": "SWEDISH",
+  "example": "HoneyBear and JellyBean eagerly anticipated their 'fredagsmys' after a long work week.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Fredagsmys",
+  "generatedDate": "Mon Sep 14 2026"
 }
