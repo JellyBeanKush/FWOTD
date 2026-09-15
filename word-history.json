@@ -1,5 +1,15 @@
 [
   {
+    "word": "Sehnsucht",
+    "phonetic": "ZEYN-zookht",
+    "partOfSpeech": "noun",
+    "definition": "A profound, intense longing or yearning for something distant, idealized, or unattainable; a wistful desire for something deeply missed or desired.",
+    "locale": "GERMAN",
+    "example": "HoneyBear felt a deep Sehnsucht for the summer days he spent with JellyBean by the lake.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Sehnsucht",
+    "generatedDate": "Tue Sep 15 2026"
+  },
+  {
     "word": "Fredagsmys",
     "phonetic": "FRED-ahgs-mees",
     "partOfSpeech": "noun",

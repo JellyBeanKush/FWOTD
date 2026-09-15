@@ -1,10 +1,10 @@
 {
-  "word": "Fredagsmys",
-  "phonetic": "FRED-ahgs-mees",
+  "word": "Sehnsucht",
+  "phonetic": "ZEYN-zookht",
   "partOfSpeech": "noun",
-  "definition": "The feeling of coziness and relaxation experienced on a Friday evening, typically enjoyed with good food and company, marking the start of the weekend.",
-  "locale": "SWEDISH",
-  "example": "HoneyBear and JellyBean eagerly anticipated their 'fredagsmys' after a long work week.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Fredagsmys",
-  "generatedDate": "Mon Sep 14 2026"
+  "definition": "A profound, intense longing or yearning for something distant, idealized, or unattainable; a wistful desire for something deeply missed or desired.",
+  "locale": "GERMAN",
+  "example": "HoneyBear felt a deep Sehnsucht for the summer days he spent with JellyBean by the lake.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Sehnsucht",
+  "generatedDate": "Tue Sep 15 2026"
 }
