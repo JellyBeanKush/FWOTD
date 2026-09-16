@@ -1,5 +1,15 @@
 [
   {
+    "word": "Mamihlapinatapai",
+    "phonetic": "mah-mee-lah-pee-NAH-tah-py",
+    "partOfSpeech": "noun",
+    "definition": "A look shared between two people, each desiring that the other would initiate something both want, but neither wishes to start.",
+    "locale": "YAGHAN",
+    "example": "HoneyBear and JellyBean exchanged a mamihlapinatapai, each hoping the other would make the first move.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Mamihlapinatapai",
+    "generatedDate": "Wed Sep 16 2026"
+  },
+  {
     "word": "Sehnsucht",
     "phonetic": "ZEYN-zookht",
     "partOfSpeech": "noun",

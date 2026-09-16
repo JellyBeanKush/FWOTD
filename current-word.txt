@@ -1,10 +1,10 @@
 {
-  "word": "Sehnsucht",
-  "phonetic": "ZEYN-zookht",
+  "word": "Mamihlapinatapai",
+  "phonetic": "mah-mee-lah-pee-NAH-tah-py",
   "partOfSpeech": "noun",
-  "definition": "A profound, intense longing or yearning for something distant, idealized, or unattainable; a wistful desire for something deeply missed or desired.",
-  "locale": "GERMAN",
-  "example": "HoneyBear felt a deep Sehnsucht for the summer days he spent with JellyBean by the lake.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Sehnsucht",
-  "generatedDate": "Tue Sep 15 2026"
+  "definition": "A look shared between two people, each desiring that the other would initiate something both want, but neither wishes to start.",
+  "locale": "YAGHAN",
+  "example": "HoneyBear and JellyBean exchanged a mamihlapinatapai, each hoping the other would make the first move.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Mamihlapinatapai",
+  "generatedDate": "Wed Sep 16 2026"
 }
