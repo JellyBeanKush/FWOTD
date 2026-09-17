@@ -1,5 +1,15 @@
 [
   {
+    "word": "Hikikomori",
+    "phonetic": "hee-kee-KOH-moh-ree",
+    "partOfSpeech": "noun",
+    "definition": "A reclusive individual who withdraws from society and seeks extreme degrees of isolation and confinement, often staying in their homes for extended periods.",
+    "locale": "JAPANESE",
+    "example": "HoneyBear wondered if JellyBean's recent hikikomori phase meant she wouldn't attend the party.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Hikikomori",
+    "generatedDate": "Thu Sep 17 2026"
+  },
+  {
     "word": "Mamihlapinatapai",
     "phonetic": "mah-mee-lah-pee-NAH-tah-py",
     "partOfSpeech": "noun",
