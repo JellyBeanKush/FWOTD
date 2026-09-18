@@ -1,10 +1,10 @@
 {
-  "word": "Hikikomori",
-  "phonetic": "hee-kee-KOH-moh-ree",
+  "word": "Fernweh",
+  "phonetic": "FEHRN-vay",
   "partOfSpeech": "noun",
-  "definition": "A reclusive individual who withdraws from society and seeks extreme degrees of isolation and confinement, often staying in their homes for extended periods.",
-  "locale": "JAPANESE",
-  "example": "HoneyBear wondered if JellyBean's recent hikikomori phase meant she wouldn't attend the party.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Hikikomori",
-  "generatedDate": "Thu Sep 17 2026"
+  "definition": "A deep longing for faraway places, a desire to travel and explore the world, often described as the opposite of homesickness.",
+  "locale": "GERMAN",
+  "example": "HoneyBear felt a strong Fernweh, dreaming of new adventures, and JellyBean booked their next trip.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Wanderlust#Etymology",
+  "generatedDate": "Fri Sep 18 2026"
 }
