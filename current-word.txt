@@ -1,10 +1,10 @@
 {
-  "word": "Fernweh",
-  "phonetic": "FEHRN-vay",
+  "word": "Waldeinsamkeit",
+  "phonetic": "VAHLD-ain-zahm-kite",
   "partOfSpeech": "noun",
-  "definition": "A deep longing for faraway places, a desire to travel and explore the world, often described as the opposite of homesickness.",
+  "definition": "The feeling of solitude while being alone in the woods, experiencing a deep connection with nature.",
   "locale": "GERMAN",
-  "example": "HoneyBear felt a strong Fernweh, dreaming of new adventures, and JellyBean booked their next trip.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Wanderlust#Etymology",
-  "generatedDate": "Fri Sep 18 2026"
+  "example": "HoneyBear and JellyBean found perfect Waldeinsamkeit during their quiet hike through the ancient forest.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Waldeinsamkeit",
+  "generatedDate": "Sat Sep 19 2026"
 }
