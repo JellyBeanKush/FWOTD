@@ -1,10 +1,10 @@
 {
-  "word": "Waldeinsamkeit",
-  "phonetic": "VAHLD-ain-zahm-kite",
+  "word": "Gigil",
+  "phonetic": "GEE-gil",
   "partOfSpeech": "noun",
-  "definition": "The feeling of solitude while being alone in the woods, experiencing a deep connection with nature.",
-  "locale": "GERMAN",
-  "example": "HoneyBear and JellyBean found perfect Waldeinsamkeit during their quiet hike through the ancient forest.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Waldeinsamkeit",
-  "generatedDate": "Sat Sep 19 2026"
+  "definition": "The irresistible urge to pinch or squeeze something that is overwhelmingly cute or adorable.",
+  "locale": "TAGALOG",
+  "example": "Seeing the tiny puppy, HoneyBear felt overwhelming Gigil, a feeling JellyBean completely shared.",
+  "sourceUrl": "https://en.wiktionary.org/wiki/gigil",
+  "generatedDate": "Sun Sep 20 2026"
 }
