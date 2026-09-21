@@ -1,10 +1,10 @@
 {
-  "word": "Gigil",
-  "phonetic": "GEE-gil",
+  "word": "Mångata",
+  "phonetic": "MOHN-gah-tah",
   "partOfSpeech": "noun",
-  "definition": "The irresistible urge to pinch or squeeze something that is overwhelmingly cute or adorable.",
-  "locale": "TAGALOG",
-  "example": "Seeing the tiny puppy, HoneyBear felt overwhelming Gigil, a feeling JellyBean completely shared.",
-  "sourceUrl": "https://en.wiktionary.org/wiki/gigil",
-  "generatedDate": "Sun Sep 20 2026"
+  "definition": "The shimmering, road-like reflection of the moon on water.",
+  "locale": "SWEDISH",
+  "example": "HoneyBear and JellyBean watched the beautiful mångata stretch across the serene lake, feeling peaceful.",
+  "sourceUrl": "https://en.wiktionary.org/wiki/mångata",
+  "generatedDate": "Mon Sep 21 2026"
 }
