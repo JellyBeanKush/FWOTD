@@ -1,10 +1,10 @@
 {
-  "word": "Mångata",
-  "phonetic": "MOHN-gah-tah",
-  "partOfSpeech": "noun",
-  "definition": "The shimmering, road-like reflection of the moon on water.",
-  "locale": "SWEDISH",
-  "example": "HoneyBear and JellyBean watched the beautiful mångata stretch across the serene lake, feeling peaceful.",
-  "sourceUrl": "https://en.wiktionary.org/wiki/mångata",
-  "generatedDate": "Mon Sep 21 2026"
+  "word": "Boketto",
+  "phonetic": "boh-KET-toh",
+  "partOfSpeech": "verb",
+  "definition": "To gaze vacantly into the distance without thinking about anything specific.",
+  "locale": "JAPANESE",
+  "example": "HoneyBear and JellyBean often found themselves in a peaceful boketto, watching the clouds drift by.",
+  "sourceUrl": "https://www.japanesewithanime.com/2016/08/boketto.html",
+  "generatedDate": "Tue Sep 22 2026"
 }
