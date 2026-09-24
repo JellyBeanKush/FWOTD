@@ -1,10 +1,10 @@
 {
-  "word": "Pana Poʻo",
-  "phonetic": "pah-nah poh-oh",
+  "word": "Uitwaaien",
+  "phonetic": "OWT-wahy-en",
   "partOfSpeech": "verb",
-  "definition": "The act of scratching one's head in order to help remember something.",
-  "locale": "HAWAIIAN",
-  "example": "HoneyBear watched JellyBean pana poʻo, trying to recall where they left their snacks.",
-  "sourceUrl": "https://www.wehewehe.org/gsdl2.85/cgi-bin/hdict?e=q-11000-00---onokele--00-0--0-10-0---0---0prompt-10-pana+poʻo--4--html--000-1-11-mi-d4ea45f061e897a31b26c7d&a=q",
-  "generatedDate": "Wed Sep 23 2026"
+  "definition": "To go outside and get some fresh air, especially to clear one's head.",
+  "locale": "DUTCH",
+  "example": "HoneyBear and JellyBean decided to uitwaaien, clearing their heads with a refreshing walk.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Dutch_language",
+  "generatedDate": "Thu Sep 24 2026"
 }
