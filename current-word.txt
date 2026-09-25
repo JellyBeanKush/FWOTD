@@ -1,10 +1,10 @@
 {
-  "word": "Uitwaaien",
-  "phonetic": "OWT-wahy-en",
-  "partOfSpeech": "verb",
-  "definition": "To go outside and get some fresh air, especially to clear one's head.",
-  "locale": "DUTCH",
-  "example": "HoneyBear and JellyBean decided to uitwaaien, clearing their heads with a refreshing walk.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Dutch_language",
-  "generatedDate": "Thu Sep 24 2026"
+  "word": "Verschlimmbesserung",
+  "phonetic": "fair-SHLIMM-bess-uh-roong",
+  "partOfSpeech": "noun",
+  "definition": "An attempted improvement that makes things worse.",
+  "locale": "GERMAN",
+  "example": "HoneyBear's fix of the faucet was a verschlimmbesserung; JellyBean now needs a mop.",
+  "sourceUrl": "https://de.wikipedia.org/wiki/Verschlimmbesserung",
+  "generatedDate": "Fri Sep 25 2026"
 }

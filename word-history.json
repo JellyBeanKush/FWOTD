@@ -1,5 +1,15 @@
 [
   {
+    "word": "Verschlimmbesserung",
+    "phonetic": "fair-SHLIMM-bess-uh-roong",
+    "partOfSpeech": "noun",
+    "definition": "An attempted improvement that makes things worse.",
+    "locale": "GERMAN",
+    "example": "HoneyBear's fix of the faucet was a verschlimmbesserung; JellyBean now needs a mop.",
+    "sourceUrl": "https://de.wikipedia.org/wiki/Verschlimmbesserung",
+    "generatedDate": "Fri Sep 25 2026"
+  },
+  {
     "word": "Uitwaaien",
     "phonetic": "OWT-wahy-en",
     "partOfSpeech": "verb",
