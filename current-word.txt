@@ -1,10 +1,10 @@
 {
-  "word": "Verschlimmbesserung",
-  "phonetic": "fair-SHLIMM-bess-uh-roong",
+  "word": "Gökotta",
+  "phonetic": "yer-KOT-tah",
   "partOfSpeech": "noun",
-  "definition": "An attempted improvement that makes things worse.",
-  "locale": "GERMAN",
-  "example": "HoneyBear's fix of the faucet was a verschlimmbesserung; JellyBean now needs a mop.",
-  "sourceUrl": "https://de.wikipedia.org/wiki/Verschlimmbesserung",
-  "generatedDate": "Fri Sep 25 2026"
+  "definition": "The act of waking up early in the morning to go outside and hear the first birds sing, especially the cuckoo's call, traditionally observed on Ascension Day.",
+  "locale": "SWEDISH",
+  "example": "HoneyBear suggested they try gökotta, hoping JellyBean would enjoy the serene morning birdsong.",
+  "sourceUrl": "https://en.wiktionary.org/wiki/g%C3%B6kotta",
+  "generatedDate": "Sat Sep 26 2026"
 }
