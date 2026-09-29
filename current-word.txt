@@ -1,10 +1,10 @@
 {
-  "word": "Backpfeifengesicht",
-  "phonetic": "BAHK-pfy-fen-guh-zicht",
-  "partOfSpeech": "noun",
-  "definition": "A face that strongly suggests it deserves to be slapped.",
-  "locale": "GERMAN",
-  "example": "HoneyBear decided JellyBean's smug grin made him a perfect Backpfeifengesicht.",
-  "sourceUrl": "https://en.wiktionary.org/wiki/Backpfeifengesicht",
-  "generatedDate": "Mon Sep 28 2026"
+  "word": "Tartle",
+  "phonetic": "TAR-tuhl",
+  "partOfSpeech": "verb",
+  "definition": "The act of hesitating while introducing someone because you have forgotten their name.",
+  "locale": "SCOTTISH",
+  "example": "HoneyBear watched JellyBean tartle when she tried to introduce their new neighbor.",
+  "sourceUrl": "https://en.wiktionary.org/wiki/tartle",
+  "generatedDate": "Tue Sep 29 2026"
 }
