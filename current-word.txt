@@ -1,10 +1,10 @@
 {
-  "word": "Mudita",
-  "phonetic": "moo-DEE-tah",
+  "word": "Komorebi",
+  "phonetic": "koh-moh-REH-bee",
   "partOfSpeech": "noun",
-  "definition": "The pure joy that comes from delighting in other people's well-being, success, or good fortune, without any trace of jealousy or envy. It is often translated as \"sympathetic joy\" or \"appreciative joy.\"",
-  "locale": "PALI",
-  "example": "HoneyBear felt mudita, truly happy for JellyBean's garden success, without any hint of jealousy.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Mudita",
-  "generatedDate": "Thu Oct 01 2026"
+  "definition": "The sunlight filtering through the leaves of trees; the interplay between light and leaves.",
+  "locale": "JAPANESE",
+  "example": "HoneyBear and JellyBean paused to admire the komorebi dappling the forest floor.",
+  "sourceUrl": "https://en.wiktionary.org/wiki/木漏れ日",
+  "generatedDate": "Fri Oct 02 2026"
 }

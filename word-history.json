@@ -1,5 +1,15 @@
 [
   {
+    "word": "Komorebi",
+    "phonetic": "koh-moh-REH-bee",
+    "partOfSpeech": "noun",
+    "definition": "The sunlight filtering through the leaves of trees; the interplay between light and leaves.",
+    "locale": "JAPANESE",
+    "example": "HoneyBear and JellyBean paused to admire the komorebi dappling the forest floor.",
+    "sourceUrl": "https://en.wiktionary.org/wiki/木漏れ日",
+    "generatedDate": "Fri Oct 02 2026"
+  },
+  {
     "word": "Mudita",
     "phonetic": "moo-DEE-tah",
     "partOfSpeech": "noun",
