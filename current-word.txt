@@ -1,10 +1,10 @@
 {
-  "word": "Komorebi",
-  "phonetic": "koh-moh-REH-bee",
+  "word": "Torschlusspanik",
+  "phonetic": "TORSH-looss-PAH-nik",
   "partOfSpeech": "noun",
-  "definition": "The sunlight filtering through the leaves of trees; the interplay between light and leaves.",
-  "locale": "JAPANESE",
-  "example": "HoneyBear and JellyBean paused to admire the komorebi dappling the forest floor.",
-  "sourceUrl": "https://en.wiktionary.org/wiki/木漏れ日",
-  "generatedDate": "Fri Oct 02 2026"
+  "definition": "The fear of closing gates, specifically the anxiety or urgency about diminishing opportunities as one gets older, or the feeling that time is running out.",
+  "locale": "GERMAN",
+  "example": "HoneyBear felt a pang of Torschlusspanik, realizing JellyBean had already achieved so much.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Torschlusspanik",
+  "generatedDate": "Sat Oct 03 2026"
 }
