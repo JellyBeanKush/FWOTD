@@ -1,5 +1,15 @@
 [
   {
+    "word": "Hygge",
+    "phonetic": "HOO-gah",
+    "partOfSpeech": "noun",
+    "definition": "A quality of coziness and comfortable conviviality that engenders a feeling of contentment or well-being.",
+    "locale": "DANISH",
+    "example": "HoneyBear and JellyBean loved the hygge of their warm cabin, sipping tea by the crackling fire.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Hygge",
+    "generatedDate": "Sun Oct 04 2026"
+  },
+  {
     "word": "Torschlusspanik",
     "phonetic": "TORSH-looss-PAH-nik",
     "partOfSpeech": "noun",
