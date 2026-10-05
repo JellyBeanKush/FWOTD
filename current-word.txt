@@ -1,10 +1,10 @@
 {
-  "word": "Hygge",
-  "phonetic": "HOO-gah",
-  "partOfSpeech": "noun",
-  "definition": "A quality of coziness and comfortable conviviality that engenders a feeling of contentment or well-being.",
-  "locale": "DANISH",
-  "example": "HoneyBear and JellyBean loved the hygge of their warm cabin, sipping tea by the crackling fire.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Hygge",
-  "generatedDate": "Sun Oct 04 2026"
+  "word": "Sturmfrei",
+  "phonetic": "SHTOORM-fry",
+  "partOfSpeech": "adjective",
+  "definition": "The freedom of being home alone, or having a place to oneself without supervision, allowing one to do as one pleases.",
+  "locale": "GERMAN",
+  "example": "HoneyBear and JellyBean enjoyed their sturmfrei afternoon, building a magnificent fort.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Sturmfrei",
+  "generatedDate": "Mon Oct 05 2026"
 }
