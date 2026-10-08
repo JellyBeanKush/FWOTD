@@ -1,10 +1,10 @@
 {
-  "word": "Sturmfrei",
-  "phonetic": "SHTOORM-fry",
-  "partOfSpeech": "adjective",
-  "definition": "The freedom of being home alone, or having a place to oneself without supervision, allowing one to do as one pleases.",
-  "locale": "GERMAN",
-  "example": "HoneyBear and JellyBean enjoyed their sturmfrei afternoon, building a magnificent fort.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Sturmfrei",
-  "generatedDate": "Mon Oct 05 2026"
+  "word": "Chindōgu",
+  "phonetic": "chin-DOH-goo",
+  "partOfSpeech": "noun",
+  "definition": "An ingenious everyday gadget that is almost, but not quite, entirely useful; it solves one problem but creates many new ones, making it impractical.",
+  "locale": "JAPANESE",
+  "example": "HoneyBear showed JellyBean his latest chindōgu, a self-stirring spoon that often splashed coffee.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Chind%C5%8Dgu",
+  "generatedDate": "Thu Oct 08 2026"
 }
