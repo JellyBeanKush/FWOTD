@@ -1,10 +1,10 @@
 {
-  "word": "Chindōgu",
-  "phonetic": "chin-DOH-goo",
+  "word": "Tsundoku",
+  "phonetic": "tsoon-DOH-koo",
   "partOfSpeech": "noun",
-  "definition": "An ingenious everyday gadget that is almost, but not quite, entirely useful; it solves one problem but creates many new ones, making it impractical.",
+  "definition": "The act of acquiring reading materials but letting them pile up unread.",
   "locale": "JAPANESE",
-  "example": "HoneyBear showed JellyBean his latest chindōgu, a self-stirring spoon that often splashed coffee.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Chind%C5%8Dgu",
-  "generatedDate": "Thu Oct 08 2026"
+  "example": "HoneyBear and JellyBean's growing piles of books were a clear case of tsundoku.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Tsundoku",
+  "generatedDate": "Fri Oct 09 2026"
 }
