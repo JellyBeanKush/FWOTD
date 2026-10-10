@@ -1,10 +1,10 @@
 {
-  "word": "Tsundoku",
-  "phonetic": "tsoon-DOH-koo",
+  "word": "Yuugen",
+  "phonetic": "yoo-gen",
   "partOfSpeech": "noun",
-  "definition": "The act of acquiring reading materials but letting them pile up unread.",
+  "definition": "A profound and mysterious sense of the beauty of the universe, evoking deep and subtle emotions.",
   "locale": "JAPANESE",
-  "example": "HoneyBear and JellyBean's growing piles of books were a clear case of tsundoku.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Tsundoku",
-  "generatedDate": "Fri Oct 09 2026"
+  "example": "HoneyBear found the misty mountain view incredibly yuugen, prompting JellyBean to pause and reflect too.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Y%C5%ABgen",
+  "generatedDate": "Sat Oct 10 2026"
 }
