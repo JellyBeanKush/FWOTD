@@ -1,10 +1,10 @@
 {
-  "word": "Yuugen",
-  "phonetic": "yoo-gen",
+  "word": "Sisu",
+  "phonetic": "SEE-soo",
   "partOfSpeech": "noun",
-  "definition": "A profound and mysterious sense of the beauty of the universe, evoking deep and subtle emotions.",
-  "locale": "JAPANESE",
-  "example": "HoneyBear found the misty mountain view incredibly yuugen, prompting JellyBean to pause and reflect too.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Y%C5%ABgen",
-  "generatedDate": "Sat Oct 10 2026"
+  "definition": "A concept describing strength of will, determination, perseverance, and acting rationally in the face of adversity. It is often described as stoic determination and courage.",
+  "locale": "FINNISH",
+  "example": "HoneyBear showed her sisu when she convinced JellyBean to finish their difficult puzzle.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Sisu",
+  "generatedDate": "Sun Oct 11 2026"
 }

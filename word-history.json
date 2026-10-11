@@ -1,5 +1,15 @@
 [
   {
+    "word": "Sisu",
+    "phonetic": "SEE-soo",
+    "partOfSpeech": "noun",
+    "definition": "A concept describing strength of will, determination, perseverance, and acting rationally in the face of adversity. It is often described as stoic determination and courage.",
+    "locale": "FINNISH",
+    "example": "HoneyBear showed her sisu when she convinced JellyBean to finish their difficult puzzle.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Sisu",
+    "generatedDate": "Sun Oct 11 2026"
+  },
+  {
     "word": "Yuugen",
     "phonetic": "yoo-gen",
     "partOfSpeech": "noun",
