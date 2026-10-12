@@ -1,10 +1,10 @@
 {
-  "word": "Sisu",
-  "phonetic": "SEE-soo",
+  "word": "Fika",
+  "phonetic": "FEE-ka",
   "partOfSpeech": "noun",
-  "definition": "A concept describing strength of will, determination, perseverance, and acting rationally in the face of adversity. It is often described as stoic determination and courage.",
-  "locale": "FINNISH",
-  "example": "HoneyBear showed her sisu when she convinced JellyBean to finish their difficult puzzle.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Sisu",
-  "generatedDate": "Sun Oct 11 2026"
+  "definition": "A social institution in Sweden that involves taking a break from activity to enjoy coffee, often with pastries, and converse with others.",
+  "locale": "SWEDISH",
+  "example": "HoneyBear and JellyBean enjoyed a delightful fika, sharing pastries and stories during their afternoon break.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Fika",
+  "generatedDate": "Mon Oct 12 2026"
 }
