@@ -1,10 +1,10 @@
 {
-  "word": "Gaman",
-  "phonetic": "GAH-mahn",
-  "partOfSpeech": "noun",
-  "definition": "To endure with patience and dignity what seems unbearable, often in times of adversity.",
-  "locale": "JAPANESE",
-  "example": "HoneyBear and JellyBean showed true Gaman, patiently waiting for their turn on the crowded swing set.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Gaman_(term)",
-  "generatedDate": "Tue Oct 13 2026"
+  "word": "Tingo",
+  "phonetic": "TIN-goh",
+  "partOfSpeech": "verb",
+  "definition": "The act of taking all the objects one desires from the house of a friend, one by one, by borrowing them.",
+  "locale": "PASCUENSE",
+  "example": "HoneyBear watched JellyBean tingo their entire board game collection, piece by piece, over the past month.",
+  "sourceUrl": "https://en.wiktionary.org/wiki/tingo#Pascuense",
+  "generatedDate": "Wed Oct 14 2026"
 }
