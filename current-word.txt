@@ -1,10 +1,10 @@
 {
-  "word": "Tingo",
-  "phonetic": "TIN-goh",
-  "partOfSpeech": "verb",
-  "definition": "The act of taking all the objects one desires from the house of a friend, one by one, by borrowing them.",
-  "locale": "PASCUENSE",
-  "example": "HoneyBear watched JellyBean tingo their entire board game collection, piece by piece, over the past month.",
-  "sourceUrl": "https://en.wiktionary.org/wiki/tingo#Pascuense",
-  "generatedDate": "Wed Oct 14 2026"
+  "word": "Wanderlust",
+  "phonetic": "VAHN-der-loost",
+  "partOfSpeech": "noun",
+  "definition": "A strong, inherent desire or impulse to travel and explore the world.",
+  "locale": "GERMAN",
+  "example": "HoneyBear and JellyBean, consumed by wanderlust, planned their next adventure to distant lands.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Wanderlust",
+  "generatedDate": "Thu Oct 15 2026"
 }

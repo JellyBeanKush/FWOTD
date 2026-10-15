@@ -1,5 +1,15 @@
 [
   {
+    "word": "Wanderlust",
+    "phonetic": "VAHN-der-loost",
+    "partOfSpeech": "noun",
+    "definition": "A strong, inherent desire or impulse to travel and explore the world.",
+    "locale": "GERMAN",
+    "example": "HoneyBear and JellyBean, consumed by wanderlust, planned their next adventure to distant lands.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Wanderlust",
+    "generatedDate": "Thu Oct 15 2026"
+  },
+  {
     "word": "Tingo",
     "phonetic": "TIN-goh",
     "partOfSpeech": "verb",
