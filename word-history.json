@@ -1,5 +1,15 @@
 [
   {
+    "word": "Pochemuchka",
+    "phonetic": "poh-cheh-MOOCH-kuh",
+    "partOfSpeech": "noun",
+    "definition": "A person, often a child, who asks too many questions; an inquisitive and persistent questioner.",
+    "locale": "RUSSIAN",
+    "example": "HoneyBear, always the pochemuchka, bombarded JellyBean with questions about their new adventure plans.",
+    "sourceUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%BE%D1%87%D0%B5%D0%BC%D1%83%D1%87%D0%BA%D0%B0",
+    "generatedDate": "Fri Oct 16 2026"
+  },
+  {
     "word": "Wanderlust",
     "phonetic": "VAHN-der-loost",
     "partOfSpeech": "noun",
