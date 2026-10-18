@@ -1,10 +1,10 @@
 {
-  "word": "Kummerspeck",
-  "phonetic": "KOOM-mer-shpeck",
+  "word": "Cafuné",
+  "phonetic": "kah-foo-NEH",
   "partOfSpeech": "noun",
-  "definition": "Excess weight gained from emotional overeating, often due to sorrow or stress.",
-  "locale": "GERMAN",
-  "example": "After a challenging project, HoneyBear and JellyBean realized they had accumulated some Kummerspeck.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Kummerspeck",
-  "generatedDate": "Sat Oct 17 2026"
+  "definition": "The act of tenderly running one's fingers through someone's hair or caressing their head.",
+  "locale": "PORTUGUESE",
+  "example": "HoneyBear gently gave JellyBean a loving cafuné while they watched the sunset together.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Cafun%C3%A9",
+  "generatedDate": "Sun Oct 18 2026"
 }
