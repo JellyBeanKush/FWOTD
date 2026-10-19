@@ -1,10 +1,10 @@
 {
-  "word": "Cafuné",
-  "phonetic": "kah-foo-NEH",
+  "word": "Iktsuarpok",
+  "phonetic": "eek-TWAR-pock",
   "partOfSpeech": "noun",
-  "definition": "The act of tenderly running one's fingers through someone's hair or caressing their head.",
-  "locale": "PORTUGUESE",
-  "example": "HoneyBear gently gave JellyBean a loving cafuné while they watched the sunset together.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Cafun%C3%A9",
-  "generatedDate": "Sun Oct 18 2026"
+  "definition": "The feeling of anticipation when waiting for someone to visit, and repeatedly checking outside to see if they are coming.",
+  "locale": "INUIT",
+  "example": "HoneyBear felt a strong Iktsuarpok, constantly peeking out the window for JellyBean's arrival.",
+  "sourceUrl": "https://www.atlasobscura.com/articles/a-lexicon-of-untranslatable-words",
+  "generatedDate": "Mon Oct 19 2026"
 }
