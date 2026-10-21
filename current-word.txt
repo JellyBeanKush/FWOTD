@@ -1,10 +1,10 @@
 {
-  "word": "Litost",
-  "phonetic": "LEE-tost",
+  "word": "Schadenfreude",
+  "phonetic": "SHAH-dn-froy-duh",
   "partOfSpeech": "noun",
-  "definition": "A state of torment created by the sudden insight into one's own misery, humiliation, or helplessness, often accompanied by a desire for revenge.",
-  "locale": "CZECH",
-  "example": "HoneyBear felt a pang of litost as JellyBean effortlessly solved the puzzle he had struggled with for hours.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Litost",
-  "generatedDate": "Tue Oct 20 2026"
+  "definition": "Pleasure derived from another person's misfortune.",
+  "locale": "GERMAN",
+  "example": "HoneyBear felt a tiny bit of Schadenfreude watching JellyBean stumble, then quickly helped them up.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Schadenfreude",
+  "generatedDate": "Wed Oct 21 2026"
 }
