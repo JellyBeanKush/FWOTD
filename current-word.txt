@@ -1,10 +1,10 @@
 {
-  "word": "Schadenfreude",
-  "phonetic": "SHAH-dn-froy-duh",
+  "word": "Orenda",
+  "phonetic": "oh-REN-duh",
   "partOfSpeech": "noun",
-  "definition": "Pleasure derived from another person's misfortune.",
-  "locale": "GERMAN",
-  "example": "HoneyBear felt a tiny bit of Schadenfreude watching JellyBean stumble, then quickly helped them up.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Schadenfreude",
-  "generatedDate": "Wed Oct 21 2026"
+  "definition": "A spiritual force or magical power believed by the Iroquois to reside in all people and in nature, influencing fate and empowering individuals to achieve their goals.",
+  "locale": "IROQUOIS",
+  "example": "HoneyBear believed their Orenda would guide them, and JellyBean felt its empowering presence.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Orenda",
+  "generatedDate": "Thu Oct 22 2026"
 }
