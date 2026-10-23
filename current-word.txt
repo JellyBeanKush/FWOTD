@@ -1,10 +1,10 @@
 {
-  "word": "Orenda",
-  "phonetic": "oh-REN-duh",
+  "word": "Toska",
+  "phonetic": "TOH-skuh",
   "partOfSpeech": "noun",
-  "definition": "A spiritual force or magical power believed by the Iroquois to reside in all people and in nature, influencing fate and empowering individuals to achieve their goals.",
-  "locale": "IROQUOIS",
-  "example": "HoneyBear believed their Orenda would guide them, and JellyBean felt its empowering presence.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Orenda",
-  "generatedDate": "Thu Oct 22 2026"
+  "definition": "A profound spiritual anguish, often without a specific cause; a dull ache of the soul; a vague restlessness.",
+  "locale": "RUSSIAN",
+  "example": "HoneyBear felt a deep toska, seeing JellyBean lost in thought by the window.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Toska",
+  "generatedDate": "Fri Oct 23 2026"
 }
