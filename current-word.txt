@@ -1,10 +1,10 @@
 {
-  "word": "Kairos",
-  "phonetic": "KAI-ros",
+  "word": "Cwtch",
+  "phonetic": "kuh-TOOCH",
   "partOfSpeech": "noun",
-  "definition": "The opportune or critical moment for action, a propitious or decisive time.",
-  "locale": "ANCIENT GREEK",
-  "example": "HoneyBear recognized the Kairos to finally confess their feelings to JellyBean.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Kairos",
-  "generatedDate": "Sat Oct 24 2026"
+  "definition": "A hug or cuddle that implies a safe, warm, and protective embrace, often also referring to a safe place or cubbyhole.",
+  "locale": "WELSH",
+  "example": "HoneyBear gave JellyBean a comforting cwtch after a long day, making them feel completely safe.",
+  "sourceUrl": "https://en.wiktionary.org/wiki/cwtch",
+  "generatedDate": "Sun Oct 25 2026"
 }
