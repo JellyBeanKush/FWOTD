@@ -1,10 +1,10 @@
 {
-  "word": "Cwtch",
-  "phonetic": "kuh-TOOCH",
+  "word": "Mizpah",
+  "phonetic": "MIZ-pah",
   "partOfSpeech": "noun",
-  "definition": "A hug or cuddle that implies a safe, warm, and protective embrace, often also referring to a safe place or cubbyhole.",
-  "locale": "WELSH",
-  "example": "HoneyBear gave JellyBean a comforting cwtch after a long day, making them feel completely safe.",
-  "sourceUrl": "https://en.wiktionary.org/wiki/cwtch",
-  "generatedDate": "Sun Oct 25 2026"
+  "definition": "A deep emotional bond between people, especially those separated by distance or death, often associated with a biblical quote meaning 'The Lord watch between me and thee, when we are absent one from another.'",
+  "locale": "HEBREW",
+  "example": "HoneyBear and JellyBean felt a strong Mizpah, even when they were on different continents.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Mizpah",
+  "generatedDate": "Mon Oct 26 2026"
 }
