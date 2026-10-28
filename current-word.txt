@@ -1,10 +1,10 @@
 {
-  "word": "Mizpah",
-  "phonetic": "MIZ-pah",
-  "partOfSpeech": "noun",
-  "definition": "A deep emotional bond between people, especially those separated by distance or death, often associated with a biblical quote meaning 'The Lord watch between me and thee, when we are absent one from another.'",
-  "locale": "HEBREW",
-  "example": "HoneyBear and JellyBean felt a strong Mizpah, even when they were on different continents.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Mizpah",
-  "generatedDate": "Mon Oct 26 2026"
+  "word": "Ya'aburnee",
+  "phonetic": "yah-ah-BUR-nee",
+  "partOfSpeech": "expression",
+  "definition": "A declaration of one's hope to die before another person, because of how unbearable life would be without them.",
+  "locale": "ARABIC",
+  "example": "HoneyBear whispered 'Ya'aburnee' to JellyBean, expressing their deep, inseparable bond and love.",
+  "sourceUrl": "https://www.babbel.com/en/magazine/untranslatable-words-arabic",
+  "generatedDate": "Wed Oct 28 2026"
 }
