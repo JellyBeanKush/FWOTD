@@ -1,10 +1,10 @@
 {
-  "word": "Ya'aburnee",
-  "phonetic": "yah-ah-BUR-nee",
-  "partOfSpeech": "expression",
-  "definition": "A declaration of one's hope to die before another person, because of how unbearable life would be without them.",
-  "locale": "ARABIC",
-  "example": "HoneyBear whispered 'Ya'aburnee' to JellyBean, expressing their deep, inseparable bond and love.",
-  "sourceUrl": "https://www.babbel.com/en/magazine/untranslatable-words-arabic",
-  "generatedDate": "Wed Oct 28 2026"
+  "word": "Dérive",
+  "phonetic": "deh-REEV",
+  "partOfSpeech": "noun",
+  "definition": "An unplanned journey through an urban landscape, usually to explore and experience the environment and its psychological effects.",
+  "locale": "FRENCH",
+  "example": "HoneyBear and JellyBean's spontaneous dérive through the bustling market revealed hidden gems and new perspectives.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/D%C3%A9rive",
+  "generatedDate": "Thu Oct 29 2026"
 }
