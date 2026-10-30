@@ -1,10 +1,10 @@
 {
-  "word": "Dérive",
-  "phonetic": "deh-REEV",
+  "word": "Kalon",
+  "phonetic": "ka-LON",
   "partOfSpeech": "noun",
-  "definition": "An unplanned journey through an urban landscape, usually to explore and experience the environment and its psychological effects.",
-  "locale": "FRENCH",
-  "example": "HoneyBear and JellyBean's spontaneous dérive through the bustling market revealed hidden gems and new perspectives.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/D%C3%A9rive",
-  "generatedDate": "Thu Oct 29 2026"
+  "definition": "The ideal of physical and moral beauty, especially as conceived by classical Greek philosophers.",
+  "locale": "GREEK",
+  "example": "HoneyBear admired the kalon of the sunset, sharing the beautiful moment with JellyBean.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Kalon",
+  "generatedDate": "Fri Oct 30 2026"
 }
