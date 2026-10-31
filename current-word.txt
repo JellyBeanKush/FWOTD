@@ -1,10 +1,10 @@
 {
-  "word": "Kalon",
-  "phonetic": "ka-LON",
+  "word": "Saudade",
+  "phonetic": "sah-oo-DAH-djee",
   "partOfSpeech": "noun",
-  "definition": "The ideal of physical and moral beauty, especially as conceived by classical Greek philosophers.",
-  "locale": "GREEK",
-  "example": "HoneyBear admired the kalon of the sunset, sharing the beautiful moment with JellyBean.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Kalon",
-  "generatedDate": "Fri Oct 30 2026"
+  "definition": "A deep emotional state of nostalgic or profound melancholic longing for an absent something or someone that one loves. It often carries a repressed knowledge that the object of longing might never return.",
+  "locale": "PORTUGUESE",
+  "example": "HoneyBear felt a deep saudade for JellyBean, wishing for their comforting presence once more.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Saudade",
+  "generatedDate": "Sat Oct 31 2026"
 }
