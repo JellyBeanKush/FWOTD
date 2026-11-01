@@ -1,10 +1,10 @@
 {
-  "word": "Saudade",
-  "phonetic": "sah-oo-DAH-djee",
+  "word": "Duende",
+  "phonetic": "doo-EN-deh",
   "partOfSpeech": "noun",
-  "definition": "A deep emotional state of nostalgic or profound melancholic longing for an absent something or someone that one loves. It often carries a repressed knowledge that the object of longing might never return.",
-  "locale": "PORTUGUESE",
-  "example": "HoneyBear felt a deep saudade for JellyBean, wishing for their comforting presence once more.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Saudade",
-  "generatedDate": "Sat Oct 31 2026"
+  "definition": "A sense of heightened emotion, authenticity, and inspiration, often associated with artistic performance, particularly flamenco, that can deeply move an audience.",
+  "locale": "SPANISH",
+  "example": "HoneyBear felt a profound duende in JellyBean's passionate guitar solo, captivating the whole crowd.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Duende_(art_term)",
+  "generatedDate": "Sun Nov 01 2026"
 }

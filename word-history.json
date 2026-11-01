@@ -1,5 +1,15 @@
 [
   {
+    "word": "Duende",
+    "phonetic": "doo-EN-deh",
+    "partOfSpeech": "noun",
+    "definition": "A sense of heightened emotion, authenticity, and inspiration, often associated with artistic performance, particularly flamenco, that can deeply move an audience.",
+    "locale": "SPANISH",
+    "example": "HoneyBear felt a profound duende in JellyBean's passionate guitar solo, captivating the whole crowd.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Duende_(art_term)",
+    "generatedDate": "Sun Nov 01 2026"
+  },
+  {
     "word": "Saudade",
     "phonetic": "sah-oo-DAH-djee",
     "partOfSpeech": "noun",
