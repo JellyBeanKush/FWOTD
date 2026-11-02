@@ -1,10 +1,10 @@
 {
-  "word": "Duende",
-  "phonetic": "doo-EN-deh",
+  "word": "Jayus",
+  "phonetic": "jah-YOOS",
   "partOfSpeech": "noun",
-  "definition": "A sense of heightened emotion, authenticity, and inspiration, often associated with artistic performance, particularly flamenco, that can deeply move an audience.",
-  "locale": "SPANISH",
-  "example": "HoneyBear felt a profound duende in JellyBean's passionate guitar solo, captivating the whole crowd.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Duende_(art_term)",
-  "generatedDate": "Sun Nov 01 2026"
+  "definition": "A joke so unfunny and poorly told that you can't help but laugh, not because it's genuinely humorous, but due to its sheer awkwardness or absurdity.",
+  "locale": "INDONESIAN",
+  "example": "HoneyBear told a *jayus* joke, making JellyBean laugh uncontrollably at its sheer absurdity.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Indonesian_language",
+  "generatedDate": "Mon Nov 02 2026"
 }
