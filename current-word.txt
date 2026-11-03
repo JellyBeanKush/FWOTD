@@ -1,10 +1,10 @@
 {
-  "word": "Jayus",
-  "phonetic": "jah-YOOS",
+  "word": "Retrouvailles",
+  "phonetic": "ruh-troo-VAI",
   "partOfSpeech": "noun",
-  "definition": "A joke so unfunny and poorly told that you can't help but laugh, not because it's genuinely humorous, but due to its sheer awkwardness or absurdity.",
-  "locale": "INDONESIAN",
-  "example": "HoneyBear told a *jayus* joke, making JellyBean laugh uncontrollably at its sheer absurdity.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Indonesian_language",
-  "generatedDate": "Mon Nov 02 2026"
+  "definition": "The joy of meeting again after a long separation; a reunion.",
+  "locale": "FRENCH",
+  "example": "HoneyBear and JellyBean shared a warm embrace, their retrouvailles a moment of pure happiness.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Retrouvailles",
+  "generatedDate": "Tue Nov 03 2026"
 }
