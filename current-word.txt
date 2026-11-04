@@ -1,10 +1,10 @@
 {
-  "word": "Retrouvailles",
-  "phonetic": "ruh-troo-VAI",
+  "word": "Gezelligheid",
+  "phonetic": "geh-ZEL-likh-heyt",
   "partOfSpeech": "noun",
-  "definition": "The joy of meeting again after a long separation; a reunion.",
-  "locale": "FRENCH",
-  "example": "HoneyBear and JellyBean shared a warm embrace, their retrouvailles a moment of pure happiness.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Retrouvailles",
-  "generatedDate": "Tue Nov 03 2026"
+  "definition": "A Dutch concept that describes a feeling of coziness, conviviality, or pleasant togetherness, often related to atmosphere or company.",
+  "locale": "DUTCH",
+  "example": "HoneyBear and JellyBean cherished the gezelligheid of their small, candlelit home on a chilly evening.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Gezelligheid",
+  "generatedDate": "Wed Nov 04 2026"
 }
