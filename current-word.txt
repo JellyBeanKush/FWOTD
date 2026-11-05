@@ -1,10 +1,10 @@
 {
-  "word": "Gezelligheid",
-  "phonetic": "geh-ZEL-likh-heyt",
-  "partOfSpeech": "noun",
-  "definition": "A Dutch concept that describes a feeling of coziness, conviviality, or pleasant togetherness, often related to atmosphere or company.",
-  "locale": "DUTCH",
-  "example": "HoneyBear and JellyBean cherished the gezelligheid of their small, candlelit home on a chilly evening.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Gezelligheid",
-  "generatedDate": "Wed Nov 04 2026"
+  "word": "Lagom",
+  "phonetic": "LAH-gom",
+  "partOfSpeech": "adjective",
+  "definition": "Just the right amount; not too much, not too little. It embodies the concept of 'enough, sufficient, adequate, just right'.",
+  "locale": "SWEDISH",
+  "example": "HoneyBear thought the portion of cake JellyBean offered was lagom, just right for an afternoon treat.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Lagom",
+  "generatedDate": "Thu Nov 05 2026"
 }

@@ -1,5 +1,15 @@
 [
   {
+    "word": "Lagom",
+    "phonetic": "LAH-gom",
+    "partOfSpeech": "adjective",
+    "definition": "Just the right amount; not too much, not too little. It embodies the concept of 'enough, sufficient, adequate, just right'.",
+    "locale": "SWEDISH",
+    "example": "HoneyBear thought the portion of cake JellyBean offered was lagom, just right for an afternoon treat.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Lagom",
+    "generatedDate": "Thu Nov 05 2026"
+  },
+  {
     "word": "Gezelligheid",
     "phonetic": "geh-ZEL-likh-heyt",
     "partOfSpeech": "noun",
