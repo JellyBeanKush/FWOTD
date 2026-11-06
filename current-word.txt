@@ -1,10 +1,10 @@
 {
-  "word": "Lagom",
-  "phonetic": "LAH-gom",
-  "partOfSpeech": "adjective",
-  "definition": "Just the right amount; not too much, not too little. It embodies the concept of 'enough, sufficient, adequate, just right'.",
-  "locale": "SWEDISH",
-  "example": "HoneyBear thought the portion of cake JellyBean offered was lagom, just right for an afternoon treat.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Lagom",
-  "generatedDate": "Thu Nov 05 2026"
+  "word": "Eudaimonia",
+  "phonetic": "yoo-dy-MOH-nee-uh",
+  "partOfSpeech": "noun",
+  "definition": "A state of human flourishing or living well, often translated as happiness, but implying a deeper, more profound sense of fulfillment and virtue achieved through good living.",
+  "locale": "ANCIENT GREEK",
+  "example": "Achieving eudaimonia was HoneyBear's lifelong goal, which JellyBean genuinely supported.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Eudaimonia",
+  "generatedDate": "Fri Nov 06 2026"
 }
