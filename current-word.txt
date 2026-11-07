@@ -1,10 +1,10 @@
 {
-  "word": "Eudaimonia",
-  "phonetic": "yoo-dy-MOH-nee-uh",
+  "word": "Wabi-sabi",
+  "phonetic": "wah-bee sah-bee",
   "partOfSpeech": "noun",
-  "definition": "A state of human flourishing or living well, often translated as happiness, but implying a deeper, more profound sense of fulfillment and virtue achieved through good living.",
-  "locale": "ANCIENT GREEK",
-  "example": "Achieving eudaimonia was HoneyBear's lifelong goal, which JellyBean genuinely supported.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Eudaimonia",
-  "generatedDate": "Fri Nov 06 2026"
+  "definition": "A Japanese aesthetic and worldview centered on the acceptance of transience and imperfection, often described as beauty that is imperfect, impermanent, and incomplete.",
+  "locale": "JAPANESE",
+  "example": "HoneyBear and JellyBean admired the wabi-sabi in the ancient, chipped vase, appreciating its history and flaws.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Wabi-sabi",
+  "generatedDate": "Sat Nov 07 2026"
 }
