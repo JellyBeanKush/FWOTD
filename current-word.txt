@@ -1,10 +1,10 @@
 {
-  "word": "Wabi-sabi",
-  "phonetic": "wah-bee sah-bee",
+  "word": "Desenrascanço",
+  "phonetic": "deh-zen-HRRAHN-kan-soo",
   "partOfSpeech": "noun",
-  "definition": "A Japanese aesthetic and worldview centered on the acceptance of transience and imperfection, often described as beauty that is imperfect, impermanent, and incomplete.",
-  "locale": "JAPANESE",
-  "example": "HoneyBear and JellyBean admired the wabi-sabi in the ancient, chipped vase, appreciating its history and flaws.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Wabi-sabi",
-  "generatedDate": "Sat Nov 07 2026"
+  "definition": "The art of improvising a clever solution to a problem using limited resources or knowledge.",
+  "locale": "PORTUGUESE",
+  "example": "HoneyBear marveled at JellyBean's desenrascanço, fixing the broken toy with just a paperclip.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Desenrascan%C3%A7o",
+  "generatedDate": "Sun Nov 08 2026"
 }
