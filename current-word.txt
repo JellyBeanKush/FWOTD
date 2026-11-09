@@ -1,10 +1,10 @@
 {
-  "word": "Desenrascanço",
-  "phonetic": "deh-zen-HRRAHN-kan-soo",
+  "word": "Sehnsucht",
+  "phonetic": "ZEN-zookt",
   "partOfSpeech": "noun",
-  "definition": "The art of improvising a clever solution to a problem using limited resources or knowledge.",
-  "locale": "PORTUGUESE",
-  "example": "HoneyBear marveled at JellyBean's desenrascanço, fixing the broken toy with just a paperclip.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Desenrascan%C3%A7o",
-  "generatedDate": "Sun Nov 08 2026"
+  "definition": "A deep yearning or longing for something distant, often an idealized or unattainable object, place, or state of being, frequently accompanied by melancholy.",
+  "locale": "GERMAN",
+  "example": "HoneyBear felt a deep Sehnsucht for adventures past, a longing JellyBean understood perfectly.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Sehnsucht",
+  "generatedDate": "Mon Nov 09 2026"
 }
