@@ -1,10 +1,10 @@
 {
-  "word": "Vorfreude",
-  "phonetic": "FOR-froy-duh",
+  "word": "Koi No Yokan",
+  "phonetic": "koh-ee noh yoh-kahn",
   "partOfSpeech": "noun",
-  "definition": "The joyful, eager anticipation of future pleasure or happiness.",
-  "locale": "GERMAN",
-  "example": "HoneyBear and JellyBean shared a deep Vorfreude for their upcoming vacation together.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Vorfreude",
-  "generatedDate": "Tue Nov 10 2026"
+  "definition": "The premonition of love; the feeling you get when you meet someone and know you will fall in love with them, though you haven't yet.",
+  "locale": "JAPANESE",
+  "example": "HoneyBear felt a strong Koi No Yokan when JellyBean first smiled at them across the café.",
+  "sourceUrl": "https://www.tofugu.com/japanese/koi-no-yokan/",
+  "generatedDate": "Wed Nov 11 2026"
 }
