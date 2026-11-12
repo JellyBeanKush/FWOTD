@@ -1,10 +1,10 @@
 {
-  "word": "Koi No Yokan",
-  "phonetic": "koh-ee noh yoh-kahn",
+  "word": "Meraki",
+  "phonetic": "meh-RAH-kee",
   "partOfSpeech": "noun",
-  "definition": "The premonition of love; the feeling you get when you meet someone and know you will fall in love with them, though you haven't yet.",
-  "locale": "JAPANESE",
-  "example": "HoneyBear felt a strong Koi No Yokan when JellyBean first smiled at them across the café.",
-  "sourceUrl": "https://www.tofugu.com/japanese/koi-no-yokan/",
-  "generatedDate": "Wed Nov 11 2026"
+  "definition": "To do something with soul, creativity, or love; to put something of yourself into your work.",
+  "locale": "GREEK",
+  "example": "HoneyBear and JellyBean imbued their craft project with such meraki that it glowed with their passion.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Meraki",
+  "generatedDate": "Thu Nov 12 2026"
 }
