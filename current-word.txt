@@ -1,10 +1,10 @@
 {
-  "word": "Meraki",
-  "phonetic": "meh-RAH-kee",
+  "word": "Waldeinsamkeit",
+  "phonetic": "VAHLT-ayn-zahm-kyte",
   "partOfSpeech": "noun",
-  "definition": "To do something with soul, creativity, or love; to put something of yourself into your work.",
-  "locale": "GREEK",
-  "example": "HoneyBear and JellyBean imbued their craft project with such meraki that it glowed with their passion.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Meraki",
-  "generatedDate": "Thu Nov 12 2026"
+  "definition": "The feeling of solitude and a deep connection with nature while being alone in the woods.",
+  "locale": "GERMAN",
+  "example": "HoneyBear and JellyBean found Waldeinsamkeit during their hike, embracing the tranquil forest atmosphere.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Waldeinsamkeit",
+  "generatedDate": "Sat Nov 14 2026"
 }
