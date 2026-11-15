@@ -1,10 +1,10 @@
 {
-  "word": "Waldeinsamkeit",
-  "phonetic": "VAHLT-ayn-zahm-kyte",
+  "word": "Mono no aware",
+  "phonetic": "moh-noh-noh-AH-wah-reh",
   "partOfSpeech": "noun",
-  "definition": "The feeling of solitude and a deep connection with nature while being alone in the woods.",
-  "locale": "GERMAN",
-  "example": "HoneyBear and JellyBean found Waldeinsamkeit during their hike, embracing the tranquil forest atmosphere.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Waldeinsamkeit",
-  "generatedDate": "Sat Nov 14 2026"
+  "definition": "A profound, gentle sadness at the passing of things and a poignant appreciation of their transient beauty, evoking a sense of wistful melancholy for the impermanence of existence.",
+  "locale": "JAPANESE",
+  "example": "HoneyBear and JellyBean felt a shared mono no aware as the last autumn leaves fell from the old oak.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Mono_no_aware",
+  "generatedDate": "Sun Nov 15 2026"
 }
