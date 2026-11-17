@@ -1,5 +1,15 @@
 [
   {
+    "word": "Hiraeth",
+    "phonetic": "heer-EYETH",
+    "partOfSpeech": "noun",
+    "definition": "A deep longing for something, especially one's home or country, that may or may not exist, or never existed; a homesickness for a home to which you cannot return, or a home that never was.",
+    "locale": "WELSH",
+    "example": "HoneyBear and JellyBean shared a quiet moment, both feeling a pang of hiraeth for their childhood treehouse.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Hiraeth",
+    "generatedDate": "Tue Nov 17 2026"
+  },
+  {
     "word": "L'appel du vide",
     "phonetic": "Lah-PELL doo VEED",
     "partOfSpeech": "noun phrase",
