@@ -1,10 +1,10 @@
 {
-  "word": "Hiraeth",
-  "phonetic": "heer-EYETH",
+  "word": "Ikigai",
+  "phonetic": "ee-kee-GAH-ee",
   "partOfSpeech": "noun",
-  "definition": "A deep longing for something, especially one's home or country, that may or may not exist, or never existed; a homesickness for a home to which you cannot return, or a home that never was.",
-  "locale": "WELSH",
-  "example": "HoneyBear and JellyBean shared a quiet moment, both feeling a pang of hiraeth for their childhood treehouse.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Hiraeth",
-  "generatedDate": "Tue Nov 17 2026"
+  "definition": "A Japanese concept meaning 'a reason for being' or 'a reason to wake up in the morning.' It encompasses finding joy, purpose, and a sense of value in life through activities one enjoys.",
+  "locale": "JAPANESE",
+  "example": "HoneyBear and JellyBean discussed their ikigai, realizing their shared passion for baking brought immense fulfillment.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Ikigai",
+  "generatedDate": "Wed Nov 18 2026"
 }
