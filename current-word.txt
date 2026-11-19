@@ -1,10 +1,10 @@
 {
-  "word": "Ikigai",
-  "phonetic": "ee-kee-GAH-ee",
-  "partOfSpeech": "noun",
-  "definition": "A Japanese concept meaning 'a reason for being' or 'a reason to wake up in the morning.' It encompasses finding joy, purpose, and a sense of value in life through activities one enjoys.",
-  "locale": "JAPANESE",
-  "example": "HoneyBear and JellyBean discussed their ikigai, realizing their shared passion for baking brought immense fulfillment.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Ikigai",
-  "generatedDate": "Wed Nov 18 2026"
+  "word": "Kilig",
+  "phonetic": "KEE-lig",
+  "partOfSpeech": "noun/adjective",
+  "definition": "The inexplicable feeling of joy or giddiness, often associated with a romantic crush or excitement, like having butterflies in the stomach.",
+  "locale": "TAGALOG",
+  "example": "HoneyBear felt a sudden kilig when JellyBean smiled, making her cheeks flush.",
+  "sourceUrl": "https://en.wiktionary.org/wiki/kilig",
+  "generatedDate": "Thu Nov 19 2026"
 }
