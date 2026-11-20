@@ -1,10 +1,10 @@
 {
-  "word": "Kilig",
-  "phonetic": "KEE-lig",
-  "partOfSpeech": "noun/adjective",
-  "definition": "The inexplicable feeling of joy or giddiness, often associated with a romantic crush or excitement, like having butterflies in the stomach.",
-  "locale": "TAGALOG",
-  "example": "HoneyBear felt a sudden kilig when JellyBean smiled, making her cheeks flush.",
-  "sourceUrl": "https://en.wiktionary.org/wiki/kilig",
-  "generatedDate": "Thu Nov 19 2026"
+  "word": "Mångata",
+  "phonetic": "mong-GAH-tah",
+  "partOfSpeech": "noun",
+  "definition": "The shimmering, road-like reflection of the moon on water.",
+  "locale": "SWEDISH",
+  "example": "HoneyBear and JellyBean admired the enchanting mångata stretching across the lake.",
+  "sourceUrl": "https://en.wiktionary.org/wiki/m%C3%A5ngata",
+  "generatedDate": "Fri Nov 20 2026"
 }
