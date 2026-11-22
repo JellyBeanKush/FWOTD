@@ -1,10 +1,10 @@
 {
-  "word": "Gökotta",
-  "phonetic": "yer-KOHT-tah",
+  "word": "Firgun",
+  "phonetic": "feer-GOON",
   "partOfSpeech": "noun",
-  "definition": "The act of waking up early in the morning to go outside and listen to the birds sing.",
-  "locale": "SWEDISH",
-  "example": "HoneyBear and JellyBean experienced a serene gökotta, enjoying the first light and birdsong.",
-  "sourceUrl": "https://en.wiktionary.org/wiki/g%C3%B6kotta",
-  "generatedDate": "Sat Nov 21 2026"
+  "definition": "The act of sharing in or expressing genuine, unselfish delight at the success or good fortune of another person; it is about giving compliments and being happy for someone else without jealousy.",
+  "locale": "HEBREW",
+  "example": "HoneyBear felt a strong sense of firgun watching JellyBean's triumphant performance on stage.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Firgun",
+  "generatedDate": "Sun Nov 22 2026"
 }
