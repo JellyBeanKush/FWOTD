@@ -1,10 +1,10 @@
 {
-  "word": "Firgun",
-  "phonetic": "feer-GOON",
-  "partOfSpeech": "noun",
-  "definition": "The act of sharing in or expressing genuine, unselfish delight at the success or good fortune of another person; it is about giving compliments and being happy for someone else without jealousy.",
-  "locale": "HEBREW",
-  "example": "HoneyBear felt a strong sense of firgun watching JellyBean's triumphant performance on stage.",
-  "sourceUrl": "https://en.wikipedia.org/wiki/Firgun",
-  "generatedDate": "Sun Nov 22 2026"
+  "word": "Pana Poʻo",
+  "phonetic": "pah-nah POH-oh",
+  "partOfSpeech": "verb",
+  "definition": "To scratch one's head in an effort to remember something or to retrieve a forgotten memory.",
+  "locale": "HAWAIIAN",
+  "example": "HoneyBear and JellyBean were both pana poʻo, trying to recall where they buried their treasure map.",
+  "sourceUrl": "https://en.wiktionary.org/wiki/Pana_po%CA%BBo",
+  "generatedDate": "Tue Nov 24 2026"
 }
